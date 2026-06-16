@@ -26,6 +26,9 @@ def run_scan(settings: Settings) -> None:
     else:
         symbols = collector.discover_symbols(settings.min_quote_volume)
     btc = collector.fetch_series("BTCUSDT", settings.scan_interval)
+    if repository.has_scan(btc.latest.close_time):
+        print(f"Scan already processed: {btc.latest.close_time.isoformat()}")
+        return
 
     markets = []
     with ThreadPoolExecutor(max_workers=8) as executor:

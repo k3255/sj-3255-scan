@@ -24,14 +24,7 @@ class JSONRepository:
     def save_report(self, report: ScanReport) -> None:
         self.migrate()
         payload = self._report_payload(report)
-        scan_time = report.scan_time
-        history_path = (
-            self.history_dir
-            / f"{scan_time:%Y}"
-            / f"{scan_time:%m}"
-            / f"{scan_time:%d}"
-            / f"{scan_time:%H%M}.json"
-        )
+        history_path = self.history_path(report.scan_time)
         self._write_json(history_path, payload)
         self._write_json(self.ranking_dir / "latest.json", {"time": payload["scanTime"], "ranking": payload["ranking"]})
         self._write_json(self.ranking_dir / "top10.json", {"time": payload["scanTime"], "ranking": payload["top10"]})
@@ -43,6 +36,18 @@ class JSONRepository:
         self._write_json(self.dashboard_dir / "trend.json", self._trend_payload())
         self._write_json(self.dashboard_dir / "heatmap.json", self._heatmap_payload(report))
         (self.dashboard_dir / "index.html").write_text(DASHBOARD_HTML, encoding="utf-8")
+
+    def has_scan(self, scan_time) -> bool:
+        return self.history_path(scan_time).exists()
+
+    def history_path(self, scan_time) -> Path:
+        return (
+            self.history_dir
+            / f"{scan_time:%Y}"
+            / f"{scan_time:%m}"
+            / f"{scan_time:%d}"
+            / f"{scan_time:%H%M}.json"
+        )
 
     def leading_scores(self) -> dict[str, float]:
         events: dict[str, list[bool]] = {}

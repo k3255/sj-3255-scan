@@ -42,6 +42,7 @@ def test_repository_saves_and_reads_latest(tmp_path) -> None:
     latest = repository.latest_results(limit=1)
     assert latest[0]["symbol"] == "LINK"
     assert repository.previous_top10() == {"LINKUSDT", "SOLUSDT"}
+    assert repository.has_scan(datetime(2026, 1, 1, tzinfo=timezone.utc)) is True
     assert (tmp_path / "data" / "history" / "2026" / "01" / "01" / "0000.json").exists()
     assert (tmp_path / "data" / "ranking" / "latest.json").exists()
     assert (tmp_path / "data" / "dashboard" / "dashboard.json").exists()

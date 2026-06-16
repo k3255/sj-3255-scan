@@ -2,7 +2,7 @@ name: scan
 
 on:
   schedule:
-    - cron: "2 16,20,0,4,8,12 * * *"
+    - cron: "7,17,27 16,20,0,4,8,12 * * *"
   workflow_dispatch:
 
 permissions:
