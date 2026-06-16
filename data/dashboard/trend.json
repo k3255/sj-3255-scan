@@ -23,6 +23,12 @@
       "btcReturn": -0.9351,
       "altSeasonIndex": 30.0,
       "leader": "BSB"
+    },
+    {
+      "scanTime": "2026-06-16T19:59:59.999000+00:00",
+      "btcReturn": -0.2777,
+      "altSeasonIndex": 55.0,
+      "leader": "BSB"
     }
   ]
 }
