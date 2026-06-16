@@ -44,12 +44,13 @@ def run_scan(settings: Settings) -> None:
 
     text = render_text_report(report)
     image_path = ImageReportGenerator(settings.report_dir).generate(report)
-    TelegramPublisher(settings.telegram_bot_token, settings.telegram_chat_id).publish(text, image_path)
+    telegram_sent = TelegramPublisher(settings.telegram_bot_token, settings.telegram_chat_id).publish(text, image_path)
     if settings.enable_git_versioning:
         GitVersioner(remote=settings.git_remote, branch=settings.git_branch).commit_and_push(
             f"Update scan data {report.scan_time.isoformat()}"
         )
     print(text)
+    print(f"Telegram sent: {telegram_sent}")
     if image_path:
         print(f"Image report: {image_path}")
 
