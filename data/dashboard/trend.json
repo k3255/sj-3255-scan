@@ -11,6 +11,12 @@
       "btcReturn": -0.0561,
       "altSeasonIndex": 58.82,
       "leader": "EVAA"
+    },
+    {
+      "scanTime": "2026-06-16T07:59:59.999000+00:00",
+      "btcReturn": 0.3256,
+      "altSeasonIndex": 55.0,
+      "leader": "BSB"
     }
   ]
 }
