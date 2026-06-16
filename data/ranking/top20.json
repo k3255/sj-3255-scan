@@ -15,8 +15,8 @@
       "trendScore": 88.33,
       "leadingScore": 50.0,
       "volatilityScore": 80.25,
-      "top10Streak": 3,
-      "top20Streak": 3
+      "top10Streak": 4,
+      "top20Streak": 4
     },
     {
       "rank": 2,
@@ -32,8 +32,8 @@
       "trendScore": 100.0,
       "leadingScore": 50.0,
       "volatilityScore": 72.34,
-      "top10Streak": 7,
-      "top20Streak": 7
+      "top10Streak": 8,
+      "top20Streak": 8
     },
     {
       "rank": 3,
@@ -49,8 +49,8 @@
       "trendScore": 86.97,
       "leadingScore": 50.0,
       "volatilityScore": 71.18,
-      "top10Streak": 7,
-      "top20Streak": 7
+      "top10Streak": 8,
+      "top20Streak": 8
     },
     {
       "rank": 4,
@@ -66,8 +66,8 @@
       "trendScore": 100.0,
       "leadingScore": 50.0,
       "volatilityScore": 74.01,
-      "top10Streak": 4,
-      "top20Streak": 7
+      "top10Streak": 5,
+      "top20Streak": 8
     },
     {
       "rank": 5,
@@ -83,8 +83,8 @@
       "trendScore": 100.0,
       "leadingScore": 50.0,
       "volatilityScore": 87.03,
-      "top10Streak": 3,
-      "top20Streak": 3
+      "top10Streak": 4,
+      "top20Streak": 4
     },
     {
       "rank": 6,
@@ -100,8 +100,8 @@
       "trendScore": 88.84,
       "leadingScore": 50.0,
       "volatilityScore": 84.29,
-      "top10Streak": 3,
-      "top20Streak": 7
+      "top10Streak": 4,
+      "top20Streak": 8
     },
     {
       "rank": 7,
@@ -117,8 +117,8 @@
       "trendScore": 73.66,
       "leadingScore": 50.0,
       "volatilityScore": 87.68,
-      "top10Streak": 3,
-      "top20Streak": 7
+      "top10Streak": 4,
+      "top20Streak": 8
     },
     {
       "rank": 8,
@@ -134,8 +134,8 @@
       "trendScore": 82.48,
       "leadingScore": 50.0,
       "volatilityScore": 94.5,
-      "top10Streak": 3,
-      "top20Streak": 3
+      "top10Streak": 4,
+      "top20Streak": 4
     },
     {
       "rank": 9,
@@ -151,8 +151,8 @@
       "trendScore": 99.41,
       "leadingScore": 50.0,
       "volatilityScore": 77.39,
-      "top10Streak": 3,
-      "top20Streak": 7
+      "top10Streak": 4,
+      "top20Streak": 8
     },
     {
       "rank": 10,
@@ -168,8 +168,8 @@
       "trendScore": 80.97,
       "leadingScore": 50.0,
       "volatilityScore": 86.61,
-      "top10Streak": 3,
-      "top20Streak": 7
+      "top10Streak": 4,
+      "top20Streak": 8
     },
     {
       "rank": 11,
@@ -186,7 +186,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 85.92,
       "top10Streak": 0,
-      "top20Streak": 7
+      "top20Streak": 8
     },
     {
       "rank": 12,
@@ -203,7 +203,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 73.06,
       "top10Streak": 0,
-      "top20Streak": 3
+      "top20Streak": 4
     },
     {
       "rank": 13,
@@ -220,7 +220,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 96.35,
       "top10Streak": 0,
-      "top20Streak": 3
+      "top20Streak": 4
     },
     {
       "rank": 14,
@@ -237,7 +237,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 93.42,
       "top10Streak": 0,
-      "top20Streak": 3
+      "top20Streak": 4
     },
     {
       "rank": 15,
@@ -254,7 +254,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 90.2,
       "top10Streak": 0,
-      "top20Streak": 3
+      "top20Streak": 4
     },
     {
       "rank": 16,
@@ -271,7 +271,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 91.44,
       "top10Streak": 0,
-      "top20Streak": 3
+      "top20Streak": 4
     },
     {
       "rank": 17,
@@ -288,7 +288,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 0.0,
       "top10Streak": 0,
-      "top20Streak": 3
+      "top20Streak": 4
     },
     {
       "rank": 18,
@@ -305,7 +305,7 @@
       "leadingScore": 50.0,
       "volatilityScore": 19.39,
       "top10Streak": 0,
-      "top20Streak": 3
+      "top20Streak": 4
     }
   ]
 }
