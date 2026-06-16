@@ -3,7 +3,7 @@ from __future__ import annotations
 from app.utils.git_versioning import GitVersioner
 
 
-def test_git_versioner_uses_rebase_before_commit_and_retry(monkeypatch, tmp_path) -> None:
+def test_git_versioner_commits_before_rebase_and_retries_push(monkeypatch, tmp_path) -> None:
     (tmp_path / ".git").mkdir()
     calls: list[list[str]] = []
     push_attempts = 0
@@ -38,3 +38,4 @@ def test_git_versioner_uses_rebase_before_commit_and_retry(monkeypatch, tmp_path
     assert ["git", "fetch", "origin", "main"] in calls
     assert ["git", "rebase", "origin/main"] in calls
     assert calls.count(["git", "push", "origin", "main"]) == 2
+    assert calls.index(["git", "commit", "-m", "test"]) < calls.index(["git", "rebase", "origin/main"])
