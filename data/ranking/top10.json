@@ -15,8 +15,8 @@
       "trendScore": 88.33,
       "leadingScore": 50.0,
       "volatilityScore": 80.25,
-      "top10Streak": 2,
-      "top20Streak": 2
+      "top10Streak": 3,
+      "top20Streak": 3
     },
     {
       "rank": 2,
@@ -32,8 +32,8 @@
       "trendScore": 100.0,
       "leadingScore": 50.0,
       "volatilityScore": 72.34,
-      "top10Streak": 6,
-      "top20Streak": 6
+      "top10Streak": 7,
+      "top20Streak": 7
     },
     {
       "rank": 3,
@@ -49,8 +49,8 @@
       "trendScore": 86.97,
       "leadingScore": 50.0,
       "volatilityScore": 71.18,
-      "top10Streak": 6,
-      "top20Streak": 6
+      "top10Streak": 7,
+      "top20Streak": 7
     },
     {
       "rank": 4,
@@ -66,8 +66,8 @@
       "trendScore": 100.0,
       "leadingScore": 50.0,
       "volatilityScore": 74.01,
-      "top10Streak": 3,
-      "top20Streak": 6
+      "top10Streak": 4,
+      "top20Streak": 7
     },
     {
       "rank": 5,
@@ -83,8 +83,8 @@
       "trendScore": 100.0,
       "leadingScore": 50.0,
       "volatilityScore": 87.03,
-      "top10Streak": 2,
-      "top20Streak": 2
+      "top10Streak": 3,
+      "top20Streak": 3
     },
     {
       "rank": 6,
@@ -100,8 +100,8 @@
       "trendScore": 88.84,
       "leadingScore": 50.0,
       "volatilityScore": 84.29,
-      "top10Streak": 2,
-      "top20Streak": 6
+      "top10Streak": 3,
+      "top20Streak": 7
     },
     {
       "rank": 7,
@@ -117,8 +117,8 @@
       "trendScore": 73.66,
       "leadingScore": 50.0,
       "volatilityScore": 87.68,
-      "top10Streak": 2,
-      "top20Streak": 6
+      "top10Streak": 3,
+      "top20Streak": 7
     },
     {
       "rank": 8,
@@ -134,8 +134,8 @@
       "trendScore": 82.48,
       "leadingScore": 50.0,
       "volatilityScore": 94.5,
-      "top10Streak": 2,
-      "top20Streak": 2
+      "top10Streak": 3,
+      "top20Streak": 3
     },
     {
       "rank": 9,
@@ -151,8 +151,8 @@
       "trendScore": 99.41,
       "leadingScore": 50.0,
       "volatilityScore": 77.39,
-      "top10Streak": 2,
-      "top20Streak": 6
+      "top10Streak": 3,
+      "top20Streak": 7
     },
     {
       "rank": 10,
@@ -168,8 +168,8 @@
       "trendScore": 80.97,
       "leadingScore": 50.0,
       "volatilityScore": 86.61,
-      "top10Streak": 2,
-      "top20Streak": 6
+      "top10Streak": 3,
+      "top20Streak": 7
     }
   ]
 }
