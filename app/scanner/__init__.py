@@ -1,0 +1,1 @@
+"""Relative strength scanning package."""
