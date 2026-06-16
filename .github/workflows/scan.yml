@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: scan-${{ github.ref }}
@@ -34,7 +32,3 @@ jobs:
           GIT_BRANCH: ${{ github.ref_name }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: data/dashboard
-      - uses: actions/deploy-pages@v4
