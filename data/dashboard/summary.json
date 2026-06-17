@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-06-16T19:59:59.999000+00:00",
-  "btcReturn": -0.2777,
-  "altSeasonIndex": 55.0,
-  "leader": "BSB",
+  "scanTime": "2026-06-17T03:59:59.999000+00:00",
+  "btcReturn": 0.2741,
+  "altSeasonIndex": 60.0,
+  "leader": "XLM",
   "newEntries": [
-    "SNDK",
-    "MU",
-    "H"
+    "ZEC",
+    "NEAR",
+    "XAG"
   ],
   "recommended": [
-    "BSB",
+    "XLM",
     "WLD",
-    "XLM"
+    "HYPE"
   ]
 }
