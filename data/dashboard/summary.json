@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-06-18T03:59:59.999000+00:00",
-  "btcReturn": -0.3496,
-  "altSeasonIndex": 60.87,
+  "scanTime": "2026-06-18T07:59:59.999000+00:00",
+  "btcReturn": 0.3457,
+  "altSeasonIndex": 30.43,
   "leader": "ESPORTS",
   "newEntries": [
-    "ESPORTS",
-    "XAG",
-    "XPL",
-    "XAUT",
-    "SOL"
+    "ASTER",
+    "WLD",
+    "SOXL"
   ],
   "recommended": [
     "ESPORTS",
-    "XLM",
-    "XAG"
+    "XPL",
+    "XLM"
   ]
 }
