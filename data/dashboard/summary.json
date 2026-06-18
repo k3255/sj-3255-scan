@@ -1,16 +1,18 @@
 {
-  "scanTime": "2026-06-18T11:59:59.999000+00:00",
-  "btcReturn": -0.8157,
+  "scanTime": "2026-06-18T15:59:59.999000+00:00",
+  "btcReturn": -2.5116,
   "altSeasonIndex": 60.0,
   "leader": "SOXL",
   "newEntries": [
-    "MU",
-    "SNDK",
-    "LITE"
+    "CBRS",
+    "XAG",
+    "XAU",
+    "BEAT",
+    "XAUT"
   ],
   "recommended": [
     "SOXL",
-    "XLM",
+    "SNDK",
     "MU"
   ]
 }
