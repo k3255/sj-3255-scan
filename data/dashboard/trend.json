@@ -65,6 +65,12 @@
       "btcReturn": 0.3457,
       "altSeasonIndex": 30.43,
       "leader": "ESPORTS"
+    },
+    {
+      "scanTime": "2026-06-18T11:59:59.999000+00:00",
+      "btcReturn": -0.8157,
+      "altSeasonIndex": 60.0,
+      "leader": "SOXL"
     }
   ]
 }
