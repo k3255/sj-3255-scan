@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-06-19T11:59:59.999000+00:00",
-  "btcReturn": 0.0142,
-  "altSeasonIndex": 42.86,
+  "scanTime": "2026-06-19T15:59:59.999000+00:00",
+  "btcReturn": 0.9308,
+  "altSeasonIndex": 47.06,
   "leader": "RE",
   "newEntries": [
-    "RE",
-    "BEAT",
-    "HYPE",
-    "XLM"
+    "ALLO",
+    "SOL",
+    "WLD",
+    "ZEC"
   ],
   "recommended": [
     "RE",
-    "BEAT",
-    "SNDK"
+    "ALLO",
+    "HYPE"
   ]
 }
