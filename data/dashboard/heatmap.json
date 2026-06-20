@@ -1,70 +1,55 @@
 {
-  "scanTime": "2026-06-20T03:59:59.999000+00:00",
+  "scanTime": "2026-06-20T07:59:59.999000+00:00",
   "items": [
     {
       "symbol": "RE",
-      "relativeScore": -1.1127,
-      "aiScore": 62.29
-    },
-    {
-      "symbol": "BEAT",
-      "relativeScore": 8.3892,
-      "aiScore": 57.33
+      "relativeScore": 2.3363,
+      "aiScore": 64.45
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.5007,
-      "aiScore": 50.01
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": -0.0575,
-      "aiScore": 48.35
+      "relativeScore": 1.9823,
+      "aiScore": 61.74
     },
     {
       "symbol": "HYPE",
-      "relativeScore": -1.7865,
-      "aiScore": 46.75
+      "relativeScore": 1.1969,
+      "aiScore": 53.69
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.7587,
+      "aiScore": 51.66
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.4685,
-      "aiScore": 45.21
-    },
-    {
-      "symbol": "XAU",
-      "relativeScore": 0.09,
-      "aiScore": 43.1
-    },
-    {
-      "symbol": "CL",
-      "relativeScore": 0.2214,
-      "aiScore": 42.59
-    },
-    {
-      "symbol": "XAG",
-      "relativeScore": 0.363,
-      "aiScore": 41.88
+      "relativeScore": 0.3697,
+      "aiScore": 46.33
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -2.0035,
-      "aiScore": 40.47
-    },
-    {
-      "symbol": "SPCX",
-      "relativeScore": -0.2058,
-      "aiScore": 40.39
+      "relativeScore": 0.1359,
+      "aiScore": 44.91
     },
     {
       "symbol": "WLD",
-      "relativeScore": -2.8849,
-      "aiScore": 37.24
+      "relativeScore": -1.0001,
+      "aiScore": 43.78
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -0.3165,
+      "aiScore": 42.17
     },
     {
       "symbol": "ALLO",
-      "relativeScore": -2.2302,
-      "aiScore": 36.79
+      "relativeScore": -1.8338,
+      "aiScore": 36.61
+    },
+    {
+      "symbol": "BEAT",
+      "relativeScore": -7.6161,
+      "aiScore": 9.35
     }
   ]
 }
