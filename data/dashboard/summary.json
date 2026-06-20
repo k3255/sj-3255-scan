@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-06-20T07:59:59.999000+00:00",
-  "btcReturn": 0.2886,
-  "altSeasonIndex": 60.0,
-  "leader": "RE",
+  "scanTime": "2026-06-20T11:59:59.999000+00:00",
+  "btcReturn": 0.0431,
+  "altSeasonIndex": 88.89,
+  "leader": "BTW",
   "newEntries": [
-    "WLD",
-    "ALLO"
+    "BTW",
+    "BICO"
   ],
   "recommended": [
-    "RE",
-    "SOL",
-    "HYPE"
+    "BTW",
+    "BICO",
+    "RE"
   ]
 }
