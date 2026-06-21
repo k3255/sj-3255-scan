@@ -149,6 +149,12 @@
       "btcReturn": -0.3609,
       "altSeasonIndex": 37.5,
       "leader": "ALLO"
+    },
+    {
+      "scanTime": "2026-06-21T11:59:59.999000+00:00",
+      "btcReturn": -0.0313,
+      "altSeasonIndex": 37.5,
+      "leader": "BTW"
     }
   ]
 }

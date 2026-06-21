@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-06-21T07:59:59.999000+00:00",
-  "btcReturn": -0.3609,
+  "scanTime": "2026-06-21T11:59:59.999000+00:00",
+  "btcReturn": -0.0313,
   "altSeasonIndex": 37.5,
-  "leader": "ALLO",
+  "leader": "BTW",
   "newEntries": [],
   "recommended": [
-    "ALLO",
+    "BTW",
     "SOL",
-    "ETH"
+    "ALLO"
   ]
 }
