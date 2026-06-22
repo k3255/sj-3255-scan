@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-16T03:59:59.999000+00:00",
-      "btcReturn": -0.0561,
-      "altSeasonIndex": 58.82,
-      "leader": "EVAA"
-    },
-    {
       "scanTime": "2026-06-16T07:59:59.999000+00:00",
       "btcReturn": 0.3256,
       "altSeasonIndex": 55.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.297,
       "altSeasonIndex": 12.5,
       "leader": "SNDK"
+    },
+    {
+      "scanTime": "2026-06-22T19:59:59.999000+00:00",
+      "btcReturn": -0.5402,
+      "altSeasonIndex": 70.59,
+      "leader": "SYN"
     }
   ]
 }
