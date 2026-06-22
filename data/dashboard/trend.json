@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-15T23:59:59.999000+00:00",
-      "btcReturn": -0.4431,
-      "altSeasonIndex": 50.0,
-      "leader": "SPCX"
-    },
-    {
       "scanTime": "2026-06-16T03:59:59.999000+00:00",
       "btcReturn": -0.0561,
       "altSeasonIndex": 58.82,
@@ -179,6 +173,12 @@
       "btcReturn": 0.6801,
       "altSeasonIndex": 50.0,
       "leader": "SOXL"
+    },
+    {
+      "scanTime": "2026-06-22T15:59:59.999000+00:00",
+      "btcReturn": 0.297,
+      "altSeasonIndex": 12.5,
+      "leader": "SNDK"
     }
   ]
 }

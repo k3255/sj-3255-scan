@@ -1,15 +1,18 @@
 {
-  "scanTime": "2026-06-22T11:59:59.999000+00:00",
-  "btcReturn": 0.6801,
-  "altSeasonIndex": 50.0,
-  "leader": "SOXL",
+  "scanTime": "2026-06-22T15:59:59.999000+00:00",
+  "btcReturn": 0.297,
+  "altSeasonIndex": 12.5,
+  "leader": "SNDK",
   "newEntries": [
-    "LAB",
-    "HYPE"
+    "SNDK",
+    "MU",
+    "LITE",
+    "SYN",
+    "SKHYNIX"
   ],
   "recommended": [
-    "SOXL",
-    "ETH",
-    "SOL"
+    "SNDK",
+    "MU",
+    "SOXL"
   ]
 }
