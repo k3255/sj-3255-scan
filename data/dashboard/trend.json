@@ -167,6 +167,12 @@
       "btcReturn": -0.0391,
       "altSeasonIndex": 33.33,
       "leader": "TNSR"
+    },
+    {
+      "scanTime": "2026-06-22T03:59:59.999000+00:00",
+      "btcReturn": 1.0436,
+      "altSeasonIndex": 42.86,
+      "leader": "SOXL"
     }
   ]
 }
