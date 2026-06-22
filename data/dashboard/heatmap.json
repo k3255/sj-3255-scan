@@ -1,75 +1,65 @@
 {
-  "scanTime": "2026-06-22T03:59:59.999000+00:00",
+  "scanTime": "2026-06-22T11:59:59.999000+00:00",
   "items": [
     {
       "symbol": "SOXL",
-      "relativeScore": -0.4085,
-      "aiScore": 63.57
-    },
-    {
-      "symbol": "BTW",
-      "relativeScore": 11.8273,
-      "aiScore": 62.08
-    },
-    {
-      "symbol": "WLD",
-      "relativeScore": 3.4357,
-      "aiScore": 61.67
-    },
-    {
-      "symbol": "XAG",
-      "relativeScore": 0.6308,
-      "aiScore": 59.32
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.4062,
-      "aiScore": 58.91
-    },
-    {
-      "symbol": "TNSR",
-      "relativeScore": -0.9993,
-      "aiScore": 58.69
+      "relativeScore": 1.2702,
+      "aiScore": 70.66
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.3208,
-      "aiScore": 57.73
+      "relativeScore": 0.5362,
+      "aiScore": 56.2
     },
     {
-      "symbol": "XAU",
-      "relativeScore": -0.2904,
-      "aiScore": 56.76
-    },
-    {
-      "symbol": "SPCX",
-      "relativeScore": -0.5325,
-      "aiScore": 53.31
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": -0.5544,
-      "aiScore": 49.04
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": -3.188,
-      "aiScore": 42.73
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": 0.4188,
-      "aiScore": 42.29
-    },
-    {
-      "symbol": "RE",
-      "relativeScore": -3.568,
-      "aiScore": 41.57
+      "symbol": "SOL",
+      "relativeScore": -0.5734,
+      "aiScore": 51.99
     },
     {
       "symbol": "LAB",
-      "relativeScore": -12.5429,
-      "aiScore": 39.71
+      "relativeScore": 0.0004,
+      "aiScore": 51.26
+    },
+    {
+      "symbol": "XAG",
+      "relativeScore": -0.3182,
+      "aiScore": 49.66
+    },
+    {
+      "symbol": "SPCX",
+      "relativeScore": -2.6567,
+      "aiScore": 49.26
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": 0.4512,
+      "aiScore": 49.23
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.2347,
+      "aiScore": 48.67
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -0.2818,
+      "aiScore": 48.24
+    },
+    {
+      "symbol": "WLD",
+      "relativeScore": -2.6682,
+      "aiScore": 44.42
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": 0.3504,
+      "aiScore": 43.99
+    },
+    {
+      "symbol": "TNSR",
+      "relativeScore": -7.8064,
+      "aiScore": 37.73
     }
   ]
 }

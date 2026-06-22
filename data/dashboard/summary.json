@@ -1,17 +1,15 @@
 {
-  "scanTime": "2026-06-22T03:59:59.999000+00:00",
-  "btcReturn": 1.0436,
-  "altSeasonIndex": 42.86,
+  "scanTime": "2026-06-22T11:59:59.999000+00:00",
+  "btcReturn": 0.6801,
+  "altSeasonIndex": 50.0,
   "leader": "SOXL",
   "newEntries": [
-    "SOXL",
-    "XAG",
-    "XAU",
-    "SPCX"
+    "LAB",
+    "HYPE"
   ],
   "recommended": [
     "SOXL",
-    "BTW",
-    "WLD"
+    "ETH",
+    "SOL"
   ]
 }
