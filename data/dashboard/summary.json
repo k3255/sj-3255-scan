@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-06-23T11:59:59.999000+00:00",
-  "btcReturn": -0.5841,
-  "altSeasonIndex": 77.78,
-  "leader": "MU",
+  "scanTime": "2026-06-23T15:59:59.999000+00:00",
+  "btcReturn": -0.0347,
+  "altSeasonIndex": 22.22,
+  "leader": "SPCX",
   "newEntries": [
-    "SUI",
-    "SPCX",
-    "DRAM"
+    "CBRS",
+    "XAG",
+    "SOL",
+    "SKHYNIX"
   ],
   "recommended": [
-    "MU",
-    "SUI",
-    "SNDK"
+    "SPCX",
+    "XAU",
+    "CBRS"
   ]
 }
