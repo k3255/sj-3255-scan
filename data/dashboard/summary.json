@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-06-23T03:59:59.999000+00:00",
-  "btcReturn": 0.0766,
-  "altSeasonIndex": 18.75,
-  "leader": "MU",
+  "scanTime": "2026-06-23T07:59:59.999000+00:00",
+  "btcReturn": -1.8627,
+  "altSeasonIndex": 27.78,
+  "leader": "XAU",
   "newEntries": [
-    "XAU",
-    "XAG",
-    "XRP",
-    "ZEC"
+    "SYN"
   ],
   "recommended": [
-    "MU",
+    "XAU",
     "SNDK",
-    "XAU"
+    "SYN"
   ]
 }
