@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-06-23T15:59:59.999000+00:00",
-  "btcReturn": -0.0347,
-  "altSeasonIndex": 22.22,
-  "leader": "SPCX",
+  "scanTime": "2026-06-23T19:59:59.999000+00:00",
+  "btcReturn": -0.1505,
+  "altSeasonIndex": 33.33,
+  "leader": "CBRS",
   "newEntries": [
-    "CBRS",
-    "XAG",
-    "SOL",
-    "SKHYNIX"
+    "NBIS",
+    "HYPE",
+    "SUI",
+    "SNDK"
   ],
   "recommended": [
-    "SPCX",
-    "XAU",
-    "CBRS"
+    "CBRS",
+    "NBIS",
+    "ETH"
   ]
 }
