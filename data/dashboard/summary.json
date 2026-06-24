@@ -1,18 +1,15 @@
 {
-  "scanTime": "2026-06-24T03:59:59.999000+00:00",
-  "btcReturn": 0.008,
-  "altSeasonIndex": 11.11,
-  "leader": "MU",
+  "scanTime": "2026-06-24T07:59:59.999000+00:00",
+  "btcReturn": -0.1163,
+  "altSeasonIndex": 80.0,
+  "leader": "BEAT",
   "newEntries": [
-    "MU",
-    "XAG",
-    "DRAM",
-    "XAUT",
-    "SKHYNIX"
+    "BEAT",
+    "HYPE"
   ],
   "recommended": [
-    "MU",
-    "XAG",
+    "BEAT",
+    "SKHYNIX",
     "DRAM"
   ]
 }
