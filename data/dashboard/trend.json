@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-18T03:59:59.999000+00:00",
-      "btcReturn": -0.3496,
-      "altSeasonIndex": 60.87,
-      "leader": "ESPORTS"
-    },
-    {
       "scanTime": "2026-06-18T07:59:59.999000+00:00",
       "btcReturn": 0.3457,
       "altSeasonIndex": 30.43,
@@ -179,6 +173,12 @@
       "btcReturn": -0.1163,
       "altSeasonIndex": 80.0,
       "leader": "BEAT"
+    },
+    {
+      "scanTime": "2026-06-24T11:59:59.999000+00:00",
+      "btcReturn": 0.4137,
+      "altSeasonIndex": 55.56,
+      "leader": "DRAM"
     }
   ]
 }
