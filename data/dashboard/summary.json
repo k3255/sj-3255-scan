@@ -1,19 +1,17 @@
 {
-  "scanTime": "2026-06-24T15:59:59.999000+00:00",
-  "btcReturn": -4.1929,
-  "altSeasonIndex": 66.67,
-  "leader": "LAB",
+  "scanTime": "2026-06-24T19:59:59.999000+00:00",
+  "btcReturn": -0.5284,
+  "altSeasonIndex": 59.09,
+  "leader": "LITE",
   "newEntries": [
-    "LAB",
-    "LITE",
-    "SPCX",
-    "XAU",
-    "XAUT",
-    "XAG"
+    "HYPE",
+    "MU",
+    "NBIS",
+    "SUI"
   ],
   "recommended": [
-    "LAB",
     "LITE",
-    "SPCX"
+    "HYPE",
+    "MU"
   ]
 }
