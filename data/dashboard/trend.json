@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-18T15:59:59.999000+00:00",
-      "btcReturn": -2.5116,
-      "altSeasonIndex": 60.0,
-      "leader": "SOXL"
-    },
-    {
       "scanTime": "2026-06-18T19:59:59.999000+00:00",
       "btcReturn": 0.9219,
       "altSeasonIndex": 42.11,
@@ -179,6 +173,12 @@
       "btcReturn": -0.5284,
       "altSeasonIndex": 59.09,
       "leader": "LITE"
+    },
+    {
+      "scanTime": "2026-06-25T03:59:59.999000+00:00",
+      "btcReturn": -0.3245,
+      "altSeasonIndex": 26.09,
+      "leader": "SKHYNIX"
     }
   ]
 }
