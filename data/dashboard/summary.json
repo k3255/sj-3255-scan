@@ -1,19 +1,18 @@
 {
-  "scanTime": "2026-06-25T03:59:59.999000+00:00",
-  "btcReturn": -0.3245,
-  "altSeasonIndex": 26.09,
-  "leader": "SKHYNIX",
+  "scanTime": "2026-06-25T07:59:59.999000+00:00",
+  "btcReturn": 1.6847,
+  "altSeasonIndex": 43.48,
+  "leader": "SLX",
   "newEntries": [
-    "SKHYNIX",
-    "DRAM",
-    "XAG",
-    "XAUT",
-    "BEAT",
-    "QCOM"
+    "SLX",
+    "SOXL",
+    "SOL",
+    "ETH",
+    "HYPE"
   ],
   "recommended": [
-    "SKHYNIX",
-    "MU",
-    "DRAM"
+    "SLX",
+    "LAB",
+    "SKHYNIX"
   ]
 }
