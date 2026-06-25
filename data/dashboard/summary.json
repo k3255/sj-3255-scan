@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-06-25T11:59:59.999000+00:00",
-  "btcReturn": -1.0063,
-  "altSeasonIndex": 58.33,
-  "leader": "SNDK",
+  "scanTime": "2026-06-25T15:59:59.999000+00:00",
+  "btcReturn": -2.7984,
+  "altSeasonIndex": 50.0,
+  "leader": "SLX",
   "newEntries": [
-    "AAVE",
-    "LITE",
-    "SPCX"
+    "SYN",
+    "XAG",
+    "XAU"
   ],
   "recommended": [
+    "SLX",
     "SNDK",
-    "AAVE",
-    "MU"
+    "AAVE"
   ]
 }
