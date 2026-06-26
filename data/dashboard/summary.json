@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-06-26T03:59:59.999000+00:00",
-  "btcReturn": 0.3886,
-  "altSeasonIndex": 22.73,
-  "leader": "SLX",
+  "scanTime": "2026-06-26T07:59:59.999000+00:00",
+  "btcReturn": 0.8014,
+  "altSeasonIndex": 71.43,
+  "leader": "AAVE",
   "newEntries": [
-    "SOL",
-    "ZEC",
-    "ETH",
-    "XRP",
-    "XAG"
+    "SKHYNIX",
+    "SUI",
+    "MU"
   ],
   "recommended": [
-    "SLX",
-    "SYN",
-    "AAVE"
+    "AAVE",
+    "SOL",
+    "SNDK"
   ]
 }

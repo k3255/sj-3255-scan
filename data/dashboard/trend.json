@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-20T03:59:59.999000+00:00",
-      "btcReturn": -0.1162,
-      "altSeasonIndex": 46.15,
-      "leader": "RE"
-    },
-    {
       "scanTime": "2026-06-20T07:59:59.999000+00:00",
       "btcReturn": 0.2886,
       "altSeasonIndex": 60.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.3886,
       "altSeasonIndex": 22.73,
       "leader": "SLX"
+    },
+    {
+      "scanTime": "2026-06-26T07:59:59.999000+00:00",
+      "btcReturn": 0.8014,
+      "altSeasonIndex": 71.43,
+      "leader": "AAVE"
     }
   ]
 }
