@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-21T15:59:59.999000+00:00",
-      "btcReturn": 0.0868,
-      "altSeasonIndex": 50.0,
-      "leader": "SOL"
-    },
-    {
       "scanTime": "2026-06-21T19:59:59.999000+00:00",
       "btcReturn": -0.0391,
       "altSeasonIndex": 33.33,
@@ -179,6 +173,12 @@
       "btcReturn": 0.8134,
       "altSeasonIndex": 60.0,
       "leader": "AGLD"
+    },
+    {
+      "scanTime": "2026-06-27T19:59:59.999000+00:00",
+      "btcReturn": -1.1039,
+      "altSeasonIndex": 14.29,
+      "leader": "VELVET"
     }
   ]
 }
