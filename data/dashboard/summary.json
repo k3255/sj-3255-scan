@@ -1,15 +1,17 @@
 {
-  "scanTime": "2026-06-27T11:59:59.999000+00:00",
-  "btcReturn": -0.3171,
+  "scanTime": "2026-06-27T15:59:59.999000+00:00",
+  "btcReturn": 0.8134,
   "altSeasonIndex": 60.0,
-  "leader": "VELVET",
+  "leader": "AGLD",
   "newEntries": [
-    "LITE",
-    "XAG"
+    "SPCX",
+    "ZEC",
+    "SOXL",
+    "LAB"
   ],
   "recommended": [
+    "AGLD",
     "VELVET",
-    "AAVE",
     "SOL"
   ]
 }

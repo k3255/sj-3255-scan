@@ -1,80 +1,55 @@
 {
-  "scanTime": "2026-06-27T11:59:59.999000+00:00",
+  "scanTime": "2026-06-27T15:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "VELVET",
-      "relativeScore": 65.3292,
-      "aiScore": 90.5
+      "symbol": "AGLD",
+      "relativeScore": 10.7866,
+      "aiScore": 83.58
     },
     {
-      "symbol": "AAVE",
-      "relativeScore": 1.1592,
-      "aiScore": 58.72
+      "symbol": "VELVET",
+      "relativeScore": 2.1626,
+      "aiScore": 77.37
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.3775,
-      "aiScore": 49.59
-    },
-    {
-      "symbol": "AGLD",
-      "relativeScore": -7.3468,
-      "aiScore": 47.43
+      "relativeScore": 0.6189,
+      "aiScore": 51.96
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.2104,
-      "aiScore": 46.27
-    },
-    {
-      "symbol": "MU",
-      "relativeScore": 0.2155,
-      "aiScore": 45.14
+      "relativeScore": 0.5599,
+      "aiScore": 48.36
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.2605,
-      "aiScore": 44.83
+      "relativeScore": 0.6693,
+      "aiScore": 46.36
     },
     {
       "symbol": "HYPE",
-      "relativeScore": 0.0231,
-      "aiScore": 44.36
-    },
-    {
-      "symbol": "LITE",
-      "relativeScore": 0.3122,
-      "aiScore": 43.98
-    },
-    {
-      "symbol": "XAG",
-      "relativeScore": 0.334,
-      "aiScore": 42.69
+      "relativeScore": 0.7585,
+      "aiScore": 46.27
     },
     {
       "symbol": "SPCX",
-      "relativeScore": 0.2976,
-      "aiScore": 42.61
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": -0.2017,
-      "aiScore": 42.61
+      "relativeScore": -0.3143,
+      "aiScore": 41.99
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -0.3756,
-      "aiScore": 41.62
-    },
-    {
-      "symbol": "LAB",
-      "relativeScore": -10.0013,
-      "aiScore": 37.06
+      "relativeScore": -0.0817,
+      "aiScore": 41.49
     },
     {
       "symbol": "SOXL",
-      "relativeScore": -0.0562,
-      "aiScore": 34.03
+      "relativeScore": -0.5979,
+      "aiScore": 33.39
+    },
+    {
+      "symbol": "LAB",
+      "relativeScore": -16.0615,
+      "aiScore": 29.27
     }
   ]
 }
