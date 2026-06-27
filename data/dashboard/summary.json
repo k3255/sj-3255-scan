@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-06-26T19:59:59.999000+00:00",
-  "btcReturn": -0.947,
-  "altSeasonIndex": 56.25,
-  "leader": "AAVE",
+  "scanTime": "2026-06-27T03:59:59.999000+00:00",
+  "btcReturn": 0.3417,
+  "altSeasonIndex": 25.0,
+  "leader": "AGLD",
   "newEntries": [
-    "LITE",
-    "XAU"
+    "AGLD",
+    "MU",
+    "SKHYNIX"
   ],
   "recommended": [
+    "AGLD",
     "AAVE",
-    "SOL",
-    "LITE"
+    "SOL"
   ]
 }
