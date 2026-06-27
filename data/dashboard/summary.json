@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-06-27T03:59:59.999000+00:00",
-  "btcReturn": 0.3417,
-  "altSeasonIndex": 25.0,
-  "leader": "AGLD",
+  "scanTime": "2026-06-27T07:59:59.999000+00:00",
+  "btcReturn": 0.393,
+  "altSeasonIndex": 18.75,
+  "leader": "VELVET",
   "newEntries": [
-    "AGLD",
-    "MU",
-    "SKHYNIX"
+    "VELVET",
+    "DRAM"
   ],
   "recommended": [
-    "AGLD",
+    "VELVET",
     "AAVE",
-    "SOL"
+    "AGLD"
   ]
 }
