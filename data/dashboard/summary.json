@@ -1,11 +1,9 @@
 {
-  "scanTime": "2026-06-28T11:59:59.999000+00:00",
-  "btcReturn": 0.2123,
-  "altSeasonIndex": 71.43,
+  "scanTime": "2026-06-28T15:59:59.999000+00:00",
+  "btcReturn": -0.7634,
+  "altSeasonIndex": 100.0,
   "leader": "VELVET",
-  "newEntries": [
-    "SLX"
-  ],
+  "newEntries": [],
   "recommended": [
     "VELVET",
     "SLX",
