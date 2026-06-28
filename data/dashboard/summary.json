@@ -1,9 +1,11 @@
 {
-  "scanTime": "2026-06-28T03:59:59.999000+00:00",
-  "btcReturn": 0.2861,
-  "altSeasonIndex": 42.86,
+  "scanTime": "2026-06-28T07:59:59.999000+00:00",
+  "btcReturn": 0.0271,
+  "altSeasonIndex": 85.71,
   "leader": "VELVET",
-  "newEntries": [],
+  "newEntries": [
+    "ZEC"
+  ],
   "recommended": [
     "VELVET",
     "LAB",
