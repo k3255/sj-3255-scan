@@ -1,9 +1,13 @@
 {
-  "scanTime": "2026-06-28T19:59:59.999000+00:00",
-  "btcReturn": -0.6651,
-  "altSeasonIndex": 16.67,
+  "scanTime": "2026-06-29T03:59:59.999000+00:00",
+  "btcReturn": 0.778,
+  "altSeasonIndex": 44.44,
   "leader": "VELVET",
-  "newEntries": [],
+  "newEntries": [
+    "XAU",
+    "XAG",
+    "SKHYNIX"
+  ],
   "recommended": [
     "VELVET",
     "SOL",
