@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-06-29T15:59:59.999000+00:00",
-  "btcReturn": -0.2158,
-  "altSeasonIndex": 53.33,
+  "scanTime": "2026-06-29T19:59:59.999000+00:00",
+  "btcReturn": 1.0082,
+  "altSeasonIndex": 82.35,
   "leader": "CBRS",
   "newEntries": [
-    "CBRS",
-    "SOXL",
-    "DRAM"
+    "MU",
+    "LITE",
+    "SNDK",
+    "MRVL"
   ],
   "recommended": [
     "CBRS",
-    "SOL",
-    "HYPE"
+    "MU",
+    "SPCX"
   ]
 }
