@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-23T07:59:59.999000+00:00",
-      "btcReturn": -1.8627,
-      "altSeasonIndex": 27.78,
-      "leader": "XAU"
-    },
-    {
       "scanTime": "2026-06-23T11:59:59.999000+00:00",
       "btcReturn": -0.5841,
       "altSeasonIndex": 77.78,
@@ -179,6 +173,12 @@
       "btcReturn": 0.778,
       "altSeasonIndex": 44.44,
       "leader": "VELVET"
+    },
+    {
+      "scanTime": "2026-06-29T11:59:59.999000+00:00",
+      "btcReturn": -0.0925,
+      "altSeasonIndex": 41.67,
+      "leader": "XAU"
     }
   ]
 }

@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-06-29T03:59:59.999000+00:00",
-  "btcReturn": 0.778,
-  "altSeasonIndex": 44.44,
-  "leader": "VELVET",
+  "scanTime": "2026-06-29T11:59:59.999000+00:00",
+  "btcReturn": -0.0925,
+  "altSeasonIndex": 41.67,
+  "leader": "XAU",
   "newEntries": [
-    "XAU",
-    "XAG",
-    "SKHYNIX"
+    "SPCX",
+    "MU"
   ],
   "recommended": [
-    "VELVET",
+    "XAU",
     "SOL",
-    "ETH"
+    "SPCX"
   ]
 }
