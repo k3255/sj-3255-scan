@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-06-29T11:59:59.999000+00:00",
-  "btcReturn": -0.0925,
-  "altSeasonIndex": 41.67,
-  "leader": "XAU",
+  "scanTime": "2026-06-29T15:59:59.999000+00:00",
+  "btcReturn": -0.2158,
+  "altSeasonIndex": 53.33,
+  "leader": "CBRS",
   "newEntries": [
-    "SPCX",
-    "MU"
+    "CBRS",
+    "SOXL",
+    "DRAM"
   ],
   "recommended": [
-    "XAU",
+    "CBRS",
     "SOL",
-    "SPCX"
+    "HYPE"
   ]
 }

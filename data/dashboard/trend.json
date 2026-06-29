@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-23T11:59:59.999000+00:00",
-      "btcReturn": -0.5841,
-      "altSeasonIndex": 77.78,
-      "leader": "MU"
-    },
-    {
       "scanTime": "2026-06-23T15:59:59.999000+00:00",
       "btcReturn": -0.0347,
       "altSeasonIndex": 22.22,
@@ -179,6 +173,12 @@
       "btcReturn": -0.0925,
       "altSeasonIndex": 41.67,
       "leader": "XAU"
+    },
+    {
+      "scanTime": "2026-06-29T15:59:59.999000+00:00",
+      "btcReturn": -0.2158,
+      "altSeasonIndex": 53.33,
+      "leader": "CBRS"
     }
   ]
 }
