@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-24T11:59:59.999000+00:00",
-      "btcReturn": 0.4137,
-      "altSeasonIndex": 55.56,
-      "leader": "DRAM"
-    },
-    {
       "scanTime": "2026-06-24T15:59:59.999000+00:00",
       "btcReturn": -4.1929,
       "altSeasonIndex": 66.67,
@@ -179,6 +173,12 @@
       "btcReturn": -0.5611,
       "altSeasonIndex": 76.47,
       "leader": "RKLB"
+    },
+    {
+      "scanTime": "2026-06-30T15:59:59.999000+00:00",
+      "btcReturn": -1.3611,
+      "altSeasonIndex": 88.24,
+      "leader": "SOXL"
     }
   ]
 }

@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-06-30T11:59:59.999000+00:00",
-  "btcReturn": -0.5611,
-  "altSeasonIndex": 76.47,
-  "leader": "RKLB",
+  "scanTime": "2026-06-30T15:59:59.999000+00:00",
+  "btcReturn": -1.3611,
+  "altSeasonIndex": 88.24,
+  "leader": "SOXL",
   "newEntries": [
-    "RKLB",
-    "SNDK",
-    "MU",
-    "DRAM"
+    "XAG"
   ],
   "recommended": [
-    "RKLB",
     "SOXL",
+    "MRVL",
     "SPCX"
   ]
 }
