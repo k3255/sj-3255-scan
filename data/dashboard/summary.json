@@ -1,17 +1,19 @@
 {
-  "scanTime": "2026-06-29T19:59:59.999000+00:00",
-  "btcReturn": 1.0082,
-  "altSeasonIndex": 82.35,
-  "leader": "CBRS",
+  "scanTime": "2026-06-30T03:59:59.999000+00:00",
+  "btcReturn": -1.0553,
+  "altSeasonIndex": 61.11,
+  "leader": "TAC",
   "newEntries": [
-    "MU",
-    "LITE",
-    "SNDK",
-    "MRVL"
+    "TAC",
+    "VELVET",
+    "SKHYNIX",
+    "DRAM",
+    "XAU",
+    "XAG"
   ],
   "recommended": [
-    "CBRS",
-    "MU",
-    "SPCX"
+    "TAC",
+    "VELVET",
+    "CBRS"
   ]
 }
