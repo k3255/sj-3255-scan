@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-07-01T11:59:59.999000+00:00",
-  "btcReturn": -0.262,
-  "altSeasonIndex": 64.29,
-  "leader": "SPCX",
+  "scanTime": "2026-07-01T15:59:59.999000+00:00",
+  "btcReturn": 2.5946,
+  "altSeasonIndex": 20.0,
+  "leader": "SOL",
   "newEntries": [
-    "XAG",
-    "MU",
-    "DRAM"
+    "TAIKO",
+    "HYPE",
+    "XRP"
   ],
   "recommended": [
-    "SPCX",
     "SOL",
-    "SOXL"
+    "ETH",
+    "TAIKO"
   ]
 }
