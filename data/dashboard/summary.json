@@ -1,15 +1,14 @@
 {
-  "scanTime": "2026-07-02T15:59:59.999000+00:00",
-  "btcReturn": 0.4209,
-  "altSeasonIndex": 35.29,
-  "leader": "ETH",
+  "scanTime": "2026-07-02T19:59:59.999000+00:00",
+  "btcReturn": -0.2173,
+  "altSeasonIndex": 41.18,
+  "leader": "MSTR",
   "newEntries": [
-    "XAU",
-    "MU"
+    "TAIKO"
   ],
   "recommended": [
-    "ETH",
     "MSTR",
-    "XRP"
+    "SOL",
+    "ETH"
   ]
 }
