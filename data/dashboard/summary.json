@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-02T03:59:59.999000+00:00",
-  "btcReturn": 1.7107,
-  "altSeasonIndex": 20.0,
+  "scanTime": "2026-07-02T07:59:59.999000+00:00",
+  "btcReturn": -1.4776,
+  "altSeasonIndex": 37.5,
   "leader": "SOL",
   "newEntries": [
-    "KORU",
-    "SKHYNIX"
+    "MSTR",
+    "SNDK"
   ],
   "recommended": [
     "SOL",
-    "TAIKO",
-    "ETH"
+    "ETH",
+    "TAIKO"
   ]
 }
