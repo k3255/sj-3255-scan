@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-03T11:59:59.999000+00:00",
-  "btcReturn": 0.4254,
-  "altSeasonIndex": 78.57,
-  "leader": "ZEC",
+  "scanTime": "2026-07-03T15:59:59.999000+00:00",
+  "btcReturn": -0.1642,
+  "altSeasonIndex": 18.18,
+  "leader": "HYPE",
   "newEntries": [
-    "MU",
-    "DRAM"
+    "SOXL",
+    "SNDK"
   ],
   "recommended": [
-    "ZEC",
     "HYPE",
-    "ETH"
+    "ZEC",
+    "XRP"
   ]
 }

@@ -1,75 +1,60 @@
 {
-  "scanTime": "2026-07-03T11:59:59.999000+00:00",
+  "scanTime": "2026-07-03T15:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "ZEC",
-      "relativeScore": 5.0979,
-      "aiScore": 74.26
-    },
-    {
       "symbol": "HYPE",
-      "relativeScore": 2.4702,
-      "aiScore": 62.7
+      "relativeScore": 1.1518,
+      "aiScore": 62.32
     },
     {
-      "symbol": "ETH",
-      "relativeScore": 1.0078,
-      "aiScore": 61.62
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": -0.0313,
-      "aiScore": 56.48
-    },
-    {
-      "symbol": "KORU",
-      "relativeScore": 4.7891,
-      "aiScore": 55.62
+      "symbol": "ZEC",
+      "relativeScore": -0.7373,
+      "aiScore": 58.87
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.2551,
-      "aiScore": 53.26
+      "relativeScore": 1.0564,
+      "aiScore": 58.58
     },
     {
-      "symbol": "MU",
-      "relativeScore": 2.5619,
-      "aiScore": 48.57
+      "symbol": "ETH",
+      "relativeScore": -0.4915,
+      "aiScore": 56.83
     },
     {
-      "symbol": "DRAM",
-      "relativeScore": 2.2145,
-      "aiScore": 47.58
-    },
-    {
-      "symbol": "SKHYNIX",
-      "relativeScore": 0.6954,
-      "aiScore": 47.29
+      "symbol": "SOL",
+      "relativeScore": -0.2603,
+      "aiScore": 55.53
     },
     {
       "symbol": "XAU",
-      "relativeScore": -0.3271,
-      "aiScore": 45.76
+      "relativeScore": -0.2076,
+      "aiScore": 46.85
     },
     {
-      "symbol": "SPCX",
-      "relativeScore": -0.3695,
-      "aiScore": 44.22
+      "symbol": "SKHYNIX",
+      "relativeScore": -0.1539,
+      "aiScore": 46.72
+    },
+    {
+      "symbol": "MU",
+      "relativeScore": -0.7129,
+      "aiScore": 42.22
     },
     {
       "symbol": "SOXL",
-      "relativeScore": 2.0978,
-      "aiScore": 42.37
-    },
-    {
-      "symbol": "MRVL",
-      "relativeScore": 1.0245,
-      "aiScore": 42.01
+      "relativeScore": -0.8306,
+      "aiScore": 37.31
     },
     {
       "symbol": "SNDK",
-      "relativeScore": 0.7687,
-      "aiScore": 39.56
+      "relativeScore": -1.2499,
+      "aiScore": 36.26
+    },
+    {
+      "symbol": "LAB",
+      "relativeScore": -12.2038,
+      "aiScore": 16.26
     }
   ]
 }
