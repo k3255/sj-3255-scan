@@ -1,14 +1,12 @@
 {
-  "scanTime": "2026-07-04T03:59:59.999000+00:00",
-  "btcReturn": 0.0763,
-  "altSeasonIndex": 66.67,
-  "leader": "HYPE",
-  "newEntries": [
-    "LAB"
-  ],
+  "scanTime": "2026-07-04T07:59:59.999000+00:00",
+  "btcReturn": -0.0927,
+  "altSeasonIndex": 100.0,
+  "leader": "LAB",
+  "newEntries": [],
   "recommended": [
-    "HYPE",
     "LAB",
+    "XRP",
     "SOL"
   ]
 }
