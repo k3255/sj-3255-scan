@@ -1,35 +1,30 @@
 {
-  "scanTime": "2026-07-04T07:59:59.999000+00:00",
+  "scanTime": "2026-07-04T11:59:59.999000+00:00",
   "items": [
     {
       "symbol": "LAB",
-      "relativeScore": 22.6364,
-      "aiScore": 72.09
+      "relativeScore": 19.2688,
+      "aiScore": 74.72
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.2333,
-      "aiScore": 58.05
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.0878,
-      "aiScore": 56.58
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": 0.2903,
-      "aiScore": 55.63
+      "relativeScore": 0.1932,
+      "aiScore": 55.16
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.3414,
-      "aiScore": 54.58
+      "relativeScore": 0.1187,
+      "aiScore": 54.23
     },
     {
-      "symbol": "ZEC",
-      "relativeScore": 0.3575,
-      "aiScore": 51.02
+      "symbol": "SOL",
+      "relativeScore": -0.9448,
+      "aiScore": 51.35
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": -1.0743,
+      "aiScore": 51.05
     }
   ]
 }
