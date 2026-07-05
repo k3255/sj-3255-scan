@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-29T19:59:59.999000+00:00",
-      "btcReturn": 1.0082,
-      "altSeasonIndex": 82.35,
-      "leader": "CBRS"
-    },
-    {
       "scanTime": "2026-06-30T03:59:59.999000+00:00",
       "btcReturn": -1.0553,
       "altSeasonIndex": 61.11,
@@ -179,6 +173,12 @@
       "btcReturn": -0.5842,
       "altSeasonIndex": 50.0,
       "leader": "ETH"
+    },
+    {
+      "scanTime": "2026-07-05T15:59:59.999000+00:00",
+      "btcReturn": 0.1512,
+      "altSeasonIndex": 100.0,
+      "leader": "LAB"
     }
   ]
 }
