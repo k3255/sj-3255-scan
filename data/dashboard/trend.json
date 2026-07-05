@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-29T11:59:59.999000+00:00",
-      "btcReturn": -0.0925,
-      "altSeasonIndex": 41.67,
-      "leader": "XAU"
-    },
-    {
       "scanTime": "2026-06-29T15:59:59.999000+00:00",
       "btcReturn": -0.2158,
       "altSeasonIndex": 53.33,
@@ -178,6 +172,12 @@
       "scanTime": "2026-07-05T03:59:59.999000+00:00",
       "btcReturn": -0.5833,
       "altSeasonIndex": 16.67,
+      "leader": "LAB"
+    },
+    {
+      "scanTime": "2026-07-05T07:59:59.999000+00:00",
+      "btcReturn": 0.393,
+      "altSeasonIndex": 33.33,
       "leader": "LAB"
     }
   ]
