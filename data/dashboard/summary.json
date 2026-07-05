@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-07-04T19:59:59.999000+00:00",
-  "btcReturn": 0.5777,
-  "altSeasonIndex": 33.33,
+  "scanTime": "2026-07-05T03:59:59.999000+00:00",
+  "btcReturn": -0.5833,
+  "altSeasonIndex": 16.67,
   "leader": "LAB",
   "newEntries": [],
   "recommended": [
     "LAB",
     "ADA",
-    "XRP"
+    "ETH"
   ]
 }
