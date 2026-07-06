@@ -1,12 +1,11 @@
 {
-  "scanTime": "2026-07-06T07:59:59.999000+00:00",
-  "btcReturn": -0.3193,
-  "altSeasonIndex": 77.78,
+  "scanTime": "2026-07-06T11:59:59.999000+00:00",
+  "btcReturn": -0.983,
+  "altSeasonIndex": 90.91,
   "leader": "LAB",
   "newEntries": [
-    "SPCX",
-    "SOXL",
-    "SNDK"
+    "XAU",
+    "MU"
   ],
   "recommended": [
     "LAB",
