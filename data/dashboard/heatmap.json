@@ -1,35 +1,50 @@
 {
-  "scanTime": "2026-07-06T03:59:59.999000+00:00",
+  "scanTime": "2026-07-06T07:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "HYPE",
-      "relativeScore": 0.8732,
-      "aiScore": 61.41
+      "symbol": "LAB",
+      "relativeScore": 1.7767,
+      "aiScore": 62.21
+    },
+    {
+      "symbol": "SPCX",
+      "relativeScore": 1.0144,
+      "aiScore": 59.92
+    },
+    {
+      "symbol": "SOXL",
+      "relativeScore": 3.0336,
+      "aiScore": 55.59
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.1922,
-      "aiScore": 56.04
-    },
-    {
-      "symbol": "LAB",
-      "relativeScore": -0.0154,
-      "aiScore": 54.46
+      "relativeScore": -0.104,
+      "aiScore": 54.7
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.4255,
-      "aiScore": 53.09
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": -0.3273,
-      "aiScore": 52.94
+      "relativeScore": 0.3242,
+      "aiScore": 53.56
     },
     {
       "symbol": "SKHYNIX",
-      "relativeScore": -3.8889,
-      "aiScore": 48.88
+      "relativeScore": 0.3538,
+      "aiScore": 52.9
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.1885,
+      "aiScore": 52.29
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": -0.7619,
+      "aiScore": 52.1
+    },
+    {
+      "symbol": "SNDK",
+      "relativeScore": 0.5759,
+      "aiScore": 48.32
     }
   ]
 }

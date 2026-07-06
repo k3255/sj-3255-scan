@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-06-30T11:59:59.999000+00:00",
-      "btcReturn": -0.5611,
-      "altSeasonIndex": 76.47,
-      "leader": "RKLB"
-    },
-    {
       "scanTime": "2026-06-30T15:59:59.999000+00:00",
       "btcReturn": -1.3611,
       "altSeasonIndex": 88.24,
@@ -179,6 +173,12 @@
       "btcReturn": -0.5199,
       "altSeasonIndex": 33.33,
       "leader": "HYPE"
+    },
+    {
+      "scanTime": "2026-07-06T07:59:59.999000+00:00",
+      "btcReturn": -0.3193,
+      "altSeasonIndex": 77.78,
+      "leader": "LAB"
     }
   ]
 }
