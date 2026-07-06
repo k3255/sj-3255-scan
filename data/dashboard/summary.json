@@ -1,15 +1,14 @@
 {
-  "scanTime": "2026-07-06T15:59:59.999000+00:00",
-  "btcReturn": 1.697,
-  "altSeasonIndex": 16.67,
-  "leader": "VANRY",
+  "scanTime": "2026-07-06T19:59:59.999000+00:00",
+  "btcReturn": 0.3066,
+  "altSeasonIndex": 33.33,
+  "leader": "SPCX",
   "newEntries": [
-    "VANRY",
-    "XRP"
+    "SKHYNIX"
   ],
   "recommended": [
-    "VANRY",
+    "SPCX",
     "ETH",
-    "SOL"
+    "HYPE"
   ]
 }
