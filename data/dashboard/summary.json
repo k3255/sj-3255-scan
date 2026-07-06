@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-06T11:59:59.999000+00:00",
-  "btcReturn": -0.983,
-  "altSeasonIndex": 90.91,
-  "leader": "LAB",
+  "scanTime": "2026-07-06T15:59:59.999000+00:00",
+  "btcReturn": 1.697,
+  "altSeasonIndex": 16.67,
+  "leader": "VANRY",
   "newEntries": [
-    "XAU",
-    "MU"
+    "VANRY",
+    "XRP"
   ],
   "recommended": [
-    "LAB",
-    "SPCX",
-    "SOXL"
+    "VANRY",
+    "ETH",
+    "SOL"
   ]
 }
