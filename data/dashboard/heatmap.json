@@ -1,25 +1,35 @@
 {
-  "scanTime": "2026-07-05T19:59:59.999000+00:00",
+  "scanTime": "2026-07-06T03:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "LAB",
-      "relativeScore": 4.9378,
-      "aiScore": 71.02
+      "symbol": "HYPE",
+      "relativeScore": 0.8732,
+      "aiScore": 61.41
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.3496,
-      "aiScore": 53.93
+      "relativeScore": 0.1922,
+      "aiScore": 56.04
+    },
+    {
+      "symbol": "LAB",
+      "relativeScore": -0.0154,
+      "aiScore": 54.46
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.4405,
-      "aiScore": 49.85
+      "relativeScore": -0.4255,
+      "aiScore": 53.09
     },
     {
       "symbol": "XRP",
-      "relativeScore": -0.2029,
-      "aiScore": 48.95
+      "relativeScore": -0.3273,
+      "aiScore": 52.94
+    },
+    {
+      "symbol": "SKHYNIX",
+      "relativeScore": -3.8889,
+      "aiScore": 48.88
     }
   ]
 }

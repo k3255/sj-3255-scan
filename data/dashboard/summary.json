@@ -1,12 +1,15 @@
 {
-  "scanTime": "2026-07-05T19:59:59.999000+00:00",
-  "btcReturn": 0.0445,
-  "altSeasonIndex": 50.0,
-  "leader": "LAB",
-  "newEntries": [],
+  "scanTime": "2026-07-06T03:59:59.999000+00:00",
+  "btcReturn": -0.5199,
+  "altSeasonIndex": 33.33,
+  "leader": "HYPE",
+  "newEntries": [
+    "HYPE",
+    "SKHYNIX"
+  ],
   "recommended": [
-    "LAB",
+    "HYPE",
     "ETH",
-    "SOL"
+    "LAB"
   ]
 }
