@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-01T11:59:59.999000+00:00",
-      "btcReturn": -0.262,
-      "altSeasonIndex": 64.29,
-      "leader": "SPCX"
-    },
-    {
       "scanTime": "2026-07-01T15:59:59.999000+00:00",
       "btcReturn": 2.5946,
       "altSeasonIndex": 20.0,
@@ -179,6 +173,12 @@
       "btcReturn": -1.3281,
       "altSeasonIndex": 50.0,
       "leader": "VANRY"
+    },
+    {
+      "scanTime": "2026-07-07T07:59:59.999000+00:00",
+      "btcReturn": -0.1664,
+      "altSeasonIndex": 76.92,
+      "leader": "KORU"
     }
   ]
 }

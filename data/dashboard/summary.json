@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-07T03:59:59.999000+00:00",
-  "btcReturn": -1.3281,
-  "altSeasonIndex": 50.0,
-  "leader": "VANRY",
+  "scanTime": "2026-07-07T07:59:59.999000+00:00",
+  "btcReturn": -0.1664,
+  "altSeasonIndex": 76.92,
+  "leader": "KORU",
   "newEntries": [
-    "LAB",
-    "SNDK"
+    "KORU",
+    "SKHYNIX"
   ],
   "recommended": [
-    "VANRY",
+    "KORU",
     "XAU",
-    "HYPE"
+    "SKHYNIX"
   ]
 }
