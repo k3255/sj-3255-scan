@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-02T03:59:59.999000+00:00",
-      "btcReturn": 1.7107,
-      "altSeasonIndex": 20.0,
-      "leader": "SOL"
-    },
-    {
       "scanTime": "2026-07-02T07:59:59.999000+00:00",
       "btcReturn": -1.4776,
       "altSeasonIndex": 37.5,
@@ -179,6 +173,12 @@
       "btcReturn": 0.819,
       "altSeasonIndex": 21.43,
       "leader": "ZEC"
+    },
+    {
+      "scanTime": "2026-07-07T19:59:59.999000+00:00",
+      "btcReturn": -0.167,
+      "altSeasonIndex": 50.0,
+      "leader": "EVAA"
     }
   ]
 }

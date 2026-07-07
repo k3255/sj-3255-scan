@@ -1,14 +1,17 @@
 {
-  "scanTime": "2026-07-07T15:59:59.999000+00:00",
-  "btcReturn": 0.819,
-  "altSeasonIndex": 21.43,
-  "leader": "ZEC",
+  "scanTime": "2026-07-07T19:59:59.999000+00:00",
+  "btcReturn": -0.167,
+  "altSeasonIndex": 50.0,
+  "leader": "EVAA",
   "newEntries": [
-    "ZEC"
+    "EVAA",
+    "SNDK",
+    "XAG",
+    "SOXL"
   ],
   "recommended": [
+    "EVAA",
     "ZEC",
-    "ETH",
-    "HYPE"
+    "MU"
   ]
 }
