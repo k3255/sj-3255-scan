@@ -1,70 +1,75 @@
 {
-  "scanTime": "2026-07-07T11:59:59.999000+00:00",
+  "scanTime": "2026-07-07T15:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "XAU",
-      "relativeScore": 0.2281,
-      "aiScore": 58.54
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": 1.4496,
-      "aiScore": 55.85
+      "symbol": "ZEC",
+      "relativeScore": 6.9134,
+      "aiScore": 79.63
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.0324,
-      "aiScore": 51.6
+      "relativeScore": 0.1192,
+      "aiScore": 59.23
     },
     {
-      "symbol": "SPCX",
-      "relativeScore": 0.3846,
-      "aiScore": 51.32
+      "symbol": "HYPE",
+      "relativeScore": -0.7592,
+      "aiScore": 57.64
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.7171,
-      "aiScore": 50.4
+      "relativeScore": 0.1443,
+      "aiScore": 55.95
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -1.2601,
+      "aiScore": 54.91
     },
     {
       "symbol": "XRP",
-      "relativeScore": -0.6379,
-      "aiScore": 46.15
-    },
-    {
-      "symbol": "MU",
-      "relativeScore": -1.489,
-      "aiScore": 43.71
-    },
-    {
-      "symbol": "SKHYNIX",
-      "relativeScore": 0.1993,
-      "aiScore": 40.97
+      "relativeScore": -0.3834,
+      "aiScore": 50.62
     },
     {
       "symbol": "DRAM",
-      "relativeScore": -1.8574,
-      "aiScore": 38.17
+      "relativeScore": -1.8929,
+      "aiScore": 47.0
     },
     {
-      "symbol": "KORU",
-      "relativeScore": -2.3479,
-      "aiScore": 36.12
+      "symbol": "MU",
+      "relativeScore": -2.1931,
+      "aiScore": 46.28
+    },
+    {
+      "symbol": "SKHYNIX",
+      "relativeScore": -2.4053,
+      "aiScore": 41.35
+    },
+    {
+      "symbol": "SPCX",
+      "relativeScore": -6.2707,
+      "aiScore": 40.32
     },
     {
       "symbol": "SNDK",
-      "relativeScore": -1.63,
-      "aiScore": 35.6
+      "relativeScore": -6.1158,
+      "aiScore": 32.18
     },
     {
-      "symbol": "LAB",
-      "relativeScore": -26.6291,
-      "aiScore": 30.18
+      "symbol": "KORU",
+      "relativeScore": -4.06,
+      "aiScore": 28.4
     },
     {
       "symbol": "SOXL",
-      "relativeScore": -3.903,
-      "aiScore": 29.22
+      "relativeScore": -7.6808,
+      "aiScore": 25.54
+    },
+    {
+      "symbol": "LAB",
+      "relativeScore": -32.9723,
+      "aiScore": 21.5
     }
   ]
 }

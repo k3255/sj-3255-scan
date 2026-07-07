@@ -1,14 +1,14 @@
 {
-  "scanTime": "2026-07-07T11:59:59.999000+00:00",
-  "btcReturn": 0.5047,
-  "altSeasonIndex": 38.46,
-  "leader": "XAU",
+  "scanTime": "2026-07-07T15:59:59.999000+00:00",
+  "btcReturn": 0.819,
+  "altSeasonIndex": 21.43,
+  "leader": "ZEC",
   "newEntries": [
-    "DRAM"
+    "ZEC"
   ],
   "recommended": [
-    "XAU",
-    "HYPE",
-    "ETH"
+    "ZEC",
+    "ETH",
+    "HYPE"
   ]
 }

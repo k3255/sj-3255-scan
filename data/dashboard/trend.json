@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-01T19:59:59.999000+00:00",
-      "btcReturn": -0.1913,
-      "altSeasonIndex": 20.0,
-      "leader": "TAIKO"
-    },
-    {
       "scanTime": "2026-07-02T03:59:59.999000+00:00",
       "btcReturn": 1.7107,
       "altSeasonIndex": 20.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.5047,
       "altSeasonIndex": 38.46,
       "leader": "XAU"
+    },
+    {
+      "scanTime": "2026-07-07T15:59:59.999000+00:00",
+      "btcReturn": 0.819,
+      "altSeasonIndex": 21.43,
+      "leader": "ZEC"
     }
   ]
 }
