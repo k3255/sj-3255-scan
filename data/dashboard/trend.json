@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-03T07:59:59.999000+00:00",
-      "btcReturn": 0.517,
-      "altSeasonIndex": 81.25,
-      "leader": "SKHYNIX"
-    },
-    {
       "scanTime": "2026-07-03T11:59:59.999000+00:00",
       "btcReturn": 0.4254,
       "altSeasonIndex": 78.57,
@@ -179,6 +173,12 @@
       "btcReturn": -0.9593,
       "altSeasonIndex": 47.06,
       "leader": "CL"
+    },
+    {
+      "scanTime": "2026-07-08T19:59:59.999000+00:00",
+      "btcReturn": 0.9269,
+      "altSeasonIndex": 70.59,
+      "leader": "KORU"
     }
   ]
 }
