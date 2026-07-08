@@ -1,17 +1,19 @@
 {
-  "scanTime": "2026-07-07T23:59:59.999000+00:00",
-  "btcReturn": -0.7129,
-  "altSeasonIndex": 29.41,
+  "scanTime": "2026-07-08T03:59:59.999000+00:00",
+  "btcReturn": -0.9386,
+  "altSeasonIndex": 70.59,
   "leader": "EVAA",
   "newEntries": [
-    "CL",
-    "XAU",
-    "LAB",
-    "XRP"
+    "SKHYNIX",
+    "DRAM",
+    "SNDK",
+    "MU",
+    "KORU",
+    "SOXL"
   ],
   "recommended": [
     "EVAA",
-    "CL",
-    "ZEC"
+    "SKHYNIX",
+    "DRAM"
   ]
 }
