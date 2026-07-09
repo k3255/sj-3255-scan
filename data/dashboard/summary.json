@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-07-09T03:59:59.999000+00:00",
-  "btcReturn": -0.4999,
-  "altSeasonIndex": 23.53,
-  "leader": "CL",
+  "scanTime": "2026-07-09T07:59:59.999000+00:00",
+  "btcReturn": 1.6592,
+  "altSeasonIndex": 50.0,
+  "leader": "KORU",
   "newEntries": [
-    "SOL",
-    "XRP",
-    "HYPE",
-    "XAU"
+    "KORU",
+    "SOXL",
+    "ZEC",
+    "XAG"
   ],
   "recommended": [
-    "CL",
-    "ETH",
-    "SOL"
+    "KORU",
+    "SOXL",
+    "SNDK"
   ]
 }
