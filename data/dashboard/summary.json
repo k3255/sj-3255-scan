@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-07-09T11:59:59.999000+00:00",
-  "btcReturn": -0.3341,
-  "altSeasonIndex": 69.23,
+  "scanTime": "2026-07-09T15:59:59.999000+00:00",
+  "btcReturn": 0.1136,
+  "altSeasonIndex": 64.29,
   "leader": "SOXL",
   "newEntries": [
-    "CL",
-    "XAU"
+    "XAG",
+    "SPCX",
+    "HYPE"
   ],
   "recommended": [
     "SOXL",
     "SNDK",
-    "SKHYNIX"
+    "KORU"
   ]
 }
