@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-07-09T15:59:59.999000+00:00",
-  "btcReturn": 0.1136,
-  "altSeasonIndex": 64.29,
-  "leader": "SOXL",
+  "scanTime": "2026-07-09T19:59:59.999000+00:00",
+  "btcReturn": 0.6134,
+  "altSeasonIndex": 40.0,
+  "leader": "ZEC",
   "newEntries": [
-    "XAG",
-    "SPCX",
-    "HYPE"
+    "ZEC",
+    "XRP",
+    "XAU"
   ],
   "recommended": [
-    "SOXL",
+    "ZEC",
     "SNDK",
-    "KORU"
+    "ETH"
   ]
 }
