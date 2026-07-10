@@ -1,17 +1,19 @@
 {
-  "scanTime": "2026-07-10T11:59:59.999000+00:00",
-  "btcReturn": 0.6885,
-  "altSeasonIndex": 43.75,
-  "leader": "ETH",
+  "scanTime": "2026-07-10T15:59:59.999000+00:00",
+  "btcReturn": -0.5749,
+  "altSeasonIndex": 52.94,
+  "leader": "SKHY",
   "newEntries": [
-    "SKHYNIX",
-    "EVAA",
-    "MU",
-    "CL"
+    "SKHY",
+    "SNDK",
+    "SOXL",
+    "XAU",
+    "XAG",
+    "SPCX"
   ],
   "recommended": [
-    "ETH",
-    "SKHYNIX",
-    "LAB"
+    "SKHY",
+    "SNDK",
+    "SOXL"
   ]
 }
