@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-10T03:59:59.999000+00:00",
-  "btcReturn": 1.1321,
-  "altSeasonIndex": 33.33,
+  "scanTime": "2026-07-10T07:59:59.999000+00:00",
+  "btcReturn": 0.0629,
+  "altSeasonIndex": 6.67,
   "leader": "ZEC",
   "newEntries": [
-    "SOXL",
-    "XAG"
+    "XAU",
+    "LAB"
   ],
   "recommended": [
     "ZEC",
-    "KORU",
-    "ETH"
+    "ETH",
+    "SOL"
   ]
 }
