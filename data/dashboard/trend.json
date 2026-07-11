@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-05T07:59:59.999000+00:00",
-      "btcReturn": 0.393,
-      "altSeasonIndex": 33.33,
-      "leader": "LAB"
-    },
-    {
       "scanTime": "2026-07-05T11:59:59.999000+00:00",
       "btcReturn": -0.5842,
       "altSeasonIndex": 50.0,
@@ -178,6 +172,12 @@
       "scanTime": "2026-07-10T19:59:59.999000+00:00",
       "btcReturn": -0.1798,
       "altSeasonIndex": 58.82,
+      "leader": "EVAA"
+    },
+    {
+      "scanTime": "2026-07-10T23:59:59.999000+00:00",
+      "btcReturn": 0.3637,
+      "altSeasonIndex": 28.57,
       "leader": "EVAA"
     }
   ]

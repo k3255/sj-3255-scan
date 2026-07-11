@@ -1,13 +1,11 @@
 {
-  "scanTime": "2026-07-10T19:59:59.999000+00:00",
-  "btcReturn": -0.1798,
-  "altSeasonIndex": 58.82,
+  "scanTime": "2026-07-10T23:59:59.999000+00:00",
+  "btcReturn": 0.3637,
+  "altSeasonIndex": 28.57,
   "leader": "EVAA",
   "newEntries": [
-    "EVAA",
-    "XRP",
-    "MU",
-    "HYPE"
+    "SKHYNIX",
+    "XAU"
   ],
   "recommended": [
     "EVAA",
