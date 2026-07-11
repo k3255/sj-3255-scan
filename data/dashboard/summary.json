@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-10T23:59:59.999000+00:00",
-  "btcReturn": 0.3637,
-  "altSeasonIndex": 28.57,
-  "leader": "EVAA",
+  "scanTime": "2026-07-11T03:59:59.999000+00:00",
+  "btcReturn": -0.0295,
+  "altSeasonIndex": 37.5,
+  "leader": "SKL",
   "newEntries": [
-    "SKHYNIX",
-    "XAU"
+    "SKL",
+    "ZEC"
   ],
   "recommended": [
-    "EVAA",
-    "SKHY",
-    "SNDK"
+    "SKL",
+    "SNDK",
+    "SKHY"
   ]
 }
