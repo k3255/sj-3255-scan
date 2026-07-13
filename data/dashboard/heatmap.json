@@ -1,55 +1,75 @@
 {
-  "scanTime": "2026-07-12T23:59:59.999000+00:00",
+  "scanTime": "2026-07-13T03:59:59.999000+00:00",
   "items": [
     {
       "symbol": "T",
-      "relativeScore": -0.4982,
-      "aiScore": 61.11
+      "relativeScore": 1.9872,
+      "aiScore": 68.17
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.087,
-      "aiScore": 52.82
+      "relativeScore": 0.0598,
+      "aiScore": 64.36
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": 0.9179,
+      "aiScore": 61.06
     },
     {
       "symbol": "XRP",
-      "relativeScore": -0.6047,
-      "aiScore": 51.22
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": -0.276,
-      "aiScore": 51.06
+      "relativeScore": 0.2586,
+      "aiScore": 60.79
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.2922,
-      "aiScore": 49.56
+      "relativeScore": 0.1561,
+      "aiScore": 58.88
     },
     {
-      "symbol": "SNDK",
-      "relativeScore": -0.7647,
-      "aiScore": 47.46
+      "symbol": "HYPE",
+      "relativeScore": 0.4685,
+      "aiScore": 55.55
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": -0.9247,
+      "aiScore": 54.02
     },
     {
       "symbol": "CL",
-      "relativeScore": 0.3746,
-      "aiScore": 45.62
+      "relativeScore": 2.311,
+      "aiScore": 50.41
+    },
+    {
+      "symbol": "SNDK",
+      "relativeScore": -4.4286,
+      "aiScore": 48.29
+    },
+    {
+      "symbol": "LAB",
+      "relativeScore": 4.2143,
+      "aiScore": 44.42
+    },
+    {
+      "symbol": "SOXL",
+      "relativeScore": -6.3406,
+      "aiScore": 41.5
     },
     {
       "symbol": "SKHYNIX",
-      "relativeScore": -3.897,
-      "aiScore": 41.97
+      "relativeScore": -7.8636,
+      "aiScore": 34.81
     },
     {
       "symbol": "EVAA",
-      "relativeScore": -0.9477,
-      "aiScore": 38.68
+      "relativeScore": -2.9423,
+      "aiScore": 22.74
     },
     {
       "symbol": "KORU",
-      "relativeScore": -3.4909,
-      "aiScore": 35.92
+      "relativeScore": -17.1298,
+      "aiScore": 18.73
     }
   ]
 }
