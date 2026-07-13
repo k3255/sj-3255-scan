@@ -1,75 +1,75 @@
 {
-  "scanTime": "2026-07-13T03:59:59.999000+00:00",
+  "scanTime": "2026-07-13T07:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "T",
-      "relativeScore": 1.9872,
-      "aiScore": 68.17
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": 0.0598,
-      "aiScore": 64.36
-    },
-    {
-      "symbol": "XAU",
-      "relativeScore": 0.9179,
-      "aiScore": 61.06
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": 0.2586,
-      "aiScore": 60.79
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.1561,
-      "aiScore": 58.88
+      "symbol": "XAG",
+      "relativeScore": 0.2681,
+      "aiScore": 59.09
     },
     {
       "symbol": "HYPE",
-      "relativeScore": 0.4685,
-      "aiScore": 55.55
+      "relativeScore": -1.9031,
+      "aiScore": 56.41
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.0907,
+      "aiScore": 53.69
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -0.1562,
+      "aiScore": 53.6
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": 0.4744,
+      "aiScore": 52.54
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.3905,
+      "aiScore": 50.88
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -0.9247,
-      "aiScore": 54.02
+      "relativeScore": 0.0013,
+      "aiScore": 50.68
+    },
+    {
+      "symbol": "MU",
+      "relativeScore": -1.2635,
+      "aiScore": 45.41
     },
     {
       "symbol": "CL",
-      "relativeScore": 2.311,
-      "aiScore": 50.41
+      "relativeScore": -0.6556,
+      "aiScore": 43.73
     },
     {
       "symbol": "SNDK",
-      "relativeScore": -4.4286,
-      "aiScore": 48.29
-    },
-    {
-      "symbol": "LAB",
-      "relativeScore": 4.2143,
-      "aiScore": 44.42
+      "relativeScore": -2.1411,
+      "aiScore": 41.29
     },
     {
       "symbol": "SOXL",
-      "relativeScore": -6.3406,
-      "aiScore": 41.5
+      "relativeScore": -1.8801,
+      "aiScore": 40.69
     },
     {
       "symbol": "SKHYNIX",
-      "relativeScore": -7.8636,
-      "aiScore": 34.81
-    },
-    {
-      "symbol": "EVAA",
-      "relativeScore": -2.9423,
-      "aiScore": 22.74
+      "relativeScore": -4.0994,
+      "aiScore": 38.9
     },
     {
       "symbol": "KORU",
-      "relativeScore": -17.1298,
-      "aiScore": 18.73
+      "relativeScore": -3.5296,
+      "aiScore": 21.66
+    },
+    {
+      "symbol": "EVAA",
+      "relativeScore": -16.4641,
+      "aiScore": 7.5
     }
   ]
 }
