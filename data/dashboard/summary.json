@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-07-13T23:59:59.999000+00:00",
-  "btcReturn": 0.0822,
-  "altSeasonIndex": 17.65,
-  "leader": "CL",
+  "scanTime": "2026-07-14T03:59:59.999000+00:00",
+  "btcReturn": 0.361,
+  "altSeasonIndex": 52.94,
+  "leader": "LAB",
   "newEntries": [
-    "LAB",
-    "ZEC"
+    "DRAM",
+    "SNDK",
+    "SKHY"
   ],
   "recommended": [
-    "CL",
-    "ETH",
-    "XRP"
+    "LAB",
+    "MU",
+    "CL"
   ]
 }
