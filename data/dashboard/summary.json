@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-07-14T03:59:59.999000+00:00",
-  "btcReturn": 0.361,
-  "altSeasonIndex": 52.94,
-  "leader": "LAB",
+  "scanTime": "2026-07-14T07:59:59.999000+00:00",
+  "btcReturn": -0.0373,
+  "altSeasonIndex": 82.35,
+  "leader": "SKHYNIX",
   "newEntries": [
-    "DRAM",
-    "SNDK",
-    "SKHY"
+    "SKHYNIX",
+    "KORU",
+    "SOXL"
   ],
   "recommended": [
-    "LAB",
-    "MU",
-    "CL"
+    "SKHYNIX",
+    "DRAM",
+    "KORU"
   ]
 }
