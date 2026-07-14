@@ -1,18 +1,15 @@
 {
-  "scanTime": "2026-07-14T15:59:59.999000+00:00",
-  "btcReturn": 3.0385,
-  "altSeasonIndex": 27.78,
+  "scanTime": "2026-07-14T19:59:59.999000+00:00",
+  "btcReturn": -0.2687,
+  "altSeasonIndex": 77.78,
   "leader": "SKHY",
   "newEntries": [
-    "SKHY",
-    "ZEC",
-    "KORU",
-    "XRP",
-    "SPCX"
+    "SKHYNIX",
+    "CL"
   ],
   "recommended": [
     "SKHY",
-    "ETH",
+    "SKHYNIX",
     "ZEC"
   ]
 }
