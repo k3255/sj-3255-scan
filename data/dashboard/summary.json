@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-07-15T03:59:59.999000+00:00",
-  "btcReturn": -0.3747,
-  "altSeasonIndex": 60.0,
-  "leader": "SKHY",
+  "scanTime": "2026-07-15T07:59:59.999000+00:00",
+  "btcReturn": -0.3652,
+  "altSeasonIndex": 40.0,
+  "leader": "ETH",
   "newEntries": [
-    "SNDK"
+    "CL",
+    "XAG"
   ],
   "recommended": [
-    "SKHY",
-    "SKHYNIX",
-    "HYPE"
+    "ETH",
+    "XRP",
+    "SOL"
   ]
 }
