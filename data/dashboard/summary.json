@@ -1,16 +1,12 @@
 {
-  "scanTime": "2026-07-15T23:59:59.999000+00:00",
-  "btcReturn": -0.3432,
-  "altSeasonIndex": 60.0,
-  "leader": "ZEC",
-  "newEntries": [
-    "XRP",
-    "HYPE",
-    "XAU"
-  ],
+  "scanTime": "2026-07-16T03:59:59.999000+00:00",
+  "btcReturn": -0.2095,
+  "altSeasonIndex": 46.67,
+  "leader": "ETH",
+  "newEntries": [],
   "recommended": [
-    "ZEC",
     "ETH",
+    "ZEC",
     "XRP"
   ]
 }

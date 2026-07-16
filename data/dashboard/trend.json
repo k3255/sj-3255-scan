@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-11T03:59:59.999000+00:00",
-      "btcReturn": -0.0295,
-      "altSeasonIndex": 37.5,
-      "leader": "SKL"
-    },
-    {
       "scanTime": "2026-07-11T07:59:59.999000+00:00",
       "btcReturn": 0.0069,
       "altSeasonIndex": 58.33,
@@ -179,6 +173,12 @@
       "btcReturn": -0.3432,
       "altSeasonIndex": 60.0,
       "leader": "ZEC"
+    },
+    {
+      "scanTime": "2026-07-16T03:59:59.999000+00:00",
+      "btcReturn": -0.2095,
+      "altSeasonIndex": 46.67,
+      "leader": "ETH"
     }
   ]
 }
