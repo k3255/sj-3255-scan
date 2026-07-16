@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-11T19:59:59.999000+00:00",
-      "btcReturn": 0.1833,
-      "altSeasonIndex": 50.0,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-07-11T23:59:59.999000+00:00",
       "btcReturn": -0.7357,
       "altSeasonIndex": 28.57,
@@ -179,6 +173,12 @@
       "btcReturn": 0.6999,
       "altSeasonIndex": 6.67,
       "leader": "XAU"
+    },
+    {
+      "scanTime": "2026-07-16T19:59:59.999000+00:00",
+      "btcReturn": -0.6715,
+      "altSeasonIndex": 20.0,
+      "leader": "ETH"
     }
   ]
 }
