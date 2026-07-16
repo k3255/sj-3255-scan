@@ -1,12 +1,14 @@
 {
-  "scanTime": "2026-07-16T11:59:59.999000+00:00",
-  "btcReturn": 0.0304,
-  "altSeasonIndex": 20.0,
-  "leader": "ETH",
-  "newEntries": [],
+  "scanTime": "2026-07-16T15:59:59.999000+00:00",
+  "btcReturn": 0.6999,
+  "altSeasonIndex": 6.67,
+  "leader": "XAU",
+  "newEntries": [
+    "MU"
+  ],
   "recommended": [
+    "XAU",
     "ETH",
-    "XRP",
-    "SOL"
+    "XRP"
   ]
 }
