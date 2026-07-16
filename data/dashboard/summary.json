@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-07-15T19:59:59.999000+00:00",
-  "btcReturn": -0.6667,
-  "altSeasonIndex": 71.43,
-  "leader": "SKHY",
+  "scanTime": "2026-07-15T23:59:59.999000+00:00",
+  "btcReturn": -0.3432,
+  "altSeasonIndex": 60.0,
+  "leader": "ZEC",
   "newEntries": [
-    "SNDK",
-    "SOXL",
-    "MU"
+    "XRP",
+    "HYPE",
+    "XAU"
   ],
   "recommended": [
-    "SKHY",
-    "SNDK",
-    "SOXL"
+    "ZEC",
+    "ETH",
+    "XRP"
   ]
 }
