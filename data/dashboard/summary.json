@@ -1,19 +1,14 @@
 {
-  "scanTime": "2026-07-17T19:59:59.999000+00:00",
-  "btcReturn": 1.0805,
-  "altSeasonIndex": 0.0,
-  "leader": "CL",
+  "scanTime": "2026-07-17T23:59:59.999000+00:00",
+  "btcReturn": -0.3364,
+  "altSeasonIndex": 56.25,
+  "leader": "BANK",
   "newEntries": [
-    "XRP",
-    "ETH",
-    "SOL",
-    "ZEC",
-    "SPCX",
-    "HYPE"
+    "BANK"
   ],
   "recommended": [
+    "BANK",
     "CL",
-    "XRP",
     "ETH"
   ]
 }

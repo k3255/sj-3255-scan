@@ -1,85 +1,85 @@
 {
-  "scanTime": "2026-07-17T19:59:59.999000+00:00",
+  "scanTime": "2026-07-17T23:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "CL",
-      "relativeScore": -0.119,
-      "aiScore": 50.82
+      "symbol": "BANK",
+      "relativeScore": 6.9648,
+      "aiScore": 79.69
     },
     {
-      "symbol": "XRP",
-      "relativeScore": -0.323,
-      "aiScore": 48.91
+      "symbol": "CL",
+      "relativeScore": 1.2163,
+      "aiScore": 49.51
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.3898,
-      "aiScore": 48.83
+      "relativeScore": 0.2463,
+      "aiScore": 49.03
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.5185,
-      "aiScore": 47.39
+      "relativeScore": 0.1076,
+      "aiScore": 47.33
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.1255,
+      "aiScore": 47.29
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -0.6501,
-      "aiScore": 47.04
+      "relativeScore": 0.5727,
+      "aiScore": 46.99
     },
     {
       "symbol": "XAU",
-      "relativeScore": -1.1528,
-      "aiScore": 43.98
-    },
-    {
-      "symbol": "XAG",
-      "relativeScore": -0.938,
-      "aiScore": 41.63
-    },
-    {
-      "symbol": "SPCX",
-      "relativeScore": -1.6096,
-      "aiScore": 40.06
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": -1.9329,
-      "aiScore": 38.69
+      "relativeScore": 0.2879,
+      "aiScore": 46.21
     },
     {
       "symbol": "MU",
-      "relativeScore": -4.9498,
-      "aiScore": 38.56
+      "relativeScore": -0.3174,
+      "aiScore": 40.36
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": -0.5135,
+      "aiScore": 40.07
+    },
+    {
+      "symbol": "SPCX",
+      "relativeScore": 0.5298,
+      "aiScore": 39.54
     },
     {
       "symbol": "DRAM",
-      "relativeScore": -4.6826,
-      "aiScore": 34.61
-    },
-    {
-      "symbol": "SKHY",
-      "relativeScore": -7.1328,
-      "aiScore": 31.84
-    },
-    {
-      "symbol": "SOXL",
-      "relativeScore": -3.8148,
-      "aiScore": 31.59
+      "relativeScore": -0.6879,
+      "aiScore": 38.65
     },
     {
       "symbol": "SKHYNIX",
-      "relativeScore": -5.3077,
-      "aiScore": 27.94
+      "relativeScore": -0.2892,
+      "aiScore": 38.19
     },
     {
       "symbol": "SNDK",
-      "relativeScore": -9.607,
-      "aiScore": 24.72
+      "relativeScore": -0.1156,
+      "aiScore": 35.05
+    },
+    {
+      "symbol": "SOXL",
+      "relativeScore": -0.6671,
+      "aiScore": 34.94
+    },
+    {
+      "symbol": "SKHY",
+      "relativeScore": 0.1158,
+      "aiScore": 34.19
     },
     {
       "symbol": "KORU",
-      "relativeScore": -9.309,
-      "aiScore": 15.68
+      "relativeScore": -1.8751,
+      "aiScore": 29.96
     }
   ]
 }
