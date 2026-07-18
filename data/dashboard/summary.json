@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-07-18T03:59:59.999000+00:00",
-  "btcReturn": 0.1299,
-  "altSeasonIndex": 73.33,
-  "leader": "BANK",
+  "scanTime": "2026-07-18T07:59:59.999000+00:00",
+  "btcReturn": -0.0161,
+  "altSeasonIndex": 20.0,
+  "leader": "ETH",
   "newEntries": [
-    "KORU",
-    "DRAM",
-    "SKHYNIX"
+    "HYPE",
+    "SPCX"
   ],
   "recommended": [
-    "BANK",
-    "KORU",
-    "ETH"
+    "ETH",
+    "XRP",
+    "CL"
   ]
 }
