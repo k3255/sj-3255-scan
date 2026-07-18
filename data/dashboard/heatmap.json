@@ -1,35 +1,30 @@
 {
-  "scanTime": "2026-07-18T15:59:59.999000+00:00",
+  "scanTime": "2026-07-18T19:59:59.999000+00:00",
   "items": [
     {
+      "symbol": "BANK",
+      "relativeScore": 39.9571,
+      "aiScore": 95.5
+    },
+    {
       "symbol": "ETH",
-      "relativeScore": -0.1626,
-      "aiScore": 48.64
+      "relativeScore": 0.1187,
+      "aiScore": 50.13
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.0656,
-      "aiScore": 47.53
+      "relativeScore": -0.0538,
+      "aiScore": 49.58
     },
     {
       "symbol": "CL",
-      "relativeScore": -0.2799,
-      "aiScore": 46.55
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": 0.5497,
-      "aiScore": 44.44
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": -0.3589,
-      "aiScore": 34.76
+      "relativeScore": 0.4653,
+      "aiScore": 48.82
     },
     {
       "symbol": "SKHY",
-      "relativeScore": -1.1108,
-      "aiScore": 34.09
+      "relativeScore": -0.3246,
+      "aiScore": 35.79
     }
   ]
 }
