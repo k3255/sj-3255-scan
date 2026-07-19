@@ -1,14 +1,12 @@
 {
-  "scanTime": "2026-07-19T15:59:59.999000+00:00",
-  "btcReturn": 0.1702,
-  "altSeasonIndex": 28.57,
+  "scanTime": "2026-07-19T19:59:59.999000+00:00",
+  "btcReturn": -0.1758,
+  "altSeasonIndex": 42.86,
   "leader": "BANK",
-  "newEntries": [
-    "XRP"
-  ],
+  "newEntries": [],
   "recommended": [
     "BANK",
-    "ETH",
-    "SOL"
+    "ESPORTS",
+    "ETH"
   ]
 }
