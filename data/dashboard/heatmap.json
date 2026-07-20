@@ -1,40 +1,45 @@
 {
-  "scanTime": "2026-07-19T19:59:59.999000+00:00",
+  "scanTime": "2026-07-19T23:59:59.999000+00:00",
   "items": [
     {
       "symbol": "BANK",
-      "relativeScore": 43.2226,
-      "aiScore": 88.83
-    },
-    {
-      "symbol": "ESPORTS",
-      "relativeScore": 6.6822,
-      "aiScore": 62.97
+      "relativeScore": -2.1726,
+      "aiScore": 57.04
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.2931,
-      "aiScore": 51.19
+      "relativeScore": 0.1283,
+      "aiScore": 52.41
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.2626,
-      "aiScore": 50.75
+      "relativeScore": 0.2435,
+      "aiScore": 52.04
     },
     {
       "symbol": "XRP",
-      "relativeScore": -0.134,
-      "aiScore": 50.23
+      "relativeScore": -0.1154,
+      "aiScore": 50.19
     },
     {
       "symbol": "CL",
-      "relativeScore": -0.2404,
-      "aiScore": 46.24
+      "relativeScore": 0.0257,
+      "aiScore": 47.69
+    },
+    {
+      "symbol": "SKHYNIX",
+      "relativeScore": -2.0619,
+      "aiScore": 45.93
     },
     {
       "symbol": "SKHY",
-      "relativeScore": 0.2407,
-      "aiScore": 42.02
+      "relativeScore": -0.9396,
+      "aiScore": 39.91
+    },
+    {
+      "symbol": "ESPORTS",
+      "relativeScore": -4.7903,
+      "aiScore": 30.22
     }
   ]
 }

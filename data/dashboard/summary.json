@@ -1,12 +1,14 @@
 {
-  "scanTime": "2026-07-19T19:59:59.999000+00:00",
-  "btcReturn": -0.1758,
-  "altSeasonIndex": 42.86,
+  "scanTime": "2026-07-19T23:59:59.999000+00:00",
+  "btcReturn": 0.4078,
+  "altSeasonIndex": 37.5,
   "leader": "BANK",
-  "newEntries": [],
+  "newEntries": [
+    "SKHYNIX"
+  ],
   "recommended": [
     "BANK",
-    "ESPORTS",
-    "ETH"
+    "ETH",
+    "SOL"
   ]
 }

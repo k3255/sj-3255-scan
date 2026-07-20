@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-14T23:59:59.999000+00:00",
-      "btcReturn": 0.7156,
-      "altSeasonIndex": 31.25,
-      "leader": "ZEC"
-    },
-    {
       "scanTime": "2026-07-15T03:59:59.999000+00:00",
       "btcReturn": -0.3747,
       "altSeasonIndex": 60.0,
@@ -178,6 +172,12 @@
       "scanTime": "2026-07-19T19:59:59.999000+00:00",
       "btcReturn": -0.1758,
       "altSeasonIndex": 42.86,
+      "leader": "BANK"
+    },
+    {
+      "scanTime": "2026-07-19T23:59:59.999000+00:00",
+      "btcReturn": 0.4078,
+      "altSeasonIndex": 37.5,
       "leader": "BANK"
     }
   ]
