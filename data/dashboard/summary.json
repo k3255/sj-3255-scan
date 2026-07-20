@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-07-20T07:59:59.999000+00:00",
-  "btcReturn": -0.9067,
-  "altSeasonIndex": 80.0,
-  "leader": "SKHYNIX",
+  "scanTime": "2026-07-20T11:59:59.999000+00:00",
+  "btcReturn": 1.1155,
+  "altSeasonIndex": 76.92,
+  "leader": "BANK",
   "newEntries": [
-    "MU"
+    "KORU",
+    "XAU"
   ],
   "recommended": [
-    "SKHYNIX",
-    "SOL",
-    "ETH"
+    "BANK",
+    "SOXL",
+    "MU"
   ]
 }
