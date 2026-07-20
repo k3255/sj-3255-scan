@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-07-19T23:59:59.999000+00:00",
-  "btcReturn": 0.4078,
-  "altSeasonIndex": 37.5,
+  "scanTime": "2026-07-20T03:59:59.999000+00:00",
+  "btcReturn": 0.2131,
+  "altSeasonIndex": 70.0,
   "leader": "BANK",
   "newEntries": [
-    "SKHYNIX"
+    "SOXL",
+    "SNDK"
   ],
   "recommended": [
     "BANK",
-    "ETH",
-    "SOL"
+    "SKHYNIX",
+    "ETH"
   ]
 }
