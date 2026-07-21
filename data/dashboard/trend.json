@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-15T23:59:59.999000+00:00",
-      "btcReturn": -0.3432,
-      "altSeasonIndex": 60.0,
-      "leader": "ZEC"
-    },
-    {
       "scanTime": "2026-07-16T03:59:59.999000+00:00",
       "btcReturn": -0.2095,
       "altSeasonIndex": 46.67,
@@ -179,6 +173,12 @@
       "btcReturn": -0.6759,
       "altSeasonIndex": 40.0,
       "leader": "XRP"
+    },
+    {
+      "scanTime": "2026-07-20T23:59:59.999000+00:00",
+      "btcReturn": 0.1715,
+      "altSeasonIndex": 53.33,
+      "leader": "SOL"
     }
   ]
 }
