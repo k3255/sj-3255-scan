@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-16T11:59:59.999000+00:00",
-      "btcReturn": 0.0304,
-      "altSeasonIndex": 20.0,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-07-16T15:59:59.999000+00:00",
       "btcReturn": 0.6999,
       "altSeasonIndex": 6.67,
@@ -179,6 +173,12 @@
       "btcReturn": 0.9536,
       "altSeasonIndex": 20.0,
       "leader": "XRP"
+    },
+    {
+      "scanTime": "2026-07-21T11:59:59.999000+00:00",
+      "btcReturn": 0.2275,
+      "altSeasonIndex": 28.57,
+      "leader": "SOXL"
     }
   ]
 }

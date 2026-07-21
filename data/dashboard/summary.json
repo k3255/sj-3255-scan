@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-07-21T07:59:59.999000+00:00",
-  "btcReturn": 0.9536,
-  "altSeasonIndex": 20.0,
-  "leader": "XRP",
+  "scanTime": "2026-07-21T11:59:59.999000+00:00",
+  "btcReturn": 0.2275,
+  "altSeasonIndex": 28.57,
+  "leader": "SOXL",
   "newEntries": [
-    "SOL"
+    "CL",
+    "ZEC"
   ],
   "recommended": [
-    "XRP",
     "SOXL",
+    "CL",
     "ETH"
   ]
 }
