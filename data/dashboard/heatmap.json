@@ -1,69 +1,74 @@
 {
-  "scanTime": "2026-07-21T15:59:59.999000+00:00",
+  "scanTime": "2026-07-21T19:59:59.999000+00:00",
   "items": [
     {
       "symbol": "MU",
-      "relativeScore": 3.1248,
-      "aiScore": 74.45
+      "relativeScore": 2.1954,
+      "aiScore": 73.74
     },
     {
       "symbol": "SNDK",
-      "relativeScore": 2.2569,
-      "aiScore": 71.25
-    },
-    {
-      "symbol": "SOXL",
-      "relativeScore": 0.6447,
-      "aiScore": 70.73
-    },
-    {
-      "symbol": "SPCX",
-      "relativeScore": 4.947,
-      "aiScore": 70.28
+      "relativeScore": 3.5061,
+      "aiScore": 71.3
     },
     {
       "symbol": "SKHY",
-      "relativeScore": 2.2743,
-      "aiScore": 66.78
+      "relativeScore": 4.6071,
+      "aiScore": 68.21
     },
     {
-      "symbol": "XRP",
-      "relativeScore": 1.0859,
-      "aiScore": 66.01
+      "symbol": "SOXL",
+      "relativeScore": 1.826,
+      "aiScore": 65.11
     },
     {
       "symbol": "SKHYNIX",
-      "relativeScore": 1.7886,
-      "aiScore": 60.54
+      "relativeScore": 2.8755,
+      "aiScore": 62.85
     },
     {
-      "symbol": "BANK",
-      "relativeScore": 19.8426,
-      "aiScore": 58.3
-    },
-    {
-      "symbol": "XAU",
-      "relativeScore": -0.079,
-      "aiScore": 56.09
-    },
-    {
-      "symbol": "CL",
-      "relativeScore": 0.2999,
-      "aiScore": 55.49
+      "symbol": "XRP",
+      "relativeScore": 0.5601,
+      "aiScore": 62.34
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.7046,
-      "aiScore": 54.94
+      "relativeScore": -0.1013,
+      "aiScore": 52.26
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.7758,
-      "aiScore": 53.65
+      "relativeScore": -0.0122,
+      "aiScore": 52.2
+    },
+    {
+      "symbol": "SPCX",
+      "relativeScore": -3.3343,
+      "aiScore": 50.12
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": -2.1133,
+      "aiScore": 49.33
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": 0.5873,
+      "aiScore": 49.08
+    },
+    {
+      "symbol": "CL",
+      "relativeScore": 0.4981,
+      "aiScore": 46.8
+    },
+    {
+      "symbol": "BANK",
+      "relativeScore": 2.8508,
+      "aiScore": 45.35
     },
     {
       "symbol": "DEXE",
-      "relativeScore": -17.5331,
+      "relativeScore": -24.7745,
       "aiScore": 18.5
     }
   ]
