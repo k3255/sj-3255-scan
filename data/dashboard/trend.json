@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-16T03:59:59.999000+00:00",
-      "btcReturn": -0.2095,
-      "altSeasonIndex": 46.67,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-07-16T07:59:59.999000+00:00",
       "btcReturn": -0.5948,
       "altSeasonIndex": 46.67,
@@ -179,6 +173,12 @@
       "btcReturn": 0.1715,
       "altSeasonIndex": 53.33,
       "leader": "SOL"
+    },
+    {
+      "scanTime": "2026-07-21T03:59:59.999000+00:00",
+      "btcReturn": 0.4653,
+      "altSeasonIndex": 86.67,
+      "leader": "SKHYNIX"
     }
   ]
 }
