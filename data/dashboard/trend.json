@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-16T15:59:59.999000+00:00",
-      "btcReturn": 0.6999,
-      "altSeasonIndex": 6.67,
-      "leader": "XAU"
-    },
-    {
       "scanTime": "2026-07-16T19:59:59.999000+00:00",
       "btcReturn": -0.6715,
       "altSeasonIndex": 20.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2275,
       "altSeasonIndex": 28.57,
       "leader": "SOXL"
+    },
+    {
+      "scanTime": "2026-07-21T15:59:59.999000+00:00",
+      "btcReturn": 0.5077,
+      "altSeasonIndex": 69.23,
+      "leader": "MU"
     }
   ]
 }
