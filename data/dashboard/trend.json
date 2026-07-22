@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-17T15:59:59.999000+00:00",
-      "btcReturn": 0.2559,
-      "altSeasonIndex": 75.0,
-      "leader": "DRAM"
-    },
-    {
       "scanTime": "2026-07-17T19:59:59.999000+00:00",
       "btcReturn": 1.0805,
       "altSeasonIndex": 0.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2618,
       "altSeasonIndex": 33.33,
       "leader": "BANK"
+    },
+    {
+      "scanTime": "2026-07-22T15:59:59.999000+00:00",
+      "btcReturn": 0.0292,
+      "altSeasonIndex": 80.0,
+      "leader": "SOXL"
     }
   ]
 }
