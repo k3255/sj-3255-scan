@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-07-22T03:59:59.999000+00:00",
-  "btcReturn": -0.5309,
-  "altSeasonIndex": 40.0,
-  "leader": "BANK",
+  "scanTime": "2026-07-22T07:59:59.999000+00:00",
+  "btcReturn": -0.5446,
+  "altSeasonIndex": 20.0,
+  "leader": "CL",
   "newEntries": [
-    "XAU",
-    "CL",
-    "KORU"
+    "XRP",
+    "HYPE"
   ],
   "recommended": [
-    "BANK",
-    "XAU",
-    "SKHYNIX"
+    "CL",
+    "SNDK",
+    "MU"
   ]
 }
