@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-18T15:59:59.999000+00:00",
-      "btcReturn": 0.0829,
-      "altSeasonIndex": 16.67,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-07-18T19:59:59.999000+00:00",
       "btcReturn": 0.673,
       "altSeasonIndex": 60.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.1809,
       "altSeasonIndex": 53.33,
       "leader": "BANK"
+    },
+    {
+      "scanTime": "2026-07-23T15:59:59.999000+00:00",
+      "btcReturn": -0.8995,
+      "altSeasonIndex": 53.33,
+      "leader": "SNDK"
     }
   ]
 }
