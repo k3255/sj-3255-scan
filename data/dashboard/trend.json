@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-18T19:59:59.999000+00:00",
-      "btcReturn": 0.673,
-      "altSeasonIndex": 60.0,
-      "leader": "BANK"
-    },
-    {
       "scanTime": "2026-07-18T23:59:59.999000+00:00",
       "btcReturn": 0.4231,
       "altSeasonIndex": 0.0,
@@ -179,6 +173,12 @@
       "btcReturn": -0.8995,
       "altSeasonIndex": 53.33,
       "leader": "SNDK"
+    },
+    {
+      "scanTime": "2026-07-23T19:59:59.999000+00:00",
+      "btcReturn": -0.1745,
+      "altSeasonIndex": 46.67,
+      "leader": "MU"
     }
   ]
 }
