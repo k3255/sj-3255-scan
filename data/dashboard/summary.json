@@ -1,17 +1,15 @@
 {
-  "scanTime": "2026-07-24T07:59:59.999000+00:00",
-  "btcReturn": 0.0604,
-  "altSeasonIndex": 94.44,
+  "scanTime": "2026-07-24T11:59:59.999000+00:00",
+  "btcReturn": -0.6391,
+  "altSeasonIndex": 75.0,
   "leader": "BANK",
   "newEntries": [
-    "SOXL",
-    "INTC",
-    "SKHYNIX",
-    "SKHY"
+    "DEXE",
+    "XAU"
   ],
   "recommended": [
     "BANK",
-    "SOXL",
-    "MU"
+    "INTC",
+    "DEXE"
   ]
 }
