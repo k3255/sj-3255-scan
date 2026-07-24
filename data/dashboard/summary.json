@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-07-23T23:59:59.999000+00:00",
-  "btcReturn": 0.3729,
-  "altSeasonIndex": 17.65,
-  "leader": "BANK",
+  "scanTime": "2026-07-24T03:59:59.999000+00:00",
+  "btcReturn": 0.561,
+  "altSeasonIndex": 11.76,
+  "leader": "ETH",
   "newEntries": [
-    "SKHY",
-    "XRP"
+    "HYPE",
+    "XAU",
+    "XAG"
   ],
   "recommended": [
-    "BANK",
-    "SOXL",
-    "CL"
+    "ETH",
+    "CL",
+    "SOL"
   ]
 }

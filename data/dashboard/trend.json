@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-19T03:59:59.999000+00:00",
-      "btcReturn": -0.1746,
-      "altSeasonIndex": 100.0,
-      "leader": "ESPORTS"
-    },
-    {
       "scanTime": "2026-07-19T07:59:59.999000+00:00",
       "btcReturn": 0.0136,
       "altSeasonIndex": 83.33,
@@ -179,6 +173,12 @@
       "btcReturn": 0.3729,
       "altSeasonIndex": 17.65,
       "leader": "BANK"
+    },
+    {
+      "scanTime": "2026-07-24T03:59:59.999000+00:00",
+      "btcReturn": 0.561,
+      "altSeasonIndex": 11.76,
+      "leader": "ETH"
     }
   ]
 }
