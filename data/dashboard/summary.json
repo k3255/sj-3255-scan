@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-07-24T11:59:59.999000+00:00",
-  "btcReturn": -0.6391,
-  "altSeasonIndex": 75.0,
+  "scanTime": "2026-07-24T15:59:59.999000+00:00",
+  "btcReturn": -1.5076,
+  "altSeasonIndex": 43.75,
   "leader": "BANK",
   "newEntries": [
-    "DEXE",
-    "XAU"
+    "HYPE",
+    "XRP",
+    "CL"
   ],
   "recommended": [
     "BANK",
-    "INTC",
-    "DEXE"
+    "ETH",
+    "MU"
   ]
 }
