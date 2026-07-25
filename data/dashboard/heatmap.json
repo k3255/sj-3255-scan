@@ -1,30 +1,25 @@
 {
-  "scanTime": "2026-07-25T15:59:59.999000+00:00",
+  "scanTime": "2026-07-25T19:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "DEXE",
-      "relativeScore": 5.818,
-      "aiScore": 64.2
+      "symbol": "BANK",
+      "relativeScore": 13.5365,
+      "aiScore": 79.8
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.354,
-      "aiScore": 49.46
+      "relativeScore": 0.0319,
+      "aiScore": 48.4
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.1493,
-      "aiScore": 47.48
+      "relativeScore": 0.204,
+      "aiScore": 47.98
     },
     {
-      "symbol": "BANK",
-      "relativeScore": -6.9128,
-      "aiScore": 44.37
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": -0.247,
-      "aiScore": 41.84
+      "symbol": "DEXE",
+      "relativeScore": 1.5844,
+      "aiScore": 46.35
     }
   ]
 }
