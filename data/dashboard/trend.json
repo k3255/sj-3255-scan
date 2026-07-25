@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-20T07:59:59.999000+00:00",
-      "btcReturn": -0.9067,
-      "altSeasonIndex": 80.0,
-      "leader": "SKHYNIX"
-    },
-    {
       "scanTime": "2026-07-20T11:59:59.999000+00:00",
       "btcReturn": 1.1155,
       "altSeasonIndex": 76.92,
@@ -177,6 +171,12 @@
     {
       "scanTime": "2026-07-25T03:59:59.999000+00:00",
       "btcReturn": -0.1033,
+      "altSeasonIndex": 76.92,
+      "leader": "DEXE"
+    },
+    {
+      "scanTime": "2026-07-25T07:59:59.999000+00:00",
+      "btcReturn": -0.1171,
       "altSeasonIndex": 76.92,
       "leader": "DEXE"
     }

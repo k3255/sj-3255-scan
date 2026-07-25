@@ -1,15 +1,14 @@
 {
-  "scanTime": "2026-07-25T03:59:59.999000+00:00",
-  "btcReturn": -0.1033,
+  "scanTime": "2026-07-25T07:59:59.999000+00:00",
+  "btcReturn": -0.1171,
   "altSeasonIndex": 76.92,
   "leader": "DEXE",
   "newEntries": [
-    "SKHY",
-    "SNDK"
+    "SPCX"
   ],
   "recommended": [
     "DEXE",
     "BANK",
-    "MU"
+    "CL"
   ]
 }

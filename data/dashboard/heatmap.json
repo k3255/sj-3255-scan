@@ -1,70 +1,70 @@
 {
-  "scanTime": "2026-07-25T03:59:59.999000+00:00",
+  "scanTime": "2026-07-25T07:59:59.999000+00:00",
   "items": [
     {
       "symbol": "DEXE",
-      "relativeScore": 23.3332,
-      "aiScore": 65.01
+      "relativeScore": 28.7185,
+      "aiScore": 72.5
     },
     {
       "symbol": "BANK",
-      "relativeScore": 0.9733,
-      "aiScore": 59.56
-    },
-    {
-      "symbol": "MU",
-      "relativeScore": 1.5594,
-      "aiScore": 48.41
-    },
-    {
-      "symbol": "SKHYNIX",
-      "relativeScore": 2.0524,
-      "aiScore": 47.99
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": -0.0354,
-      "aiScore": 47.99
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.3359,
-      "aiScore": 47.41
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": 0.0666,
-      "aiScore": 46.36
+      "relativeScore": 4.4365,
+      "aiScore": 67.39
     },
     {
       "symbol": "CL",
-      "relativeScore": -0.7704,
-      "aiScore": 45.74
+      "relativeScore": 0.3475,
+      "aiScore": 48.39
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": -0.0288,
+      "aiScore": 47.9
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": -0.3378,
+      "aiScore": 45.98
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": -0.2129,
+      "aiScore": 45.86
+    },
+    {
+      "symbol": "MU",
+      "relativeScore": 0.0512,
+      "aiScore": 44.49
+    },
+    {
+      "symbol": "SKHYNIX",
+      "relativeScore": 0.2538,
+      "aiScore": 43.47
     },
     {
       "symbol": "SKHY",
-      "relativeScore": 1.4628,
-      "aiScore": 44.47
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": 0.8947,
-      "aiScore": 43.22
+      "relativeScore": 0.6472,
+      "aiScore": 42.36
     },
     {
       "symbol": "SPCX",
-      "relativeScore": -0.0902,
-      "aiScore": 41.26
+      "relativeScore": 0.452,
+      "aiScore": 41.97
     },
     {
-      "symbol": "SOXL",
-      "relativeScore": 1.2004,
+      "symbol": "SNDK",
+      "relativeScore": 0.1109,
       "aiScore": 40.89
     },
     {
+      "symbol": "SOXL",
+      "relativeScore": 0.4788,
+      "aiScore": 38.08
+    },
+    {
       "symbol": "INTC",
-      "relativeScore": 1.1728,
-      "aiScore": 38.52
+      "relativeScore": 0.441,
+      "aiScore": 36.93
     }
   ]
 }
