@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-19T23:59:59.999000+00:00",
-      "btcReturn": 0.4078,
-      "altSeasonIndex": 37.5,
-      "leader": "BANK"
-    },
-    {
       "scanTime": "2026-07-20T03:59:59.999000+00:00",
       "btcReturn": 0.2131,
       "altSeasonIndex": 70.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2048,
       "altSeasonIndex": 18.75,
       "leader": "DEXE"
+    },
+    {
+      "scanTime": "2026-07-24T23:59:59.999000+00:00",
+      "btcReturn": -0.133,
+      "altSeasonIndex": 46.67,
+      "leader": "BANK"
     }
   ]
 }
