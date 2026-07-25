@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-07-25T07:59:59.999000+00:00",
-  "btcReturn": -0.1171,
-  "altSeasonIndex": 76.92,
-  "leader": "DEXE",
+  "scanTime": "2026-07-25T11:59:59.999000+00:00",
+  "btcReturn": 0.086,
+  "altSeasonIndex": 40.0,
+  "leader": "BANK",
   "newEntries": [
-    "SPCX"
+    "SNDK",
+    "SOXL"
   ],
   "recommended": [
-    "DEXE",
     "BANK",
-    "CL"
+    "ETH",
+    "SOL"
   ]
 }
