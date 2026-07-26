@@ -1,35 +1,35 @@
 {
-  "scanTime": "2026-07-26T15:59:59.999000+00:00",
+  "scanTime": "2026-07-26T19:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "EUL",
-      "relativeScore": -1.2683,
-      "aiScore": 75.41
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": 1.1363,
-      "aiScore": 59.24
-    },
-    {
       "symbol": "BANK",
-      "relativeScore": -0.0272,
-      "aiScore": 58.49
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.3192,
-      "aiScore": 51.64
+      "relativeScore": 5.1039,
+      "aiScore": 73.14
     },
     {
       "symbol": "SHIB",
-      "relativeScore": -4.9285,
-      "aiScore": 51.14
+      "relativeScore": 2.8223,
+      "aiScore": 61.83
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.0898,
+      "aiScore": 53.52
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": -0.0836,
+      "aiScore": 50.88
+    },
+    {
+      "symbol": "EUL",
+      "relativeScore": -9.1355,
+      "aiScore": 50.17
     },
     {
       "symbol": "DEXE",
-      "relativeScore": 5.1367,
-      "aiScore": 35.19
+      "relativeScore": -0.6502,
+      "aiScore": 19.04
     }
   ]
 }

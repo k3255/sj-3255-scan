@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-07-26T15:59:59.999000+00:00",
-  "btcReturn": 0.3991,
+  "scanTime": "2026-07-26T19:59:59.999000+00:00",
+  "btcReturn": -0.1112,
   "altSeasonIndex": 50.0,
-  "leader": "EUL",
+  "leader": "BANK",
   "newEntries": [],
   "recommended": [
-    "EUL",
-    "ETH",
-    "BANK"
+    "BANK",
+    "SHIB",
+    "ETH"
   ]
 }
