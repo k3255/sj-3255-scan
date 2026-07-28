@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-07-27T23:59:59.999000+00:00",
-  "btcReturn": -1.8847,
-  "altSeasonIndex": 53.33,
-  "leader": "SKHYNIX",
+  "scanTime": "2026-07-28T03:59:59.999000+00:00",
+  "btcReturn": -0.6427,
+  "altSeasonIndex": 26.67,
+  "leader": "XAG",
   "newEntries": [
-    "SKHYNIX",
-    "XRP",
-    "XAG",
-    "CL"
+    "MU"
   ],
   "recommended": [
-    "SKHYNIX",
-    "SOL",
-    "XRP"
+    "XAG",
+    "XAU",
+    "ETH"
   ]
 }
