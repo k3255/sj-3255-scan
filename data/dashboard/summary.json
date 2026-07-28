@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-07-27T19:59:59.999000+00:00",
-  "btcReturn": 0.6638,
+  "scanTime": "2026-07-27T23:59:59.999000+00:00",
+  "btcReturn": -1.8847,
   "altSeasonIndex": 53.33,
-  "leader": "BANK",
+  "leader": "SKHYNIX",
   "newEntries": [
-    "SOXL",
-    "HYPE",
-    "KORU",
-    "SKHY"
+    "SKHYNIX",
+    "XRP",
+    "XAG",
+    "CL"
   ],
   "recommended": [
-    "BANK",
-    "MU",
-    "SOXL"
+    "SKHYNIX",
+    "SOL",
+    "XRP"
   ]
 }
