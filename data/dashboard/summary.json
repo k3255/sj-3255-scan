@@ -1,14 +1,14 @@
 {
-  "scanTime": "2026-07-28T03:59:59.999000+00:00",
-  "btcReturn": -0.6427,
-  "altSeasonIndex": 26.67,
-  "leader": "XAG",
+  "scanTime": "2026-07-28T07:59:59.999000+00:00",
+  "btcReturn": 0.2443,
+  "altSeasonIndex": 0.0,
+  "leader": "ETH",
   "newEntries": [
-    "MU"
+    "BANK"
   ],
   "recommended": [
-    "XAG",
+    "ETH",
     "XAU",
-    "ETH"
+    "SOL"
   ]
 }
