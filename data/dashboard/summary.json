@@ -1,15 +1,17 @@
 {
-  "scanTime": "2026-07-28T19:59:59.999000+00:00",
-  "btcReturn": -0.0186,
-  "altSeasonIndex": 25.0,
-  "leader": "COTI",
+  "scanTime": "2026-07-28T23:59:59.999000+00:00",
+  "btcReturn": 0.0379,
+  "altSeasonIndex": 62.5,
+  "leader": "KORU",
   "newEntries": [
-    "CL",
-    "MU"
+    "KORU",
+    "SKHYNIX",
+    "DRAM",
+    "SKHY"
   ],
   "recommended": [
-    "COTI",
-    "ETH",
-    "SPCX"
+    "KORU",
+    "SKHYNIX",
+    "CL"
   ]
 }
