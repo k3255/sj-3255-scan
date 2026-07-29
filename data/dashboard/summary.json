@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-07-29T11:59:59.999000+00:00",
-  "btcReturn": -0.0787,
-  "altSeasonIndex": 64.71,
+  "scanTime": "2026-07-29T15:59:59.999000+00:00",
+  "btcReturn": -0.8398,
+  "altSeasonIndex": 17.65,
   "leader": "COTI",
   "newEntries": [
-    "SOXL",
-    "SPCX",
-    "SNDK"
+    "CL",
+    "XAG",
+    "SKHY",
+    "SAMSUNG"
   ],
   "recommended": [
     "COTI",
-    "SOXL",
-    "MU"
+    "XAU",
+    "CL"
   ]
 }
