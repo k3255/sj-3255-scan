@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-07-30T15:59:59.999000+00:00",
-  "btcReturn": -0.086,
-  "altSeasonIndex": 76.47,
+  "scanTime": "2026-07-30T19:59:59.999000+00:00",
+  "btcReturn": 0.117,
+  "altSeasonIndex": 62.5,
   "leader": "MU",
   "newEntries": [
-    "XAU",
-    "HYPE"
+    "ETH",
+    "SOL",
+    "XAG"
   ],
   "recommended": [
     "MU",
-    "SNDK",
-    "SOXL"
+    "KORU",
+    "SNDK"
   ]
 }
