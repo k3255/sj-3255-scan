@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-29T19:59:59.999000+00:00",
-  "btcReturn": -0.5881,
-  "altSeasonIndex": 36.84,
-  "leader": "XAU",
+  "scanTime": "2026-07-29T23:59:59.999000+00:00",
+  "btcReturn": 0.6133,
+  "altSeasonIndex": 47.37,
+  "leader": "COTI",
   "newEntries": [
-    "HYPE",
-    "INTC"
+    "BANK",
+    "SAMSUNG"
   ],
   "recommended": [
-    "XAU",
-    "SPCX",
-    "XAG"
+    "COTI",
+    "BANK",
+    "SOL"
   ]
 }
