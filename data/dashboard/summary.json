@@ -1,14 +1,19 @@
 {
-  "scanTime": "2026-07-31T11:59:59.999000+00:00",
-  "btcReturn": -0.2106,
-  "altSeasonIndex": 66.67,
-  "leader": "SNXX",
+  "scanTime": "2026-07-31T15:59:59.999000+00:00",
+  "btcReturn": -1.6937,
+  "altSeasonIndex": 33.33,
+  "leader": "SOL",
   "newEntries": [
-    "CL"
+    "SOL",
+    "ETH",
+    "XAU",
+    "XRP",
+    "HYPE",
+    "SPCX"
   ],
   "recommended": [
-    "SNXX",
-    "SNDK",
-    "SOXL"
+    "SOL",
+    "ETH",
+    "XAU"
   ]
 }
