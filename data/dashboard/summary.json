@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-07-31T03:59:59.999000+00:00",
-  "btcReturn": -0.6186,
-  "altSeasonIndex": 52.94,
-  "leader": "SKHYNIX",
+  "scanTime": "2026-07-31T07:59:59.999000+00:00",
+  "btcReturn": -0.6669,
+  "altSeasonIndex": 77.78,
+  "leader": "MMT",
   "newEntries": [
-    "SAMSUNG",
-    "ETH"
+    "MMT",
+    "SOXL"
   ],
   "recommended": [
-    "SKHYNIX",
+    "MMT",
     "SAMSUNG",
-    "SKHY"
+    "KORU"
   ]
 }
