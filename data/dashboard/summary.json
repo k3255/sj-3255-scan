@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-08-01T03:59:59.999000+00:00",
-  "btcReturn": 0.185,
-  "altSeasonIndex": 47.37,
-  "leader": "1000RATS",
+  "scanTime": "2026-08-01T07:59:59.999000+00:00",
+  "btcReturn": 0.0681,
+  "altSeasonIndex": 55.56,
+  "leader": "GIGGLE",
   "newEntries": [
-    "SKHY",
-    "SNDK"
+    "MMT",
+    "DRAM"
   ],
   "recommended": [
-    "1000RATS",
     "GIGGLE",
-    "ETH"
+    "1000RATS",
+    "MMT"
   ]
 }
