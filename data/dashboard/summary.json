@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-07-31T19:59:59.999000+00:00",
-  "btcReturn": 0.3922,
-  "altSeasonIndex": 11.11,
-  "leader": "BANK",
+  "scanTime": "2026-07-31T23:59:59.999000+00:00",
+  "btcReturn": -0.1373,
+  "altSeasonIndex": 36.84,
+  "leader": "1000RATS",
   "newEntries": [
-    "BANK",
-    "MU",
-    "DRAM"
+    "1000RATS",
+    "GIGGLE",
+    "MMT",
+    "HYPE"
   ],
   "recommended": [
-    "BANK",
-    "ETH",
-    "SOL"
+    "1000RATS",
+    "GIGGLE",
+    "CL"
   ]
 }
