@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-27T11:59:59.999000+00:00",
-      "btcReturn": -0.1874,
-      "altSeasonIndex": 21.43,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-07-27T15:59:59.999000+00:00",
       "btcReturn": -0.8433,
       "altSeasonIndex": 21.43,
@@ -179,6 +173,12 @@
       "btcReturn": 0.0681,
       "altSeasonIndex": 55.56,
       "leader": "GIGGLE"
+    },
+    {
+      "scanTime": "2026-08-01T11:59:59.999000+00:00",
+      "btcReturn": 0.0378,
+      "altSeasonIndex": 53.85,
+      "leader": "SKHYNIX"
     }
   ]
 }

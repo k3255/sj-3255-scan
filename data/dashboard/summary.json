@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-08-01T07:59:59.999000+00:00",
-  "btcReturn": 0.0681,
-  "altSeasonIndex": 55.56,
-  "leader": "GIGGLE",
+  "scanTime": "2026-08-01T11:59:59.999000+00:00",
+  "btcReturn": 0.0378,
+  "altSeasonIndex": 53.85,
+  "leader": "SKHYNIX",
   "newEntries": [
-    "MMT",
-    "DRAM"
+    "SNDK",
+    "MU",
+    "KORU"
   ],
   "recommended": [
-    "GIGGLE",
-    "1000RATS",
-    "MMT"
+    "SKHYNIX",
+    "ETH",
+    "SOL"
   ]
 }
