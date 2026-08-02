@@ -1,30 +1,35 @@
 {
-  "scanTime": "2026-08-01T23:59:59.999000+00:00",
+  "scanTime": "2026-08-02T03:59:59.999000+00:00",
   "items": [
     {
       "symbol": "1000RATS",
-      "relativeScore": 15.409,
-      "aiScore": 76.29
+      "relativeScore": 10.75,
+      "aiScore": 90.5
     },
     {
       "symbol": "GIGGLE",
-      "relativeScore": 7.7273,
-      "aiScore": 63.16
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.4886,
-      "aiScore": 48.4
+      "relativeScore": 2.5545,
+      "aiScore": 55.42
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.3231,
-      "aiScore": 48.39
+      "relativeScore": 0.574,
+      "aiScore": 54.64
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": 0.718,
+      "aiScore": 53.88
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.0511,
-      "aiScore": 47.04
+      "relativeScore": 0.7475,
+      "aiScore": 53.37
+    },
+    {
+      "symbol": "CL",
+      "relativeScore": -6.7801,
+      "aiScore": 38.72
     }
   ]
 }

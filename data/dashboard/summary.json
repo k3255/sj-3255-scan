@@ -1,14 +1,14 @@
 {
-  "scanTime": "2026-08-01T23:59:59.999000+00:00",
-  "btcReturn": 0.4661,
-  "altSeasonIndex": 80.0,
+  "scanTime": "2026-08-02T03:59:59.999000+00:00",
+  "btcReturn": 1.0203,
+  "altSeasonIndex": 83.33,
   "leader": "1000RATS",
   "newEntries": [
-    "XRP"
+    "CL"
   ],
   "recommended": [
     "1000RATS",
     "GIGGLE",
-    "SOL"
+    "XRP"
   ]
 }
