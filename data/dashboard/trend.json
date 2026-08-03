@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-07-29T19:59:59.999000+00:00",
-      "btcReturn": -0.5881,
-      "altSeasonIndex": 36.84,
-      "leader": "XAU"
-    },
-    {
       "scanTime": "2026-07-29T23:59:59.999000+00:00",
       "btcReturn": 0.6133,
       "altSeasonIndex": 47.37,
@@ -179,6 +173,12 @@
       "btcReturn": 1.7952,
       "altSeasonIndex": 57.89,
       "leader": "ADA"
+    },
+    {
+      "scanTime": "2026-08-03T19:59:59.999000+00:00",
+      "btcReturn": 0.2781,
+      "altSeasonIndex": 83.33,
+      "leader": "SNXX"
     }
   ]
 }
