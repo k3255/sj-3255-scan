@@ -1,16 +1,18 @@
 {
-  "scanTime": "2026-08-03T11:59:59.999000+00:00",
-  "btcReturn": -0.1013,
-  "altSeasonIndex": 16.67,
-  "leader": "BLESS",
+  "scanTime": "2026-08-03T15:59:59.999000+00:00",
+  "btcReturn": 1.7952,
+  "altSeasonIndex": 57.89,
+  "leader": "ADA",
   "newEntries": [
-    "SPCX",
-    "XAG",
-    "DRAM"
+    "SNXX",
+    "SNDK",
+    "SOXL",
+    "MU",
+    "SKHYNIX"
   ],
   "recommended": [
-    "BLESS",
     "ADA",
-    "ETH"
+    "SNXX",
+    "SNDK"
   ]
 }
