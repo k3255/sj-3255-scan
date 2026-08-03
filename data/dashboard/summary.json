@@ -1,12 +1,17 @@
 {
-  "scanTime": "2026-08-02T19:59:59.999000+00:00",
-  "btcReturn": 0.5566,
-  "altSeasonIndex": 50.0,
-  "leader": "1000RATS",
-  "newEntries": [],
+  "scanTime": "2026-08-02T23:59:59.999000+00:00",
+  "btcReturn": 0.1788,
+  "altSeasonIndex": 63.64,
+  "leader": "BLESS",
+  "newEntries": [
+    "BLESS",
+    "KORU",
+    "SKHYNIX",
+    "SOXL"
+  ],
   "recommended": [
+    "BLESS",
     "1000RATS",
-    "ADA",
-    "ETH"
+    "ADA"
   ]
 }
