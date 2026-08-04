@@ -1,15 +1,18 @@
 {
-  "scanTime": "2026-08-03T23:59:59.999000+00:00",
-  "btcReturn": -0.5228,
-  "altSeasonIndex": 82.35,
-  "leader": "SNXX",
+  "scanTime": "2026-08-04T03:59:59.999000+00:00",
+  "btcReturn": 0.4219,
+  "altSeasonIndex": 17.65,
+  "leader": "ADA",
   "newEntries": [
-    "SKHY",
-    "DRAM"
+    "XAU",
+    "SOL",
+    "ETH",
+    "XRP",
+    "HYPE"
   ],
   "recommended": [
-    "SNXX",
-    "KORU",
-    "ADA"
+    "ADA",
+    "SPCX",
+    "XAU"
   ]
 }
