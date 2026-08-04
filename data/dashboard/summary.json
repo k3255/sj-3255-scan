@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-08-04T15:59:59.999000+00:00",
-  "btcReturn": 0.3038,
-  "altSeasonIndex": 68.75,
-  "leader": "SNXX",
+  "scanTime": "2026-08-04T19:59:59.999000+00:00",
+  "btcReturn": 0.1685,
+  "altSeasonIndex": 62.5,
+  "leader": "SPCX",
   "newEntries": [
-    "BANK"
+    "SKHYNIX",
+    "SOL"
   ],
   "recommended": [
-    "SNXX",
+    "SPCX",
     "SOXL",
-    "KORU"
+    "SNXX"
   ]
 }
