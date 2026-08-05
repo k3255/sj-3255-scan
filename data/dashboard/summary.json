@@ -1,17 +1,16 @@
 {
-  "scanTime": "2026-08-05T03:59:59.999000+00:00",
-  "btcReturn": 0.1161,
-  "altSeasonIndex": 31.58,
-  "leader": "HOME",
+  "scanTime": "2026-08-05T07:59:59.999000+00:00",
+  "btcReturn": -0.0056,
+  "altSeasonIndex": 66.67,
+  "leader": "CYS",
   "newEntries": [
-    "HOME",
-    "HYPE",
-    "XAG",
-    "XAU"
+    "CYS",
+    "MU",
+    "SOL"
   ],
   "recommended": [
-    "HOME",
-    "KORU",
-    "SOXL"
+    "CYS",
+    "XAU",
+    "HYPE"
   ]
 }
