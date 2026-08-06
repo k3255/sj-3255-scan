@@ -1,15 +1,14 @@
 {
-  "scanTime": "2026-08-05T23:59:59.999000+00:00",
-  "btcReturn": -0.2698,
-  "altSeasonIndex": 31.58,
+  "scanTime": "2026-08-06T03:59:59.999000+00:00",
+  "btcReturn": -0.1967,
+  "altSeasonIndex": 15.79,
   "leader": "CYS",
   "newEntries": [
-    "MU",
-    "DRAM"
+    "XRP"
   ],
   "recommended": [
     "CYS",
-    "BLESS",
-    "XAU"
+    "XAU",
+    "XAG"
   ]
 }
