@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-08-06T23:59:59.999000+00:00",
-  "btcReturn": -0.1695,
-  "altSeasonIndex": 72.22,
-  "leader": "BLESS",
+  "scanTime": "2026-08-07T03:59:59.999000+00:00",
+  "btcReturn": -0.0635,
+  "altSeasonIndex": 12.5,
+  "leader": "ADA",
   "newEntries": [
-    "BLESS",
-    "ADA",
-    "KORU",
-    "DRAM",
-    "SNDK"
+    "XRP",
+    "SPCX",
+    "CL"
   ],
   "recommended": [
-    "BLESS",
-    "SOXL",
-    "ADA"
+    "ADA",
+    "XAU",
+    "ETH"
   ]
 }
