@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-08-07T11:59:59.999000+00:00",
-  "btcReturn": 1.0782,
-  "altSeasonIndex": 6.25,
-  "leader": "XAG",
+  "scanTime": "2026-08-07T15:59:59.999000+00:00",
+  "btcReturn": -0.1524,
+  "altSeasonIndex": 40.0,
+  "leader": "SPCX",
   "newEntries": [
-    "SPCX"
+    "CL",
+    "DRAM"
   ],
   "recommended": [
-    "XAG",
-    "XAU",
-    "ETH"
+    "SPCX",
+    "SOXL",
+    "XAU"
   ]
 }
