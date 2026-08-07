@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-08-07T03:59:59.999000+00:00",
-  "btcReturn": -0.0635,
-  "altSeasonIndex": 12.5,
-  "leader": "ADA",
+  "scanTime": "2026-08-07T07:59:59.999000+00:00",
+  "btcReturn": 0.0398,
+  "altSeasonIndex": 93.75,
+  "leader": "XAG",
   "newEntries": [
-    "XRP",
-    "SPCX",
-    "CL"
+    "XAG",
+    "KORU",
+    "SKHYNIX"
   ],
   "recommended": [
+    "XAG",
     "ADA",
-    "XAU",
-    "ETH"
+    "KORU"
   ]
 }
