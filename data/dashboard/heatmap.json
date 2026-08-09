@@ -1,35 +1,30 @@
 {
-  "scanTime": "2026-08-09T11:59:59.999000+00:00",
+  "scanTime": "2026-08-09T15:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "CYS",
-      "relativeScore": 13.8529,
-      "aiScore": 78.41
+      "symbol": "SOL",
+      "relativeScore": 0.7827,
+      "aiScore": 59.34
     },
     {
       "symbol": "TUT",
-      "relativeScore": -5.8122,
-      "aiScore": 63.11
+      "relativeScore": -16.1939,
+      "aiScore": 52.42
     },
     {
       "symbol": "SPCX",
-      "relativeScore": -0.649,
-      "aiScore": 53.42
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": -0.0065,
-      "aiScore": 53.36
+      "relativeScore": -0.3662,
+      "aiScore": 52.17
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.1766,
-      "aiScore": 50.16
+      "relativeScore": -0.0485,
+      "aiScore": 51.1
     },
     {
       "symbol": "BICO",
-      "relativeScore": -32.6368,
-      "aiScore": 34.24
+      "relativeScore": -13.9947,
+      "aiScore": 28.18
     }
   ]
 }
