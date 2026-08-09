@@ -1,14 +1,12 @@
 {
-  "scanTime": "2026-08-09T07:59:59.999000+00:00",
-  "btcReturn": 0.0506,
-  "altSeasonIndex": 85.71,
-  "leader": "TUT",
-  "newEntries": [
-    "BICO"
-  ],
+  "scanTime": "2026-08-09T11:59:59.999000+00:00",
+  "btcReturn": 0.1886,
+  "altSeasonIndex": 16.67,
+  "leader": "CYS",
+  "newEntries": [],
   "recommended": [
+    "CYS",
     "TUT",
-    "BICO",
     "SPCX"
   ]
 }

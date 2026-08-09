@@ -1,40 +1,35 @@
 {
-  "scanTime": "2026-08-09T07:59:59.999000+00:00",
+  "scanTime": "2026-08-09T11:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "TUT",
-      "relativeScore": 31.382,
-      "aiScore": 90.5
+      "symbol": "CYS",
+      "relativeScore": 13.8529,
+      "aiScore": 78.41
     },
     {
-      "symbol": "BICO",
-      "relativeScore": 4.7883,
-      "aiScore": 83.12
+      "symbol": "TUT",
+      "relativeScore": -5.8122,
+      "aiScore": 63.11
     },
     {
       "symbol": "SPCX",
-      "relativeScore": 0.0005,
-      "aiScore": 55.55
+      "relativeScore": -0.649,
+      "aiScore": 53.42
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.4404,
-      "aiScore": 53.57
-    },
-    {
-      "symbol": "CYS",
-      "relativeScore": 0.5244,
-      "aiScore": 53.08
+      "relativeScore": -0.0065,
+      "aiScore": 53.36
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.1956,
-      "aiScore": 50.6
+      "relativeScore": -0.1766,
+      "aiScore": 50.16
     },
     {
-      "symbol": "XRP",
-      "relativeScore": -0.0314,
-      "aiScore": 46.99
+      "symbol": "BICO",
+      "relativeScore": -32.6368,
+      "aiScore": 34.24
     }
   ]
 }
