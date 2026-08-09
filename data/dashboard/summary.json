@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-08-09T15:59:59.999000+00:00",
-  "btcReturn": 0.4323,
-  "altSeasonIndex": 20.0,
-  "leader": "SOL",
+  "scanTime": "2026-08-09T19:59:59.999000+00:00",
+  "btcReturn": -0.0658,
+  "altSeasonIndex": 50.0,
+  "leader": "TUT",
   "newEntries": [],
   "recommended": [
-    "SOL",
     "TUT",
-    "SPCX"
+    "BICO",
+    "SOL"
   ]
 }
