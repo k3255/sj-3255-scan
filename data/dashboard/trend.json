@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-04T19:59:59.999000+00:00",
-      "btcReturn": 0.1685,
-      "altSeasonIndex": 62.5,
-      "leader": "SPCX"
-    },
-    {
       "scanTime": "2026-08-04T23:59:59.999000+00:00",
       "btcReturn": -0.189,
       "altSeasonIndex": 47.37,
@@ -178,6 +172,12 @@
       "scanTime": "2026-08-09T23:59:59.999000+00:00",
       "btcReturn": -0.4339,
       "altSeasonIndex": 37.5,
+      "leader": "TUT"
+    },
+    {
+      "scanTime": "2026-08-10T03:59:59.999000+00:00",
+      "btcReturn": 0.1238,
+      "altSeasonIndex": 44.44,
       "leader": "TUT"
     }
   ]

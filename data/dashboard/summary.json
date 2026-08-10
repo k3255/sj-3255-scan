@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-08-09T23:59:59.999000+00:00",
-  "btcReturn": -0.4339,
-  "altSeasonIndex": 37.5,
+  "scanTime": "2026-08-10T03:59:59.999000+00:00",
+  "btcReturn": 0.1238,
+  "altSeasonIndex": 44.44,
   "leader": "TUT",
   "newEntries": [
-    "SPCX",
-    "SKHYNIX",
-    "XRP",
-    "KORU"
+    "XAU"
   ],
   "recommended": [
     "TUT",
-    "BICO",
-    "ETH"
+    "ETH",
+    "SOL"
   ]
 }
