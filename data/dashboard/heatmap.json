@@ -1,55 +1,70 @@
 {
-  "scanTime": "2026-08-10T07:59:59.999000+00:00",
+  "scanTime": "2026-08-10T11:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "SOXL",
-      "relativeScore": 1.866,
-      "aiScore": 56.43
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": 0.0658,
-      "aiScore": 53.21
+      "symbol": "CYS",
+      "relativeScore": 31.9617,
+      "aiScore": 81.81
     },
     {
       "symbol": "SPCX",
-      "relativeScore": 0.9634,
-      "aiScore": 53.01
-    },
-    {
-      "symbol": "XAU",
-      "relativeScore": 0.2945,
-      "aiScore": 52.55
+      "relativeScore": 2.3023,
+      "aiScore": 60.97
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.11,
-      "aiScore": 52.31
+      "relativeScore": 0.2072,
+      "aiScore": 53.77
     },
     {
-      "symbol": "SKHYNIX",
-      "relativeScore": -1.124,
-      "aiScore": 49.72
+      "symbol": "SOXL",
+      "relativeScore": -1.4892,
+      "aiScore": 51.65
     },
     {
-      "symbol": "XAG",
-      "relativeScore": 0.7965,
-      "aiScore": 49.47
+      "symbol": "ETH",
+      "relativeScore": -0.1381,
+      "aiScore": 51.5
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.1839,
-      "aiScore": 49.01
+      "relativeScore": -0.1184,
+      "aiScore": 49.08
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -0.3283,
+      "aiScore": 48.5
+    },
+    {
+      "symbol": "XAG",
+      "relativeScore": -0.2963,
+      "aiScore": 46.9
+    },
+    {
+      "symbol": "SNDK",
+      "relativeScore": -1.3526,
+      "aiScore": 43.72
+    },
+    {
+      "symbol": "SKHYNIX",
+      "relativeScore": -1.1841,
+      "aiScore": 43.71
+    },
+    {
+      "symbol": "SKHY",
+      "relativeScore": -1.7567,
+      "aiScore": 43.14
     },
     {
       "symbol": "TUT",
-      "relativeScore": -30.453,
-      "aiScore": 45.47
+      "relativeScore": -16.8011,
+      "aiScore": 41.55
     },
     {
       "symbol": "KORU",
-      "relativeScore": -0.2788,
-      "aiScore": 45.46
+      "relativeScore": -2.3742,
+      "aiScore": 38.5
     }
   ]
 }
