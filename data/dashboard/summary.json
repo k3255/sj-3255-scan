@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-08-10T03:59:59.999000+00:00",
-  "btcReturn": 0.1238,
-  "altSeasonIndex": 44.44,
-  "leader": "TUT",
+  "scanTime": "2026-08-10T07:59:59.999000+00:00",
+  "btcReturn": 0.3495,
+  "altSeasonIndex": 70.0,
+  "leader": "SOXL",
   "newEntries": [
-    "XAU"
+    "SOXL",
+    "XAG"
   ],
   "recommended": [
-    "TUT",
+    "SOXL",
     "ETH",
-    "SOL"
+    "SPCX"
   ]
 }
