@@ -1,17 +1,16 @@
 {
-  "scanTime": "2026-08-10T19:59:59.999000+00:00",
-  "btcReturn": -0.3899,
-  "altSeasonIndex": 58.82,
+  "scanTime": "2026-08-10T23:59:59.999000+00:00",
+  "btcReturn": -0.1185,
+  "altSeasonIndex": 43.75,
   "leader": "CYS",
   "newEntries": [
-    "SPCX",
-    "HYPE",
-    "CL",
-    "TUT"
+    "XRP",
+    "MU",
+    "SKHYNIX"
   ],
   "recommended": [
     "CYS",
-    "SPCX",
-    "HYPE"
+    "XAU",
+    "XAG"
   ]
 }
