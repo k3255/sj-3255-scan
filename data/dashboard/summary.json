@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-08-11T07:59:59.999000+00:00",
-  "btcReturn": -0.1246,
-  "altSeasonIndex": 16.67,
-  "leader": "CL",
+  "scanTime": "2026-08-11T11:59:59.999000+00:00",
+  "btcReturn": 0.4717,
+  "altSeasonIndex": 50.0,
+  "leader": "CYS",
   "newEntries": [
-    "CL",
-    "SPCX",
-    "SOL",
-    "XRP",
-    "ETH"
+    "SOXL",
+    "KORU",
+    "MU"
   ],
   "recommended": [
-    "CL",
     "CYS",
-    "XAU"
+    "XAU",
+    "CL"
   ]
 }
