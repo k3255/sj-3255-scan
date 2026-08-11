@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-06T07:59:59.999000+00:00",
-      "btcReturn": 0.4438,
-      "altSeasonIndex": 33.33,
-      "leader": "BLESS"
-    },
-    {
       "scanTime": "2026-08-06T11:59:59.999000+00:00",
       "btcReturn": -0.2972,
       "altSeasonIndex": 55.56,
@@ -179,6 +173,12 @@
       "btcReturn": 0.4717,
       "altSeasonIndex": 50.0,
       "leader": "CYS"
+    },
+    {
+      "scanTime": "2026-08-11T15:59:59.999000+00:00",
+      "btcReturn": -1.1805,
+      "altSeasonIndex": 61.11,
+      "leader": "SNXX"
     }
   ]
 }
