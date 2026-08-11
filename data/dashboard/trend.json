@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-05T19:59:59.999000+00:00",
-      "btcReturn": 0.7011,
-      "altSeasonIndex": 26.32,
-      "leader": "CYS"
-    },
-    {
       "scanTime": "2026-08-05T23:59:59.999000+00:00",
       "btcReturn": -0.2698,
       "altSeasonIndex": 31.58,
@@ -179,6 +173,12 @@
       "btcReturn": -0.1185,
       "altSeasonIndex": 43.75,
       "leader": "CYS"
+    },
+    {
+      "scanTime": "2026-08-11T03:59:59.999000+00:00",
+      "btcReturn": 0.279,
+      "altSeasonIndex": 75.0,
+      "leader": "KORU"
     }
   ]
 }
