@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-08-12T15:59:59.999000+00:00",
-  "btcReturn": -1.2089,
-  "altSeasonIndex": 77.78,
+  "scanTime": "2026-08-12T19:59:59.999000+00:00",
+  "btcReturn": -0.0325,
+  "altSeasonIndex": 50.0,
   "leader": "APR",
   "newEntries": [
-    "SPCX",
-    "SKHYNIX",
-    "XAU"
+    "CYS",
+    "TUT",
+    "PROM",
+    "BEAT"
   ],
   "recommended": [
     "APR",
-    "SNXX",
-    "KORU"
+    "SPCX",
+    "CYS"
   ]
 }
