@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-08-12T03:59:59.999000+00:00",
-  "btcReturn": 0.3569,
-  "altSeasonIndex": 61.11,
-  "leader": "KORU",
+  "scanTime": "2026-08-12T07:59:59.999000+00:00",
+  "btcReturn": 0.0163,
+  "altSeasonIndex": 55.56,
+  "leader": "CYS",
   "newEntries": [
-    "VELVET",
-    "MU",
-    "CYS"
+    "BEAT",
+    "SOXL",
+    "ETH"
   ],
   "recommended": [
-    "KORU",
-    "SKHYNIX",
-    "SKHY"
+    "CYS",
+    "BEAT",
+    "SKHYNIX"
   ]
 }
