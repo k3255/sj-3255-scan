@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-08-11T23:59:59.999000+00:00",
-  "btcReturn": 0.08,
-  "altSeasonIndex": 52.94,
-  "leader": "SOL",
+  "scanTime": "2026-08-12T03:59:59.999000+00:00",
+  "btcReturn": 0.3569,
+  "altSeasonIndex": 61.11,
+  "leader": "KORU",
   "newEntries": [
-    "CL",
-    "XAU"
+    "VELVET",
+    "MU",
+    "CYS"
   ],
   "recommended": [
-    "SOL",
-    "XRP",
-    "SKHYNIX"
+    "KORU",
+    "SKHYNIX",
+    "SKHY"
   ]
 }
