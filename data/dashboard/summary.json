@@ -1,17 +1,15 @@
 {
-  "scanTime": "2026-08-12T19:59:59.999000+00:00",
-  "btcReturn": -0.0325,
-  "altSeasonIndex": 50.0,
+  "scanTime": "2026-08-12T23:59:59.999000+00:00",
+  "btcReturn": 0.0907,
+  "altSeasonIndex": 55.56,
   "leader": "APR",
   "newEntries": [
-    "CYS",
-    "TUT",
-    "PROM",
-    "BEAT"
+    "SNXX",
+    "SNDK"
   ],
   "recommended": [
     "APR",
-    "SPCX",
-    "CYS"
+    "CYS",
+    "SNXX"
   ]
 }
