@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-08-13T03:59:59.999000+00:00",
-  "btcReturn": 0.2595,
-  "altSeasonIndex": 61.11,
-  "leader": "KORU",
+  "scanTime": "2026-08-13T07:59:59.999000+00:00",
+  "btcReturn": 0.3071,
+  "altSeasonIndex": 20.0,
+  "leader": "APR",
   "newEntries": [
-    "SOXL",
-    "XAU"
+    "HYPE",
+    "SOL",
+    "ETH"
   ],
   "recommended": [
-    "KORU",
-    "SKHYNIX",
-    "SKHY"
+    "APR",
+    "HYPE",
+    "SPCX"
   ]
 }
