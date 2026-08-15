@@ -1,14 +1,16 @@
 {
-  "scanTime": "2026-08-15T07:59:59.999000+00:00",
-  "btcReturn": 0.0162,
-  "altSeasonIndex": 53.33,
-  "leader": "ACE",
+  "scanTime": "2026-08-15T11:59:59.999000+00:00",
+  "btcReturn": -0.0898,
+  "altSeasonIndex": 63.64,
+  "leader": "SNDK",
   "newEntries": [
-    "SOL"
+    "SOXL",
+    "XRP",
+    "SPCX"
   ],
   "recommended": [
-    "ACE",
-    "CYS",
-    "SNDK"
+    "SNDK",
+    "KORU",
+    "SKHY"
   ]
 }
