@@ -1,20 +1,20 @@
 {
-  "scanTime": "2026-08-16T03:59:59.999000+00:00",
+  "scanTime": "2026-08-16T07:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "ETH",
-      "relativeScore": -0.0495,
-      "aiScore": 49.31
+      "symbol": "COW",
+      "relativeScore": 1.7937,
+      "aiScore": 58.54
     },
     {
-      "symbol": "ACE",
-      "relativeScore": -11.5902,
-      "aiScore": 16.37
+      "symbol": "ETH",
+      "relativeScore": 0.03,
+      "aiScore": 49.48
     },
     {
       "symbol": "CYS",
-      "relativeScore": -9.0242,
-      "aiScore": 16.03
+      "relativeScore": -7.5017,
+      "aiScore": 11.91
     }
   ]
 }
