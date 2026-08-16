@@ -1,39 +1,39 @@
 {
-  "time": "2026-08-16T11:59:59.999000+00:00",
+  "time": "2026-08-16T15:59:59.999000+00:00",
   "ranking": [
     {
       "rank": 1,
       "symbol": "ETH",
-      "scanTime": "2026-08-16T11:59:59.999000+00:00",
-      "btcReturn": -0.0742,
-      "coinReturn": -0.0362,
-      "relativeScore": 0.0381,
-      "cumulativeRelativeScore": -0.0699,
-      "aiScore": 49.46,
-      "score": 49.46,
+      "scanTime": "2026-08-16T15:59:59.999000+00:00",
+      "btcReturn": 0.2056,
+      "coinReturn": 0.158,
+      "relativeScore": -0.0476,
+      "cumulativeRelativeScore": -0.0558,
+      "aiScore": 49.31,
+      "score": 49.31,
       "volumeScore": 0.0,
-      "trendScore": 49.2,
+      "trendScore": 49.36,
       "leadingScore": 91.49,
-      "volatilityScore": 97.76,
-      "top10Streak": 10,
-      "top20Streak": 348
+      "volatilityScore": 97.89,
+      "top10Streak": 11,
+      "top20Streak": 349
     },
     {
       "rank": 2,
       "symbol": "CYS",
-      "scanTime": "2026-08-16T11:59:59.999000+00:00",
-      "btcReturn": -0.0742,
-      "coinReturn": -3.2014,
-      "relativeScore": -3.1272,
-      "cumulativeRelativeScore": -65.0091,
-      "aiScore": 22.92,
-      "score": 22.92,
-      "volumeScore": 38.18,
+      "scanTime": "2026-08-16T15:59:59.999000+00:00",
+      "btcReturn": 0.2056,
+      "coinReturn": 3.8873,
+      "relativeScore": 3.6817,
+      "cumulativeRelativeScore": -23.5505,
+      "aiScore": 39.2,
+      "score": 39.2,
+      "volumeScore": 45.21,
       "trendScore": 0.0,
       "leadingScore": 66.67,
-      "volatilityScore": 3.12,
-      "top10Streak": 6,
-      "top20Streak": 6
+      "volatilityScore": 3.22,
+      "top10Streak": 7,
+      "top20Streak": 7
     }
   ]
 }
