@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-08-15T23:59:59.999000+00:00",
-  "btcReturn": -0.0672,
-  "altSeasonIndex": 25.0,
+  "scanTime": "2026-08-16T03:59:59.999000+00:00",
+  "btcReturn": 0.0718,
+  "altSeasonIndex": 0.0,
   "leader": "ETH",
   "newEntries": [],
   "recommended": [
     "ETH",
-    "APR",
-    "ACE"
+    "ACE",
+    "CYS"
   ]
 }
