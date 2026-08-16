@@ -1,13 +1,10 @@
 {
-  "scanTime": "2026-08-16T07:59:59.999000+00:00",
-  "btcReturn": -0.1124,
-  "altSeasonIndex": 66.67,
-  "leader": "COW",
-  "newEntries": [
-    "COW"
-  ],
+  "scanTime": "2026-08-16T11:59:59.999000+00:00",
+  "btcReturn": -0.0742,
+  "altSeasonIndex": 50.0,
+  "leader": "ETH",
+  "newEntries": [],
   "recommended": [
-    "COW",
     "ETH",
     "CYS"
   ]
