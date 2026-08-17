@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-08-17T15:59:59.999000+00:00",
-  "btcReturn": 0.8977,
-  "altSeasonIndex": 53.33,
-  "leader": "SNXX",
+  "scanTime": "2026-08-17T19:59:59.999000+00:00",
+  "btcReturn": 0.1624,
+  "altSeasonIndex": 29.41,
+  "leader": "GPS",
   "newEntries": [
-    "KORU",
-    "SOXL",
-    "MU",
-    "SKHYNIX",
-    "SKHY"
+    "GPS",
+    "TUT",
+    "ZEC"
   ],
   "recommended": [
-    "SNXX",
-    "KORU",
-    "SPCX"
+    "GPS",
+    "SNDK",
+    "SNXX"
   ]
 }
