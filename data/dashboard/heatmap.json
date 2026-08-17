@@ -1,15 +1,35 @@
 {
-  "scanTime": "2026-08-16T19:59:59.999000+00:00",
+  "scanTime": "2026-08-16T23:59:59.999000+00:00",
   "items": [
     {
+      "symbol": "SOL",
+      "relativeScore": -0.5078,
+      "aiScore": 57.49
+    },
+    {
       "symbol": "ETH",
-      "relativeScore": 0.1549,
-      "aiScore": 52.4
+      "relativeScore": -0.1916,
+      "aiScore": 54.54
     },
     {
       "symbol": "CYS",
-      "relativeScore": 2.5384,
-      "aiScore": 34.31
+      "relativeScore": 9.1578,
+      "aiScore": 53.9
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": 0.0749,
+      "aiScore": 53.51
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": -0.4131,
+      "aiScore": 51.67
+    },
+    {
+      "symbol": "SNXX",
+      "relativeScore": -0.2068,
+      "aiScore": 51.6
     }
   ]
 }
