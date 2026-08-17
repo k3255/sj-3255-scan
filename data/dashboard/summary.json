@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-08-17T07:59:59.999000+00:00",
-  "btcReturn": 0.139,
-  "altSeasonIndex": 62.5,
-  "leader": "SNDK",
+  "scanTime": "2026-08-17T11:59:59.999000+00:00",
+  "btcReturn": 0.166,
+  "altSeasonIndex": 20.0,
+  "leader": "GPS",
   "newEntries": [
-    "HYPE"
+    "GPS",
+    "SPCX"
   ],
   "recommended": [
-    "SNDK",
-    "SNXX",
+    "GPS",
+    "ETH",
     "HYPE"
   ]
 }
