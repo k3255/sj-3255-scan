@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-13T23:59:59.999000+00:00",
-      "btcReturn": 0.1077,
-      "altSeasonIndex": 62.5,
-      "leader": "SNXX"
-    },
-    {
       "scanTime": "2026-08-14T03:59:59.999000+00:00",
       "btcReturn": -0.2691,
       "altSeasonIndex": 31.25,
@@ -179,6 +173,12 @@
       "btcReturn": -0.3101,
       "altSeasonIndex": 33.33,
       "leader": "GPS"
+    },
+    {
+      "scanTime": "2026-08-18T23:59:59.999000+00:00",
+      "btcReturn": 0.1219,
+      "altSeasonIndex": 13.33,
+      "leader": "SOL"
     }
   ]
 }

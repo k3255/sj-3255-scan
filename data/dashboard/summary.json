@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-08-18T19:59:59.999000+00:00",
-  "btcReturn": -0.3101,
-  "altSeasonIndex": 33.33,
-  "leader": "GPS",
+  "scanTime": "2026-08-18T23:59:59.999000+00:00",
+  "btcReturn": 0.1219,
+  "altSeasonIndex": 13.33,
+  "leader": "SOL",
   "newEntries": [
-    "GPS",
-    "SOXL"
+    "DRAM",
+    "SKHYNIX"
   ],
   "recommended": [
-    "GPS",
     "SOL",
-    "SPCX"
+    "GPS",
+    "ETH"
   ]
 }
