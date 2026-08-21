@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-08-20T23:59:59.999000+00:00",
-  "btcReturn": 0.4815,
-  "altSeasonIndex": 28.57,
+  "scanTime": "2026-08-21T03:59:59.999000+00:00",
+  "btcReturn": 2.0393,
+  "altSeasonIndex": 42.86,
   "leader": "ONG",
   "newEntries": [
-    "ONG"
+    "SKHYNIX",
+    "KORU"
   ],
   "recommended": [
     "ONG",
-    "XRP",
-    "PEPE"
+    "ADA",
+    "XRP"
   ]
 }
