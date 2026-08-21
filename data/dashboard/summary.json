@@ -1,12 +1,15 @@
 {
-  "scanTime": "2026-08-21T15:59:59.999000+00:00",
-  "btcReturn": 0.6075,
-  "altSeasonIndex": 52.17,
-  "leader": "ENA",
-  "newEntries": [],
+  "scanTime": "2026-08-21T19:59:59.999000+00:00",
+  "btcReturn": -0.2789,
+  "altSeasonIndex": 54.55,
+  "leader": "PEPE",
+  "newEntries": [
+    "DOGE",
+    "ONG"
+  ],
   "recommended": [
-    "ENA",
-    "ADA",
-    "PEPE"
+    "PEPE",
+    "ZEC",
+    "ADA"
   ]
 }
