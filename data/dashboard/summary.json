@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-08-21T03:59:59.999000+00:00",
-  "btcReturn": 2.0393,
-  "altSeasonIndex": 42.86,
-  "leader": "ONG",
+  "scanTime": "2026-08-21T07:59:59.999000+00:00",
+  "btcReturn": 2.4496,
+  "altSeasonIndex": 26.09,
+  "leader": "ZEC",
   "newEntries": [
-    "SKHYNIX",
-    "KORU"
+    "ZEC",
+    "BOME",
+    "ENA"
   ],
   "recommended": [
-    "ONG",
-    "ADA",
-    "XRP"
+    "ZEC",
+    "BOME",
+    "ENA"
   ]
 }
