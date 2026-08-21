@@ -1,16 +1,14 @@
 {
-  "scanTime": "2026-08-20T19:59:59.999000+00:00",
-  "btcReturn": 0.2999,
-  "altSeasonIndex": 31.82,
-  "leader": "BOME",
+  "scanTime": "2026-08-20T23:59:59.999000+00:00",
+  "btcReturn": 0.4815,
+  "altSeasonIndex": 28.57,
+  "leader": "ONG",
   "newEntries": [
-    "BOME",
-    "ZEC",
-    "SUI"
+    "ONG"
   ],
   "recommended": [
-    "BOME",
+    "ONG",
     "XRP",
-    "DOGE"
+    "PEPE"
   ]
 }
