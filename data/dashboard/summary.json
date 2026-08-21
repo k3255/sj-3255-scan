@@ -1,15 +1,12 @@
 {
-  "scanTime": "2026-08-21T11:59:59.999000+00:00",
-  "btcReturn": 0.566,
-  "altSeasonIndex": 41.67,
+  "scanTime": "2026-08-21T15:59:59.999000+00:00",
+  "btcReturn": 0.6075,
+  "altSeasonIndex": 52.17,
   "leader": "ENA",
-  "newEntries": [
-    "PUMP",
-    "HYPE"
-  ],
+  "newEntries": [],
   "recommended": [
     "ENA",
-    "XRP",
-    "PUMP"
+    "ADA",
+    "PEPE"
   ]
 }
