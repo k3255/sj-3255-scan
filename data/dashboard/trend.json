@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-16T11:59:59.999000+00:00",
-      "btcReturn": -0.0742,
-      "altSeasonIndex": 50.0,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-08-16T15:59:59.999000+00:00",
       "btcReturn": 0.2056,
       "altSeasonIndex": 50.0,
@@ -179,6 +173,12 @@
       "btcReturn": 2.4496,
       "altSeasonIndex": 26.09,
       "leader": "ZEC"
+    },
+    {
+      "scanTime": "2026-08-21T11:59:59.999000+00:00",
+      "btcReturn": 0.566,
+      "altSeasonIndex": 41.67,
+      "leader": "ENA"
     }
   ]
 }
