@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-08-22T03:59:59.999000+00:00",
-  "btcReturn": 0.1009,
-  "altSeasonIndex": 65.22,
-  "leader": "ZEC",
+  "scanTime": "2026-08-22T07:59:59.999000+00:00",
+  "btcReturn": -1.4083,
+  "altSeasonIndex": 40.0,
+  "leader": "PUMP",
   "newEntries": [
-    "TRUMP",
-    "HYPE"
+    "PUMP",
+    "SOL",
+    "BNB"
   ],
   "recommended": [
-    "ZEC",
+    "PUMP",
     "TRUMP",
     "XRP"
   ]
