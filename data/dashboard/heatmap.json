@@ -1,80 +1,70 @@
 {
-  "scanTime": "2026-08-22T19:59:59.999000+00:00",
+  "scanTime": "2026-08-22T23:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "ZEC",
-      "relativeScore": 6.8294,
-      "aiScore": 82.34
-    },
-    {
       "symbol": "PUMP",
-      "relativeScore": 4.0495,
-      "aiScore": 74.8
-    },
-    {
-      "symbol": "TRUMP",
-      "relativeScore": 1.4992,
-      "aiScore": 68.4
-    },
-    {
-      "symbol": "PEPE",
-      "relativeScore": 2.7173,
-      "aiScore": 67.74
-    },
-    {
-      "symbol": "ADA",
-      "relativeScore": 3.4017,
-      "aiScore": 67.13
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": 3.67,
-      "aiScore": 66.48
-    },
-    {
-      "symbol": "DOGE",
-      "relativeScore": 3.0244,
-      "aiScore": 64.79
+      "relativeScore": 2.0345,
+      "aiScore": 75.5
     },
     {
       "symbol": "ENA",
-      "relativeScore": 1.6016,
-      "aiScore": 60.99
+      "relativeScore": 2.8452,
+      "aiScore": 62.22
     },
     {
-      "symbol": "HYPE",
-      "relativeScore": 1.7012,
-      "aiScore": 60.38
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.9605,
-      "aiScore": 58.81
-    },
-    {
-      "symbol": "WLD",
-      "relativeScore": 1.7999,
-      "aiScore": 57.98
-    },
-    {
-      "symbol": "SUI",
-      "relativeScore": 1.6416,
-      "aiScore": 57.91
+      "symbol": "PEPE",
+      "relativeScore": -1.2216,
+      "aiScore": 56.06
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.615,
-      "aiScore": 56.99
+      "relativeScore": -0.248,
+      "aiScore": 54.56
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": 0.63,
+      "aiScore": 54.44
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": -0.2795,
+      "aiScore": 54.12
+    },
+    {
+      "symbol": "DOGE",
+      "relativeScore": -1.3478,
+      "aiScore": 53.75
+    },
+    {
+      "symbol": "ADA",
+      "relativeScore": -1.8101,
+      "aiScore": 51.71
     },
     {
       "symbol": "BNB",
-      "relativeScore": 0.9429,
-      "aiScore": 54.22
+      "relativeScore": -0.0528,
+      "aiScore": 49.61
     },
     {
-      "symbol": "LINK",
-      "relativeScore": 0.5748,
-      "aiScore": 53.52
+      "symbol": "XRP",
+      "relativeScore": -2.1479,
+      "aiScore": 48.6
+    },
+    {
+      "symbol": "SUI",
+      "relativeScore": -1.8177,
+      "aiScore": 45.59
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": -5.0416,
+      "aiScore": 44.17
+    },
+    {
+      "symbol": "TRUMP",
+      "relativeScore": -3.7453,
+      "aiScore": 39.07
     }
   ]
 }
