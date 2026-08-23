@@ -1,65 +1,70 @@
 {
-  "scanTime": "2026-08-23T11:59:59.999000+00:00",
+  "scanTime": "2026-08-23T15:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "ENA",
-      "relativeScore": 12.4922,
-      "aiScore": 89.87
-    },
-    {
-      "symbol": "PUMP",
-      "relativeScore": 2.3981,
-      "aiScore": 74.28
-    },
-    {
-      "symbol": "PEPE",
-      "relativeScore": 2.6562,
-      "aiScore": 64.89
+      "symbol": "TRUMP",
+      "relativeScore": 5.6496,
+      "aiScore": 82.85
     },
     {
       "symbol": "ZEC",
-      "relativeScore": 1.095,
-      "aiScore": 61.92
+      "relativeScore": 1.6381,
+      "aiScore": 63.34
     },
     {
-      "symbol": "TUT",
-      "relativeScore": -4.1878,
-      "aiScore": 61.18
+      "symbol": "PEPE",
+      "relativeScore": 0.9411,
+      "aiScore": 62.26
     },
     {
-      "symbol": "TRUMP",
-      "relativeScore": 2.395,
-      "aiScore": 61.02
-    },
-    {
-      "symbol": "DOGE",
-      "relativeScore": 1.0676,
-      "aiScore": 59.39
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": 0.5898,
-      "aiScore": 58.49
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": 0.6351,
-      "aiScore": 56.94
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.662,
-      "aiScore": 56.06
+      "symbol": "ENA",
+      "relativeScore": -2.4953,
+      "aiScore": 62.2
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.2209,
-      "aiScore": 55.41
+      "relativeScore": 0.3905,
+      "aiScore": 60.68
     },
     {
       "symbol": "SUI",
-      "relativeScore": 1.7656,
-      "aiScore": 54.53
+      "relativeScore": 0.6736,
+      "aiScore": 59.9
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": 0.9681,
+      "aiScore": 59.85
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.3425,
+      "aiScore": 59.23
+    },
+    {
+      "symbol": "ADA",
+      "relativeScore": 0.0443,
+      "aiScore": 58.09
+    },
+    {
+      "symbol": "PUMP",
+      "relativeScore": -3.1971,
+      "aiScore": 57.65
+    },
+    {
+      "symbol": "DOGE",
+      "relativeScore": -0.123,
+      "aiScore": 57.48
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": -0.8814,
+      "aiScore": 53.37
+    },
+    {
+      "symbol": "TUT",
+      "relativeScore": -12.4857,
+      "aiScore": 45.62
     }
   ]
 }

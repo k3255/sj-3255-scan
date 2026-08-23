@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-18T15:59:59.999000+00:00",
-      "btcReturn": 0.77,
-      "altSeasonIndex": 18.75,
-      "leader": "SOL"
-    },
-    {
       "scanTime": "2026-08-18T19:59:59.999000+00:00",
       "btcReturn": -0.3101,
       "altSeasonIndex": 33.33,
@@ -179,6 +173,12 @@
       "btcReturn": 1.6683,
       "altSeasonIndex": 91.67,
       "leader": "ENA"
+    },
+    {
+      "scanTime": "2026-08-23T15:59:59.999000+00:00",
+      "btcReturn": -0.222,
+      "altSeasonIndex": 61.54,
+      "leader": "TRUMP"
     }
   ]
 }
