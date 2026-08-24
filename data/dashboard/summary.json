@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-08-23T23:59:59.999000+00:00",
-  "btcReturn": 0.537,
-  "altSeasonIndex": 57.14,
-  "leader": "TUT",
+  "scanTime": "2026-08-24T03:59:59.999000+00:00",
+  "btcReturn": -1.0275,
+  "altSeasonIndex": 13.33,
+  "leader": "ENA",
   "newEntries": [
-    "TUT",
-    "SKHYNIX"
+    "ENA",
+    "PEPE",
+    "SOL"
   ],
   "recommended": [
+    "ENA",
     "TUT",
-    "PUMP",
-    "HYPE"
+    "ETH"
   ]
 }
