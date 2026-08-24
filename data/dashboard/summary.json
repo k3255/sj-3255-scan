@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-08-24T15:59:59.999000+00:00",
-  "btcReturn": 0.8263,
-  "altSeasonIndex": 5.0,
-  "leader": "SPCX",
+  "scanTime": "2026-08-24T19:59:59.999000+00:00",
+  "btcReturn": -0.4304,
+  "altSeasonIndex": 52.38,
+  "leader": "TUT",
   "newEntries": [
-    "SPCX",
-    "ENA",
-    "XAG"
+    "TUT",
+    "SNDK",
+    "MU",
+    "ADA"
   ],
   "recommended": [
-    "SPCX",
+    "TUT",
     "XAU",
-    "ETH"
+    "SOL"
   ]
 }
