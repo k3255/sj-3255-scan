@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-18T23:59:59.999000+00:00",
-      "btcReturn": 0.1219,
-      "altSeasonIndex": 13.33,
-      "leader": "SOL"
-    },
-    {
       "scanTime": "2026-08-19T03:59:59.999000+00:00",
       "btcReturn": -0.6058,
       "altSeasonIndex": 80.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2385,
       "altSeasonIndex": 30.77,
       "leader": "ZEC"
+    },
+    {
+      "scanTime": "2026-08-23T23:59:59.999000+00:00",
+      "btcReturn": 0.537,
+      "altSeasonIndex": 57.14,
+      "leader": "TUT"
     }
   ]
 }

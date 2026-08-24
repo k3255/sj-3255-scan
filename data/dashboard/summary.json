@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-08-23T19:59:59.999000+00:00",
-  "btcReturn": 0.2385,
-  "altSeasonIndex": 30.77,
-  "leader": "ZEC",
+  "scanTime": "2026-08-23T23:59:59.999000+00:00",
+  "btcReturn": 0.537,
+  "altSeasonIndex": 57.14,
+  "leader": "TUT",
   "newEntries": [
-    "HYPE",
-    "DOGE"
+    "TUT",
+    "SKHYNIX"
   ],
   "recommended": [
-    "ZEC",
-    "SUI",
-    "TRUMP"
+    "TUT",
+    "PUMP",
+    "HYPE"
   ]
 }
