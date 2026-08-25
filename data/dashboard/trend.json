@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-20T11:59:59.999000+00:00",
-      "btcReturn": 3.008,
-      "altSeasonIndex": 22.73,
-      "leader": "XRP"
-    },
-    {
       "scanTime": "2026-08-20T15:59:59.999000+00:00",
       "btcReturn": 0.7455,
       "altSeasonIndex": 82.61,
@@ -179,6 +173,12 @@
       "btcReturn": -0.9858,
       "altSeasonIndex": 60.87,
       "leader": "SKHYNIX"
+    },
+    {
+      "scanTime": "2026-08-25T11:59:59.999000+00:00",
+      "btcReturn": -0.7182,
+      "altSeasonIndex": 68.18,
+      "leader": "KORU"
     }
   ]
 }
