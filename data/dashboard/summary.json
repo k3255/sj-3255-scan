@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-08-25T15:59:59.999000+00:00",
-  "btcReturn": 0.4729,
-  "altSeasonIndex": 22.73,
-  "leader": "MSTR",
+  "scanTime": "2026-08-25T19:59:59.999000+00:00",
+  "btcReturn": -0.7242,
+  "altSeasonIndex": 65.22,
+  "leader": "ONG",
   "newEntries": [
-    "SPCX",
-    "HYPE",
-    "XAU",
-    "ETH",
-    "XAG"
+    "ONG",
+    "SKHYNIX",
+    "XRP"
   ],
   "recommended": [
+    "ONG",
     "MSTR",
-    "SPCX",
-    "HYPE"
+    "XAU"
   ]
 }
