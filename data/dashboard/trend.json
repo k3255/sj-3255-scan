@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-20T03:59:59.999000+00:00",
-      "btcReturn": -0.1782,
-      "altSeasonIndex": 55.0,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-08-20T07:59:59.999000+00:00",
       "btcReturn": 0.8912,
       "altSeasonIndex": 19.05,
@@ -178,6 +172,12 @@
       "scanTime": "2026-08-24T23:59:59.999000+00:00",
       "btcReturn": 0.3098,
       "altSeasonIndex": 34.78,
+      "leader": "SOL"
+    },
+    {
+      "scanTime": "2026-08-25T03:59:59.999000+00:00",
+      "btcReturn": 1.9075,
+      "altSeasonIndex": 50.0,
       "leader": "SOL"
     }
   ]
