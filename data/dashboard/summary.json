@@ -1,15 +1,18 @@
 {
-  "scanTime": "2026-08-25T03:59:59.999000+00:00",
-  "btcReturn": 1.9075,
-  "altSeasonIndex": 50.0,
-  "leader": "SOL",
+  "scanTime": "2026-08-25T07:59:59.999000+00:00",
+  "btcReturn": -0.9858,
+  "altSeasonIndex": 60.87,
+  "leader": "SKHYNIX",
   "newEntries": [
-    "SUI",
-    "KORU"
+    "SKHYNIX",
+    "PROM",
+    "SOXL",
+    "SKHY",
+    "HYPE"
   ],
   "recommended": [
-    "SOL",
-    "MSTR",
-    "ZEC"
+    "SKHYNIX",
+    "KORU",
+    "MSTR"
   ]
 }
