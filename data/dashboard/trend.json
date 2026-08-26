@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-21T15:59:59.999000+00:00",
-      "btcReturn": 0.6075,
-      "altSeasonIndex": 52.17,
-      "leader": "ENA"
-    },
-    {
       "scanTime": "2026-08-21T19:59:59.999000+00:00",
       "btcReturn": -0.2789,
       "altSeasonIndex": 54.55,
@@ -179,6 +173,12 @@
       "btcReturn": -0.5492,
       "altSeasonIndex": 80.0,
       "leader": "MSTR"
+    },
+    {
+      "scanTime": "2026-08-26T15:59:59.999000+00:00",
+      "btcReturn": -0.6043,
+      "altSeasonIndex": 47.37,
+      "leader": "ONG"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-08-26T11:59:59.999000+00:00",
-  "btcReturn": -0.5492,
-  "altSeasonIndex": 80.0,
-  "leader": "MSTR",
+  "scanTime": "2026-08-26T15:59:59.999000+00:00",
+  "btcReturn": -0.6043,
+  "altSeasonIndex": 47.37,
+  "leader": "ONG",
   "newEntries": [
-    "KORU",
-    "MU",
-    "SOXL",
-    "SKHYNIX"
+    "ONG",
+    "SNDK",
+    "SNXX",
+    "SKHY"
   ],
   "recommended": [
-    "MSTR",
-    "HYPE",
-    "ETH"
+    "ONG",
+    "SNDK",
+    "SNXX"
   ]
 }
