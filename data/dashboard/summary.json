@@ -1,17 +1,18 @@
 {
-  "scanTime": "2026-08-26T15:59:59.999000+00:00",
-  "btcReturn": -0.6043,
-  "altSeasonIndex": 47.37,
+  "scanTime": "2026-08-26T19:59:59.999000+00:00",
+  "btcReturn": 0.5849,
+  "altSeasonIndex": 31.58,
   "leader": "ONG",
   "newEntries": [
-    "ONG",
-    "SNDK",
-    "SNXX",
-    "SKHY"
+    "SOL",
+    "HYPE",
+    "NVDA",
+    "ZEC",
+    "XRP"
   ],
   "recommended": [
     "ONG",
-    "SNDK",
-    "SNXX"
+    "SPCX",
+    "ETH"
   ]
 }
