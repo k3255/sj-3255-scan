@@ -1,18 +1,17 @@
 {
-  "scanTime": "2026-08-26T19:59:59.999000+00:00",
-  "btcReturn": 0.5849,
-  "altSeasonIndex": 31.58,
+  "scanTime": "2026-08-27T07:59:59.999000+00:00",
+  "btcReturn": 0.3182,
+  "altSeasonIndex": 68.42,
   "leader": "ONG",
   "newEntries": [
-    "SOL",
-    "HYPE",
-    "NVDA",
-    "ZEC",
-    "XRP"
+    "ENA",
+    "XAG",
+    "MU",
+    "KORU"
   ],
   "recommended": [
     "ONG",
-    "SPCX",
-    "ETH"
+    "ENA",
+    "SOL"
   ]
 }
