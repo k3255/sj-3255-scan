@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-08-27T19:59:59.999000+00:00",
-  "btcReturn": -0.4854,
-  "altSeasonIndex": 80.95,
-  "leader": "ENA",
+  "scanTime": "2026-08-28T07:59:59.999000+00:00",
+  "btcReturn": -0.1809,
+  "altSeasonIndex": 44.44,
+  "leader": "TRUMP",
   "newEntries": [
-    "TRUMP",
-    "ZEC",
-    "SPCX"
+    "XAG",
+    "XAU",
+    "DOGE"
   ],
   "recommended": [
+    "TRUMP",
     "ENA",
-    "SOL",
-    "HYPE"
+    "XAG"
   ]
 }
