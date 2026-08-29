@@ -1,15 +1,17 @@
 {
-  "scanTime": "2026-08-29T03:59:59.999000+00:00",
-  "btcReturn": -0.4374,
-  "altSeasonIndex": 83.33,
-  "leader": "TRUMP",
+  "scanTime": "2026-08-29T11:59:59.999000+00:00",
+  "btcReturn": -0.03,
+  "altSeasonIndex": 64.29,
+  "leader": "ZEC",
   "newEntries": [
-    "HYPE",
-    "KORU"
+    "XRP",
+    "XAU",
+    "DOGE",
+    "SUI"
   ],
   "recommended": [
+    "ZEC",
     "TRUMP",
-    "SOL",
-    "HYPE"
+    "SOL"
   ]
 }
