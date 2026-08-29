@@ -1,14 +1,12 @@
 {
-  "scanTime": "2026-08-29T15:59:59.999000+00:00",
-  "btcReturn": 0.3467,
-  "altSeasonIndex": 85.71,
+  "scanTime": "2026-08-29T19:59:59.999000+00:00",
+  "btcReturn": 0.4137,
+  "altSeasonIndex": 0.0,
   "leader": "ZEC",
-  "newEntries": [
-    "ENA"
-  ],
+  "newEntries": [],
   "recommended": [
     "ZEC",
-    "HYPE",
-    "SOL"
+    "SOL",
+    "HYPE"
   ]
 }
