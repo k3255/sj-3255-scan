@@ -1,40 +1,45 @@
 {
-  "scanTime": "2026-08-30T15:59:59.999000+00:00",
+  "scanTime": "2026-08-30T19:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "ZEC",
-      "relativeScore": 2.2437,
-      "aiScore": 61.65
-    },
-    {
       "symbol": "ETH",
-      "relativeScore": -0.001,
-      "aiScore": 56.4
+      "relativeScore": 0.8908,
+      "aiScore": 65.14
     },
     {
-      "symbol": "SOL",
-      "relativeScore": 0.2881,
-      "aiScore": 53.33
-    },
-    {
-      "symbol": "PROM",
-      "relativeScore": -0.7296,
-      "aiScore": 49.75
+      "symbol": "ZEC",
+      "relativeScore": -0.2695,
+      "aiScore": 53.24
     },
     {
       "symbol": "XRP",
-      "relativeScore": -0.3878,
-      "aiScore": 47.35
+      "relativeScore": 0.854,
+      "aiScore": 52.29
     },
     {
       "symbol": "DOGE",
-      "relativeScore": -0.374,
-      "aiScore": 46.61
+      "relativeScore": 0.4541,
+      "aiScore": 50.83
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": -0.506,
+      "aiScore": 50.5
     },
     {
       "symbol": "HYPE",
-      "relativeScore": -1.379,
-      "aiScore": 46.58
+      "relativeScore": -0.6236,
+      "aiScore": 46.53
+    },
+    {
+      "symbol": "TRUMP",
+      "relativeScore": 0.1366,
+      "aiScore": 42.11
+    },
+    {
+      "symbol": "PROM",
+      "relativeScore": -3.7937,
+      "aiScore": 37.22
     }
   ]
 }
