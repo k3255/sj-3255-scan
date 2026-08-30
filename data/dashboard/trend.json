@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-23T07:59:59.999000+00:00",
-      "btcReturn": -1.1957,
-      "altSeasonIndex": 84.62,
-      "leader": "PUMP"
-    },
-    {
       "scanTime": "2026-08-23T11:59:59.999000+00:00",
       "btcReturn": 1.6683,
       "altSeasonIndex": 91.67,
@@ -179,6 +173,12 @@
       "btcReturn": 0.4137,
       "altSeasonIndex": 0.0,
       "leader": "ZEC"
+    },
+    {
+      "scanTime": "2026-08-30T03:59:59.999000+00:00",
+      "btcReturn": -0.1235,
+      "altSeasonIndex": 28.57,
+      "leader": "PROM"
     }
   ]
 }

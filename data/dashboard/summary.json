@@ -1,12 +1,14 @@
 {
-  "scanTime": "2026-08-29T19:59:59.999000+00:00",
-  "btcReturn": 0.4137,
-  "altSeasonIndex": 0.0,
-  "leader": "ZEC",
-  "newEntries": [],
+  "scanTime": "2026-08-30T03:59:59.999000+00:00",
+  "btcReturn": -0.1235,
+  "altSeasonIndex": 28.57,
+  "leader": "PROM",
+  "newEntries": [
+    "PROM"
+  ],
   "recommended": [
+    "PROM",
     "ZEC",
-    "SOL",
-    "HYPE"
+    "SOL"
   ]
 }
