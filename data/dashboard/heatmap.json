@@ -1,45 +1,75 @@
 {
-  "scanTime": "2026-08-30T19:59:59.999000+00:00",
+  "scanTime": "2026-08-31T03:59:59.999000+00:00",
   "items": [
     {
+      "symbol": "SKR",
+      "relativeScore": 32.8306,
+      "aiScore": 91.06
+    },
+    {
+      "symbol": "ZKC",
+      "relativeScore": 5.1554,
+      "aiScore": 84.4
+    },
+    {
+      "symbol": "SKHYNIX",
+      "relativeScore": 1.4688,
+      "aiScore": 59.69
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -0.9111,
+      "aiScore": 54.21
+    },
+    {
+      "symbol": "XAG",
+      "relativeScore": -0.5687,
+      "aiScore": 52.11
+    },
+    {
       "symbol": "ETH",
-      "relativeScore": 0.8908,
-      "aiScore": 65.14
+      "relativeScore": 0.0649,
+      "aiScore": 52.04
     },
     {
-      "symbol": "ZEC",
-      "relativeScore": -0.2695,
-      "aiScore": 53.24
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": 0.854,
-      "aiScore": 52.29
-    },
-    {
-      "symbol": "DOGE",
-      "relativeScore": 0.4541,
-      "aiScore": 50.83
+      "symbol": "KORU",
+      "relativeScore": -1.3794,
+      "aiScore": 51.48
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.506,
-      "aiScore": 50.5
+      "relativeScore": 0.082,
+      "aiScore": 48.92
+    },
+    {
+      "symbol": "SUI",
+      "relativeScore": 0.7832,
+      "aiScore": 48.77
     },
     {
       "symbol": "HYPE",
-      "relativeScore": -0.6236,
-      "aiScore": 46.53
+      "relativeScore": 0.3525,
+      "aiScore": 48.07
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": -0.2945,
+      "aiScore": 47.75
+    },
+    {
+      "symbol": "DOGE",
+      "relativeScore": 0.1751,
+      "aiScore": 46.2
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": -1.9144,
+      "aiScore": 44.57
     },
     {
       "symbol": "TRUMP",
-      "relativeScore": 0.1366,
-      "aiScore": 42.11
-    },
-    {
-      "symbol": "PROM",
-      "relativeScore": -3.7937,
-      "aiScore": 37.22
+      "relativeScore": 1.1222,
+      "aiScore": 40.19
     }
   ]
 }

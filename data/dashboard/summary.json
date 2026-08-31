@@ -1,14 +1,20 @@
 {
-  "scanTime": "2026-08-30T19:59:59.999000+00:00",
-  "btcReturn": 0.0617,
-  "altSeasonIndex": 50.0,
-  "leader": "ETH",
+  "scanTime": "2026-08-31T03:59:59.999000+00:00",
+  "btcReturn": 0.1176,
+  "altSeasonIndex": 64.29,
+  "leader": "SKR",
   "newEntries": [
-    "TRUMP"
+    "SKR",
+    "ZKC",
+    "SKHYNIX",
+    "XAU",
+    "XAG",
+    "KORU",
+    "SUI"
   ],
   "recommended": [
-    "ETH",
-    "ZEC",
-    "XRP"
+    "SKR",
+    "ZKC",
+    "SKHYNIX"
   ]
 }
