@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-24T03:59:59.999000+00:00",
-      "btcReturn": -1.0275,
-      "altSeasonIndex": 13.33,
-      "leader": "ENA"
-    },
-    {
       "scanTime": "2026-08-24T07:59:59.999000+00:00",
       "btcReturn": 0.4929,
       "altSeasonIndex": 33.33,
@@ -178,6 +172,12 @@
       "scanTime": "2026-08-31T03:59:59.999000+00:00",
       "btcReturn": 0.1176,
       "altSeasonIndex": 64.29,
+      "leader": "SKR"
+    },
+    {
+      "scanTime": "2026-08-31T15:59:59.999000+00:00",
+      "btcReturn": 0.334,
+      "altSeasonIndex": 44.44,
       "leader": "SKR"
     }
   ]

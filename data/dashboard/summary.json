@@ -1,20 +1,18 @@
 {
-  "scanTime": "2026-08-31T03:59:59.999000+00:00",
-  "btcReturn": 0.1176,
-  "altSeasonIndex": 64.29,
+  "scanTime": "2026-08-31T15:59:59.999000+00:00",
+  "btcReturn": 0.334,
+  "altSeasonIndex": 44.44,
   "leader": "SKR",
   "newEntries": [
-    "SKR",
-    "ZKC",
-    "SKHYNIX",
-    "XAU",
-    "XAG",
-    "KORU",
-    "SUI"
+    "SNXX",
+    "SNDK",
+    "SKHY",
+    "SOXL",
+    "CL"
   ],
   "recommended": [
     "SKR",
-    "ZKC",
-    "SKHYNIX"
+    "SNXX",
+    "SNDK"
   ]
 }
