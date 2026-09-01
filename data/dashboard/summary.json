@@ -1,19 +1,16 @@
 {
-  "scanTime": "2026-09-01T11:59:59.999000+00:00",
-  "btcReturn": -0.6928,
-  "altSeasonIndex": 36.84,
-  "leader": "ENA",
+  "scanTime": "2026-09-01T15:59:59.999000+00:00",
+  "btcReturn": -0.2353,
+  "altSeasonIndex": 57.89,
+  "leader": "SNXX",
   "newEntries": [
-    "ENA",
-    "XAU",
-    "SPCX",
-    "XRP",
-    "SNDK",
-    "XAG"
+    "SNXX",
+    "KORU",
+    "SOXL"
   ],
   "recommended": [
-    "ENA",
-    "XAU",
+    "SNXX",
+    "SNDK",
     "MU"
   ]
 }
