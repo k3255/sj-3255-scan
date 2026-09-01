@@ -1,17 +1,19 @@
 {
-  "scanTime": "2026-09-01T03:59:59.999000+00:00",
-  "btcReturn": 0.1315,
-  "altSeasonIndex": 72.22,
-  "leader": "SKR",
+  "scanTime": "2026-09-01T11:59:59.999000+00:00",
+  "btcReturn": -0.6928,
+  "altSeasonIndex": 36.84,
+  "leader": "ENA",
   "newEntries": [
-    "SKHYNIX",
-    "KORU",
-    "SKHY",
-    "SUI"
+    "ENA",
+    "XAU",
+    "SPCX",
+    "XRP",
+    "SNDK",
+    "XAG"
   ],
   "recommended": [
-    "SKR",
-    "SKHYNIX",
-    "KORU"
+    "ENA",
+    "XAU",
+    "MU"
   ]
 }
