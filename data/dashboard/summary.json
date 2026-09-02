@@ -1,17 +1,16 @@
 {
-  "scanTime": "2026-09-02T07:59:59.999000+00:00",
-  "btcReturn": -0.1166,
-  "altSeasonIndex": 50.0,
-  "leader": "ETH",
+  "scanTime": "2026-09-02T15:59:59.999000+00:00",
+  "btcReturn": 0.5936,
+  "altSeasonIndex": 68.75,
+  "leader": "UNI",
   "newEntries": [
-    "SNDK",
-    "SNXX",
-    "SPCX",
-    "DOGE"
+    "UNI",
+    "SOXL",
+    "KORU"
   ],
   "recommended": [
-    "ETH",
-    "SUI",
-    "XAU"
+    "UNI",
+    "SNXX",
+    "SOXL"
   ]
 }
