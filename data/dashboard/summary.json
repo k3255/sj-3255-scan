@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-09-02T03:59:59.999000+00:00",
-  "btcReturn": 0.1671,
-  "altSeasonIndex": 31.58,
-  "leader": "CL",
+  "scanTime": "2026-09-02T07:59:59.999000+00:00",
+  "btcReturn": -0.1166,
+  "altSeasonIndex": 50.0,
+  "leader": "ETH",
   "newEntries": [
-    "CL",
-    "XRP",
-    "XAG",
-    "ZEC"
+    "SNDK",
+    "SNXX",
+    "SPCX",
+    "DOGE"
   ],
   "recommended": [
-    "CL",
-    "XAU",
-    "ENA"
+    "ETH",
+    "SUI",
+    "XAU"
   ]
 }
