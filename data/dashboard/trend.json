@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-25T19:59:59.999000+00:00",
-      "btcReturn": -0.7242,
-      "altSeasonIndex": 65.22,
-      "leader": "ONG"
-    },
-    {
       "scanTime": "2026-08-25T23:59:59.999000+00:00",
       "btcReturn": -0.4925,
       "altSeasonIndex": 33.33,
@@ -179,6 +173,12 @@
       "btcReturn": 0.0698,
       "altSeasonIndex": 66.67,
       "leader": "KORU"
+    },
+    {
+      "scanTime": "2026-09-03T03:59:59.999000+00:00",
+      "btcReturn": 0.4799,
+      "altSeasonIndex": 69.23,
+      "leader": "SUI"
     }
   ]
 }
