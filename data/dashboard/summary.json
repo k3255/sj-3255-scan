@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-09-03T07:59:59.999000+00:00",
-  "btcReturn": -0.0575,
-  "altSeasonIndex": 21.43,
-  "leader": "SUI",
+  "scanTime": "2026-09-03T15:59:59.999000+00:00",
+  "btcReturn": 4.3874,
+  "altSeasonIndex": 37.5,
+  "leader": "ZEC",
   "newEntries": [
-    "ZEC",
-    "HYPE"
+    "SPCX",
+    "KORU",
+    "SOXL"
   ],
   "recommended": [
-    "SUI",
+    "ZEC",
     "XRP",
-    "ETH"
+    "DOGE"
   ]
 }
