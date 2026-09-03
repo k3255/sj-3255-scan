@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-09-03T15:59:59.999000+00:00",
-  "btcReturn": 4.3874,
-  "altSeasonIndex": 37.5,
+  "scanTime": "2026-09-03T19:59:59.999000+00:00",
+  "btcReturn": 0.4844,
+  "altSeasonIndex": 58.82,
   "leader": "ZEC",
   "newEntries": [
-    "SPCX",
-    "KORU",
-    "SOXL"
+    "ENA",
+    "ADA",
+    "HYPE",
+    "MU"
   ],
   "recommended": [
     "ZEC",
-    "XRP",
-    "DOGE"
+    "ENA",
+    "ADA"
   ]
 }
