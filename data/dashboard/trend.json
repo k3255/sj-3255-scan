@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-26T19:59:59.999000+00:00",
-      "btcReturn": 0.5849,
-      "altSeasonIndex": 31.58,
-      "leader": "ONG"
-    },
-    {
       "scanTime": "2026-08-27T07:59:59.999000+00:00",
       "btcReturn": 0.3182,
       "altSeasonIndex": 68.42,
@@ -179,6 +173,12 @@
       "btcReturn": -0.2256,
       "altSeasonIndex": 70.0,
       "leader": "USELESS"
+    },
+    {
+      "scanTime": "2026-09-04T15:59:59.999000+00:00",
+      "btcReturn": -2.2241,
+      "altSeasonIndex": 52.17,
+      "leader": "PONS"
     }
   ]
 }
