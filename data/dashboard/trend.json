@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-26T11:59:59.999000+00:00",
-      "btcReturn": -0.5492,
-      "altSeasonIndex": 80.0,
-      "leader": "MSTR"
-    },
-    {
       "scanTime": "2026-08-26T15:59:59.999000+00:00",
       "btcReturn": -0.6043,
       "altSeasonIndex": 47.37,
@@ -179,6 +173,12 @@
       "btcReturn": 0.4844,
       "altSeasonIndex": 58.82,
       "leader": "ZEC"
+    },
+    {
+      "scanTime": "2026-09-04T03:59:59.999000+00:00",
+      "btcReturn": -0.5168,
+      "altSeasonIndex": 76.19,
+      "leader": "MARSCOIN"
     }
   ]
 }

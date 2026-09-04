@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-09-03T19:59:59.999000+00:00",
-  "btcReturn": 0.4844,
-  "altSeasonIndex": 58.82,
-  "leader": "ZEC",
+  "scanTime": "2026-09-04T03:59:59.999000+00:00",
+  "btcReturn": -0.5168,
+  "altSeasonIndex": 76.19,
+  "leader": "MARSCOIN",
   "newEntries": [
-    "ENA",
-    "ADA",
-    "HYPE",
-    "MU"
+    "MARSCOIN",
+    "USELESS",
+    "MSTR",
+    "SOL"
   ],
   "recommended": [
-    "ZEC",
-    "ENA",
+    "MARSCOIN",
+    "USELESS",
     "ADA"
   ]
 }
