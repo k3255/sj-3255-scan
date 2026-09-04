@@ -1,17 +1,15 @@
 {
-  "scanTime": "2026-09-04T03:59:59.999000+00:00",
-  "btcReturn": -0.5168,
-  "altSeasonIndex": 76.19,
-  "leader": "MARSCOIN",
+  "scanTime": "2026-09-04T07:59:59.999000+00:00",
+  "btcReturn": -0.2256,
+  "altSeasonIndex": 70.0,
+  "leader": "USELESS",
   "newEntries": [
-    "MARSCOIN",
-    "USELESS",
-    "MSTR",
-    "SOL"
+    "SOXL",
+    "SNXX"
   ],
   "recommended": [
-    "MARSCOIN",
     "USELESS",
-    "ADA"
+    "ZEC",
+    "MSTR"
   ]
 }
