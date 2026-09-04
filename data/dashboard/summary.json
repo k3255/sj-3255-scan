@@ -1,19 +1,15 @@
 {
-  "scanTime": "2026-09-04T15:59:59.999000+00:00",
-  "btcReturn": -2.2241,
-  "altSeasonIndex": 52.17,
-  "leader": "PONS",
+  "scanTime": "2026-09-04T19:59:59.999000+00:00",
+  "btcReturn": 0.465,
+  "altSeasonIndex": 54.55,
+  "leader": "MARSCOIN",
   "newEntries": [
-    "PONS",
-    "SNDK",
-    "KORU",
-    "MU",
-    "SKHY",
-    "SKHYNIX"
+    "MARSCOIN",
+    "USELESS"
   ],
   "recommended": [
-    "PONS",
-    "SNXX",
-    "SNDK"
+    "MARSCOIN",
+    "USELESS",
+    "ZEC"
   ]
 }
