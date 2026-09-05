@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-28T19:59:59.999000+00:00",
-      "btcReturn": -0.9351,
-      "altSeasonIndex": 33.33,
-      "leader": "SOL"
-    },
-    {
       "scanTime": "2026-08-29T03:59:59.999000+00:00",
       "btcReturn": -0.4374,
       "altSeasonIndex": 83.33,
@@ -179,6 +173,12 @@
       "btcReturn": 0.1545,
       "altSeasonIndex": 77.78,
       "leader": "SUI"
+    },
+    {
+      "scanTime": "2026-09-05T11:59:59.999000+00:00",
+      "btcReturn": -0.1204,
+      "altSeasonIndex": 77.78,
+      "leader": "MARSCOIN"
     }
   ]
 }

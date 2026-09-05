@@ -1,16 +1,18 @@
 {
-  "scanTime": "2026-09-05T07:59:59.999000+00:00",
-  "btcReturn": 0.1545,
+  "scanTime": "2026-09-05T11:59:59.999000+00:00",
+  "btcReturn": -0.1204,
   "altSeasonIndex": 77.78,
-  "leader": "SUI",
+  "leader": "MARSCOIN",
   "newEntries": [
-    "MARSCOIN",
-    "USELESS",
-    "DOGE"
+    "PONS",
+    "ZEC",
+    "ETH",
+    "SOL",
+    "XRP"
   ],
   "recommended": [
-    "SUI",
-    "SNXX",
-    "MARSCOIN"
+    "MARSCOIN",
+    "PONS",
+    "ZEC"
   ]
 }
