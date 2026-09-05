@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-29T03:59:59.999000+00:00",
-      "btcReturn": -0.4374,
-      "altSeasonIndex": 83.33,
-      "leader": "TRUMP"
-    },
-    {
       "scanTime": "2026-08-29T11:59:59.999000+00:00",
       "btcReturn": -0.03,
       "altSeasonIndex": 64.29,
@@ -179,6 +173,12 @@
       "btcReturn": -0.1204,
       "altSeasonIndex": 77.78,
       "leader": "MARSCOIN"
+    },
+    {
+      "scanTime": "2026-09-05T15:59:59.999000+00:00",
+      "btcReturn": 0.2295,
+      "altSeasonIndex": 87.5,
+      "leader": "PONS"
     }
   ]
 }

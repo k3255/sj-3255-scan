@@ -1,50 +1,45 @@
 {
-  "scanTime": "2026-09-05T11:59:59.999000+00:00",
+  "scanTime": "2026-09-05T15:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "MARSCOIN",
-      "relativeScore": 29.3838,
-      "aiScore": 90.5
-    },
-    {
       "symbol": "PONS",
-      "relativeScore": 11.3386,
-      "aiScore": 82.64
+      "relativeScore": 8.153,
+      "aiScore": 86.34
     },
     {
-      "symbol": "ZEC",
-      "relativeScore": 1.3615,
-      "aiScore": 58.98
+      "symbol": "MARSCOIN",
+      "relativeScore": 0.5413,
+      "aiScore": 68.86
     },
     {
       "symbol": "SUI",
-      "relativeScore": -1.0017,
-      "aiScore": 56.8
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": 0.341,
-      "aiScore": 55.31
+      "relativeScore": 1.3261,
+      "aiScore": 65.83
     },
     {
       "symbol": "DOGE",
-      "relativeScore": 0.4936,
-      "aiScore": 51.73
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": -0.0193,
-      "aiScore": 49.51
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.2486,
-      "aiScore": 49.37
+      "relativeScore": 1.4903,
+      "aiScore": 60.77
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.0919,
-      "aiScore": 48.37
+      "relativeScore": 0.3548,
+      "aiScore": 53.04
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": -0.1111,
+      "aiScore": 52.83
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": 0.3463,
+      "aiScore": 50.6
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.016,
+      "aiScore": 49.69
     }
   ]
 }
