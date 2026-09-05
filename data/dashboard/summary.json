@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-09-05T03:59:59.999000+00:00",
-  "btcReturn": -0.0909,
-  "altSeasonIndex": 55.0,
-  "leader": "SNXX",
+  "scanTime": "2026-09-05T07:59:59.999000+00:00",
+  "btcReturn": 0.1545,
+  "altSeasonIndex": 77.78,
+  "leader": "SUI",
   "newEntries": [
-    "PONS",
-    "SUI",
-    "SOXL"
+    "MARSCOIN",
+    "USELESS",
+    "DOGE"
   ],
   "recommended": [
+    "SUI",
     "SNXX",
-    "SNDK",
-    "ZEC"
+    "MARSCOIN"
   ]
 }

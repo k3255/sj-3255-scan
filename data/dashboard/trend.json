@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-28T07:59:59.999000+00:00",
-      "btcReturn": -0.1809,
-      "altSeasonIndex": 44.44,
-      "leader": "TRUMP"
-    },
-    {
       "scanTime": "2026-08-28T19:59:59.999000+00:00",
       "btcReturn": -0.9351,
       "altSeasonIndex": 33.33,
@@ -179,6 +173,12 @@
       "btcReturn": -0.0909,
       "altSeasonIndex": 55.0,
       "leader": "SNXX"
+    },
+    {
+      "scanTime": "2026-09-05T07:59:59.999000+00:00",
+      "btcReturn": 0.1545,
+      "altSeasonIndex": 77.78,
+      "leader": "SUI"
     }
   ]
 }
