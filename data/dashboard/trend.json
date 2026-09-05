@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-29T11:59:59.999000+00:00",
-      "btcReturn": -0.03,
-      "altSeasonIndex": 64.29,
-      "leader": "ZEC"
-    },
-    {
       "scanTime": "2026-08-29T15:59:59.999000+00:00",
       "btcReturn": 0.3467,
       "altSeasonIndex": 85.71,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2295,
       "altSeasonIndex": 87.5,
       "leader": "PONS"
+    },
+    {
+      "scanTime": "2026-09-05T19:59:59.999000+00:00",
+      "btcReturn": -0.0515,
+      "altSeasonIndex": 66.67,
+      "leader": "DOGE"
     }
   ]
 }
