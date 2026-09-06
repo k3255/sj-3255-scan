@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-08-29T15:59:59.999000+00:00",
-      "btcReturn": 0.3467,
-      "altSeasonIndex": 85.71,
-      "leader": "ZEC"
-    },
-    {
       "scanTime": "2026-08-29T19:59:59.999000+00:00",
       "btcReturn": 0.4137,
       "altSeasonIndex": 0.0,
@@ -179,6 +173,12 @@
       "btcReturn": -0.0515,
       "altSeasonIndex": 66.67,
       "leader": "DOGE"
+    },
+    {
+      "scanTime": "2026-09-06T03:59:59.999000+00:00",
+      "btcReturn": 0.2485,
+      "altSeasonIndex": 70.0,
+      "leader": "ARB"
     }
   ]
 }
