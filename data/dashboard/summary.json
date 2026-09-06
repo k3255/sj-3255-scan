@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-09-06T11:59:59.999000+00:00",
-  "btcReturn": 0.1462,
-  "altSeasonIndex": 63.64,
+  "scanTime": "2026-09-06T15:59:59.999000+00:00",
+  "btcReturn": -0.2612,
+  "altSeasonIndex": 9.09,
   "leader": "ZEC",
   "newEntries": [],
   "recommended": [
     "ZEC",
-    "HYPE",
-    "UNI"
+    "ARB",
+    "HYPE"
   ]
 }
