@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-09-07T03:59:59.999000+00:00",
-  "btcReturn": -0.9234,
-  "altSeasonIndex": 11.11,
-  "leader": "ETH",
+  "scanTime": "2026-09-07T07:59:59.999000+00:00",
+  "btcReturn": -0.2388,
+  "altSeasonIndex": 44.44,
+  "leader": "ZEC",
   "newEntries": [],
   "recommended": [
-    "ETH",
     "ZEC",
-    "SUI"
+    "SUI",
+    "SOL"
   ]
 }
