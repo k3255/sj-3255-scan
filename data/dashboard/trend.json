@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-01T19:59:59.999000+00:00",
-      "btcReturn": -0.7569,
-      "altSeasonIndex": 5.56,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-09-02T03:59:59.999000+00:00",
       "btcReturn": 0.1671,
       "altSeasonIndex": 31.58,
@@ -179,6 +173,12 @@
       "btcReturn": 0.6012,
       "altSeasonIndex": 80.0,
       "leader": "SKHY"
+    },
+    {
+      "scanTime": "2026-09-08T19:59:59.999000+00:00",
+      "btcReturn": -0.5807,
+      "altSeasonIndex": 15.79,
+      "leader": "SPCX"
     }
   ]
 }

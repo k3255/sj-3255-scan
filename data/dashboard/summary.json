@@ -1,17 +1,18 @@
 {
-  "scanTime": "2026-09-08T15:59:59.999000+00:00",
-  "btcReturn": 0.6012,
-  "altSeasonIndex": 80.0,
-  "leader": "SKHY",
+  "scanTime": "2026-09-08T19:59:59.999000+00:00",
+  "btcReturn": -0.5807,
+  "altSeasonIndex": 15.79,
+  "leader": "SPCX",
   "newEntries": [
-    "SKHY",
-    "SOXL",
-    "KORU",
-    "ZEC"
+    "SPCX",
+    "CL",
+    "XAU",
+    "SOL",
+    "DOGE"
   ],
   "recommended": [
-    "SKHY",
-    "SOXL",
-    "SKHYNIX"
+    "SPCX",
+    "CL",
+    "XAU"
   ]
 }
