@@ -1,12 +1,14 @@
 {
-  "scanTime": "2026-09-07T19:59:59.999000+00:00",
-  "btcReturn": 0.6663,
-  "altSeasonIndex": 77.78,
-  "leader": "SUI",
-  "newEntries": [],
+  "scanTime": "2026-09-08T03:59:59.999000+00:00",
+  "btcReturn": -0.2479,
+  "altSeasonIndex": 55.56,
+  "leader": "KORU",
+  "newEntries": [
+    "KORU"
+  ],
   "recommended": [
-    "SUI",
-    "ZEC",
-    "DOGE"
+    "KORU",
+    "XAU",
+    "SUI"
   ]
 }
