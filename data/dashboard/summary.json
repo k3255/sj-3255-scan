@@ -1,14 +1,17 @@
 {
-  "scanTime": "2026-09-08T03:59:59.999000+00:00",
-  "btcReturn": -0.2479,
-  "altSeasonIndex": 55.56,
-  "leader": "KORU",
+  "scanTime": "2026-09-08T07:59:59.999000+00:00",
+  "btcReturn": -0.5458,
+  "altSeasonIndex": 38.46,
+  "leader": "SOPH",
   "newEntries": [
-    "KORU"
+    "SOPH",
+    "SNDK",
+    "MU",
+    "SKHYNIX"
   ],
   "recommended": [
-    "KORU",
-    "XAU",
+    "SOPH",
+    "SNDK",
     "SUI"
   ]
 }
