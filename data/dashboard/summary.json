@@ -1,18 +1,15 @@
 {
-  "scanTime": "2026-09-09T15:59:59.999000+00:00",
-  "btcReturn": -0.9209,
-  "altSeasonIndex": 68.75,
+  "scanTime": "2026-09-09T19:59:59.999000+00:00",
+  "btcReturn": -0.4671,
+  "altSeasonIndex": 62.5,
   "leader": "IOST",
   "newEntries": [
-    "IOST",
-    "SKHY",
-    "SNDK",
-    "XAG",
-    "KORU"
+    "SPCX",
+    "XRP"
   ],
   "recommended": [
     "IOST",
     "SKHY",
-    "SOXL"
+    "SKHYNIX"
   ]
 }
