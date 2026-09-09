@@ -1,15 +1,18 @@
 {
-  "scanTime": "2026-09-09T11:59:59.999000+00:00",
-  "btcReturn": 0.0738,
-  "altSeasonIndex": 7.14,
-  "leader": "ZEC",
+  "scanTime": "2026-09-09T15:59:59.999000+00:00",
+  "btcReturn": -0.9209,
+  "altSeasonIndex": 68.75,
+  "leader": "IOST",
   "newEntries": [
-    "SOL",
-    "HYPE"
+    "IOST",
+    "SKHY",
+    "SNDK",
+    "XAG",
+    "KORU"
   ],
   "recommended": [
-    "ZEC",
-    "ETH",
-    "XRP"
+    "IOST",
+    "SKHY",
+    "SOXL"
   ]
 }
