@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-09-09T03:59:59.999000+00:00",
-  "btcReturn": 0.2164,
-  "altSeasonIndex": 50.0,
-  "leader": "SKHYNIX",
+  "scanTime": "2026-09-09T11:59:59.999000+00:00",
+  "btcReturn": 0.0738,
+  "altSeasonIndex": 7.14,
+  "leader": "ZEC",
   "newEntries": [
-    "KORU",
-    "ZEC",
-    "SOXL"
+    "SOL",
+    "HYPE"
   ],
   "recommended": [
-    "SKHYNIX",
-    "KORU",
-    "SKHY"
+    "ZEC",
+    "ETH",
+    "XRP"
   ]
 }
