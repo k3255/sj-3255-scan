@@ -1,17 +1,15 @@
 {
-  "scanTime": "2026-09-10T15:59:59.999000+00:00",
-  "btcReturn": -0.7659,
-  "altSeasonIndex": 36.84,
+  "scanTime": "2026-09-10T19:59:59.999000+00:00",
+  "btcReturn": -0.1133,
+  "altSeasonIndex": 26.32,
   "leader": "CL",
   "newEntries": [
-    "SPCX",
-    "BZ",
-    "VTHO",
-    "SOL"
+    "DOGE",
+    "HYPE"
   ],
   "recommended": [
     "CL",
-    "SPCX",
+    "ETH",
     "BZ"
   ]
 }
