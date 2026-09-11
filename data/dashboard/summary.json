@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-09-11T15:59:59.999000+00:00",
-  "btcReturn": 0.8821,
-  "altSeasonIndex": 66.67,
+  "scanTime": "2026-09-11T19:59:59.999000+00:00",
+  "btcReturn": -0.5653,
+  "altSeasonIndex": 46.15,
   "leader": "ETH",
   "newEntries": [
-    "HYPE",
-    "XRP",
-    "KORU",
-    "DOGE"
+    "CL"
   ],
   "recommended": [
     "ETH",
-    "ZEC",
-    "SOXL"
+    "SOL",
+    "ZEC"
   ]
 }
