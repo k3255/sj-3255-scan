@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-09-10T19:59:59.999000+00:00",
-  "btcReturn": -0.1133,
-  "altSeasonIndex": 26.32,
-  "leader": "CL",
+  "scanTime": "2026-09-11T07:59:59.999000+00:00",
+  "btcReturn": 0.4128,
+  "altSeasonIndex": 75.0,
+  "leader": "VTHO",
   "newEntries": [
-    "DOGE",
-    "HYPE"
+    "ZEC",
+    "SOXL",
+    "XAG"
   ],
   "recommended": [
-    "CL",
+    "VTHO",
     "ETH",
-    "BZ"
+    "ZEC"
   ]
 }
