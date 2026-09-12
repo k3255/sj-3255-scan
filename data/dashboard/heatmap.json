@@ -1,70 +1,65 @@
 {
-  "scanTime": "2026-09-11T19:59:59.999000+00:00",
+  "scanTime": "2026-09-12T03:59:59.999000+00:00",
   "items": [
     {
       "symbol": "ETH",
-      "relativeScore": -0.206,
-      "aiScore": 55.99
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.9592,
-      "aiScore": 54.06
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": 1.4794,
-      "aiScore": 53.05
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": -0.9247,
-      "aiScore": 47.38
-    },
-    {
-      "symbol": "XAU",
-      "relativeScore": 0.1673,
-      "aiScore": 46.98
-    },
-    {
-      "symbol": "CL",
-      "relativeScore": 1.0849,
-      "aiScore": 46.41
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": -0.381,
-      "aiScore": 46.22
-    },
-    {
-      "symbol": "DOGE",
-      "relativeScore": -0.0117,
-      "aiScore": 45.98
+      "relativeScore": -0.1981,
+      "aiScore": 50.71
     },
     {
       "symbol": "SOXL",
-      "relativeScore": -0.7632,
-      "aiScore": 45.42
+      "relativeScore": 0.6228,
+      "aiScore": 49.12
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.4816,
+      "aiScore": 47.51
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": -0.8727,
+      "aiScore": 46.96
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -0.0917,
+      "aiScore": 45.82
     },
     {
       "symbol": "KORU",
-      "relativeScore": -0.4121,
-      "aiScore": 44.85
+      "relativeScore": 0.3961,
+      "aiScore": 45.66
     },
     {
       "symbol": "XAG",
-      "relativeScore": 0.4413,
-      "aiScore": 44.61
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": 0.1329,
-      "aiScore": 41.32
+      "relativeScore": -0.0486,
+      "aiScore": 43.93
     },
     {
       "symbol": "SUI",
-      "relativeScore": -0.806,
-      "aiScore": 41.24
+      "relativeScore": 0.1703,
+      "aiScore": 43.52
+    },
+    {
+      "symbol": "CL",
+      "relativeScore": -0.7071,
+      "aiScore": 42.07
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": -0.758,
+      "aiScore": 41.64
+    },
+    {
+      "symbol": "SNDK",
+      "relativeScore": 0.1532,
+      "aiScore": 40.94
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": -2.6659,
+      "aiScore": 39.58
     }
   ]
 }
