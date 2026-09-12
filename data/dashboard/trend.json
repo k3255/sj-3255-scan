@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-05T15:59:59.999000+00:00",
-      "btcReturn": 0.2295,
-      "altSeasonIndex": 87.5,
-      "leader": "PONS"
-    },
-    {
       "scanTime": "2026-09-05T19:59:59.999000+00:00",
       "btcReturn": -0.0515,
       "altSeasonIndex": 66.67,
@@ -179,6 +173,12 @@
       "btcReturn": 0.0309,
       "altSeasonIndex": 20.0,
       "leader": "LSK"
+    },
+    {
+      "scanTime": "2026-09-12T19:59:59.999000+00:00",
+      "btcReturn": -0.3298,
+      "altSeasonIndex": 16.67,
+      "leader": "龙虾"
     }
   ]
 }

@@ -1,30 +1,35 @@
 {
-  "scanTime": "2026-09-12T15:59:59.999000+00:00",
+  "scanTime": "2026-09-12T19:59:59.999000+00:00",
   "items": [
     {
+      "symbol": "龙虾",
+      "relativeScore": 19.009,
+      "aiScore": 90.5
+    },
+    {
       "symbol": "LSK",
-      "relativeScore": 20.5183,
-      "aiScore": 91.17
+      "relativeScore": -0.2594,
+      "aiScore": 72.56
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.0782,
-      "aiScore": 51.14
+      "relativeScore": -0.2929,
+      "aiScore": 50.04
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.0907,
-      "aiScore": 48.2
+      "relativeScore": -0.4456,
+      "aiScore": 46.93
     },
     {
       "symbol": "XRP",
-      "relativeScore": -0.0309,
-      "aiScore": 47.64
+      "relativeScore": -0.3773,
+      "aiScore": 46.28
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -1.1247,
-      "aiScore": 40.64
+      "relativeScore": -1.3444,
+      "aiScore": 39.56
     }
   ]
 }
