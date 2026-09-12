@@ -1,35 +1,30 @@
 {
-  "scanTime": "2026-09-12T11:59:59.999000+00:00",
+  "scanTime": "2026-09-12T15:59:59.999000+00:00",
   "items": [
     {
       "symbol": "LSK",
-      "relativeScore": 7.3751,
-      "aiScore": 90.0
+      "relativeScore": 20.5183,
+      "aiScore": 91.17
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.3778,
-      "aiScore": 51.25
+      "relativeScore": -0.0782,
+      "aiScore": 51.14
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.3548,
-      "aiScore": 49.51
+      "relativeScore": -0.0907,
+      "aiScore": 48.2
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.1281,
-      "aiScore": 47.38
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": 1.3742,
-      "aiScore": 46.34
+      "relativeScore": -0.0309,
+      "aiScore": 47.64
     },
     {
       "symbol": "ZEC",
-      "relativeScore": 0.0753,
-      "aiScore": 44.53
+      "relativeScore": -1.1247,
+      "aiScore": 40.64
     }
   ]
 }
