@@ -1,17 +1,15 @@
 {
-  "scanTime": "2026-09-14T11:59:59.999000+00:00",
-  "btcReturn": -0.1336,
-  "altSeasonIndex": 23.08,
-  "leader": "FIL",
+  "scanTime": "2026-09-14T19:59:59.999000+00:00",
+  "btcReturn": 0.5223,
+  "altSeasonIndex": 50.0,
+  "leader": "XRP",
   "newEntries": [
-    "FIL",
-    "XAU",
-    "CL",
-    "SKHYNIX"
+    "SUI",
+    "LSK"
   ],
   "recommended": [
-    "FIL",
     "XRP",
-    "XAU"
+    "ZEC",
+    "ETH"
   ]
 }
