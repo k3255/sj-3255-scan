@@ -1,17 +1,15 @@
 {
-  "scanTime": "2026-09-15T15:59:59.999000+00:00",
-  "btcReturn": -0.5462,
-  "altSeasonIndex": 28.57,
-  "leader": "CL",
+  "scanTime": "2026-09-15T19:59:59.999000+00:00",
+  "btcReturn": -0.4285,
+  "altSeasonIndex": 57.14,
+  "leader": "ETH",
   "newEntries": [
-    "MSTR",
-    "LSK",
-    "SUI",
-    "SPCX"
+    "HYPE",
+    "ZEC"
   ],
   "recommended": [
-    "CL",
+    "ETH",
     "MSTR",
-    "LSK"
+    "HYPE"
   ]
 }
