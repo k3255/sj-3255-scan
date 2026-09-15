@@ -1,15 +1,14 @@
 {
-  "scanTime": "2026-09-14T19:59:59.999000+00:00",
-  "btcReturn": 0.5223,
-  "altSeasonIndex": 50.0,
+  "scanTime": "2026-09-15T03:59:59.999000+00:00",
+  "btcReturn": -0.646,
+  "altSeasonIndex": 54.55,
   "leader": "XRP",
   "newEntries": [
-    "SUI",
-    "LSK"
+    "KORU"
   ],
   "recommended": [
     "XRP",
-    "ZEC",
-    "ETH"
+    "ETH",
+    "XAU"
   ]
 }
