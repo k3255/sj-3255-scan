@@ -1,60 +1,60 @@
 {
-  "scanTime": "2026-09-15T03:59:59.999000+00:00",
+  "scanTime": "2026-09-15T11:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "XRP",
-      "relativeScore": 0.1469,
-      "aiScore": 53.82
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": -0.0297,
-      "aiScore": 53.41
-    },
-    {
       "symbol": "XAU",
-      "relativeScore": 0.9887,
-      "aiScore": 52.42
+      "relativeScore": 0.1023,
+      "aiScore": 56.98
     },
     {
-      "symbol": "CL",
-      "relativeScore": 1.3048,
-      "aiScore": 51.21
+      "symbol": "XRP",
+      "relativeScore": 0.4829,
+      "aiScore": 53.47
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.3094,
-      "aiScore": 50.88
+      "relativeScore": 0.3884,
+      "aiScore": 52.18
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.09,
+      "aiScore": 51.85
     },
     {
       "symbol": "SNDK",
-      "relativeScore": 0.7221,
-      "aiScore": 47.17
-    },
-    {
-      "symbol": "KORU",
-      "relativeScore": 0.8567,
-      "aiScore": 46.49
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": -0.3764,
-      "aiScore": 45.84
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": -1.3106,
-      "aiScore": 44.67
-    },
-    {
-      "symbol": "LSK",
-      "relativeScore": -2.9774,
-      "aiScore": 39.3
+      "relativeScore": 0.4551,
+      "aiScore": 49.95
     },
     {
       "symbol": "SOXL",
-      "relativeScore": 0.0924,
-      "aiScore": 37.17
+      "relativeScore": 2.7393,
+      "aiScore": 49.1
+    },
+    {
+      "symbol": "CL",
+      "relativeScore": -0.989,
+      "aiScore": 48.54
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": -0.4637,
+      "aiScore": 48.03
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": 0.4831,
+      "aiScore": 47.46
+    },
+    {
+      "symbol": "KORU",
+      "relativeScore": 1.6103,
+      "aiScore": 46.29
+    },
+    {
+      "symbol": "LSK",
+      "relativeScore": -11.9199,
+      "aiScore": 23.88
     }
   ]
 }
