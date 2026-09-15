@@ -1,14 +1,17 @@
 {
-  "scanTime": "2026-09-15T11:59:59.999000+00:00",
-  "btcReturn": 0.0051,
-  "altSeasonIndex": 72.73,
-  "leader": "XAU",
+  "scanTime": "2026-09-15T15:59:59.999000+00:00",
+  "btcReturn": -0.5462,
+  "altSeasonIndex": 28.57,
+  "leader": "CL",
   "newEntries": [
-    "SOXL"
+    "MSTR",
+    "LSK",
+    "SUI",
+    "SPCX"
   ],
   "recommended": [
-    "XAU",
-    "XRP",
-    "SOL"
+    "CL",
+    "MSTR",
+    "LSK"
   ]
 }
