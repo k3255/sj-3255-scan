@@ -1,14 +1,16 @@
 {
-  "scanTime": "2026-09-16T11:59:59.999000+00:00",
-  "btcReturn": 0.6275,
-  "altSeasonIndex": 64.29,
+  "scanTime": "2026-09-16T15:59:59.999000+00:00",
+  "btcReturn": -0.5847,
+  "altSeasonIndex": 50.0,
   "leader": "LSK",
   "newEntries": [
-    "SOXL"
+    "SPCX",
+    "XAG",
+    "SNDK"
   ],
   "recommended": [
     "LSK",
-    "ZEC",
-    "MSTR"
+    "SPCX",
+    "ZEC"
   ]
 }
