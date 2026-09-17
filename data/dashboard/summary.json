@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-09-17T03:59:59.999000+00:00",
-  "btcReturn": 0.2987,
-  "altSeasonIndex": 66.67,
-  "leader": "SYN",
+  "scanTime": "2026-09-17T11:59:59.999000+00:00",
+  "btcReturn": 0.0196,
+  "altSeasonIndex": 64.29,
+  "leader": "BR",
   "newEntries": [
-    "SYN",
-    "BR",
-    "KORU"
+    "SOXL",
+    "SPCX"
   ],
   "recommended": [
-    "SYN",
+    "BR",
     "ZEC",
-    "LSK"
+    "SOXL"
   ]
 }
