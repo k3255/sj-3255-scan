@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-09-18T15:59:59.999000+00:00",
-  "btcReturn": 3.4117,
-  "altSeasonIndex": 23.53,
-  "leader": "NEAR",
+  "scanTime": "2026-09-18T19:59:59.999000+00:00",
+  "btcReturn": 0.5941,
+  "altSeasonIndex": 66.67,
+  "leader": "SNDK",
   "newEntries": [
-    "G",
-    "DOGE",
-    "XRP"
+    "MSTR",
+    "SOXL"
   ],
   "recommended": [
+    "SNDK",
     "NEAR",
-    "G",
-    "SOL"
+    "MSTR"
   ]
 }
