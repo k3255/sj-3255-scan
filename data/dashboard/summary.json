@@ -1,15 +1,14 @@
 {
-  "scanTime": "2026-09-18T03:59:59.999000+00:00",
-  "btcReturn": 1.2544,
-  "altSeasonIndex": 46.67,
+  "scanTime": "2026-09-18T11:59:59.999000+00:00",
+  "btcReturn": 0.3341,
+  "altSeasonIndex": 13.33,
   "leader": "NEAR",
   "newEntries": [
-    "UNI",
-    "XRP"
+    "ARB"
   ],
   "recommended": [
     "NEAR",
     "UNI",
-    "ZEC"
+    "HYPE"
   ]
 }
