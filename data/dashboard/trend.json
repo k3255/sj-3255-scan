@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-12T11:59:59.999000+00:00",
-      "btcReturn": 0.1058,
-      "altSeasonIndex": 100.0,
-      "leader": "LSK"
-    },
-    {
       "scanTime": "2026-09-12T15:59:59.999000+00:00",
       "btcReturn": 0.0309,
       "altSeasonIndex": 20.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.4059,
       "altSeasonIndex": 38.46,
       "leader": "ENA"
+    },
+    {
+      "scanTime": "2026-09-19T19:59:59.999000+00:00",
+      "btcReturn": -0.3435,
+      "altSeasonIndex": 61.54,
+      "leader": "AKE"
     }
   ]
 }
