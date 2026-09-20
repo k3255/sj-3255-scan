@@ -1,75 +1,75 @@
 {
-  "scanTime": "2026-09-20T03:59:59.999000+00:00",
+  "scanTime": "2026-09-20T11:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "G",
-      "relativeScore": 19.8465,
-      "aiScore": 79.45
-    },
-    {
-      "symbol": "ONE",
-      "relativeScore": 6.6291,
-      "aiScore": 75.27
-    },
-    {
-      "symbol": "PEPE",
-      "relativeScore": -1.1909,
-      "aiScore": 67.43
+      "symbol": "AVAX",
+      "relativeScore": 8.2559,
+      "aiScore": 88.56
     },
     {
       "symbol": "ENA",
-      "relativeScore": -2.6955,
-      "aiScore": 64.04
+      "relativeScore": 6.2792,
+      "aiScore": 76.62
     },
     {
-      "symbol": "AKE",
-      "relativeScore": 1.761,
-      "aiScore": 63.83
-    },
-    {
-      "symbol": "AVAX",
-      "relativeScore": -4.2712,
-      "aiScore": 63.11
-    },
-    {
-      "symbol": "SUI",
-      "relativeScore": -2.7095,
-      "aiScore": 59.04
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": -0.7533,
-      "aiScore": 55.1
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": -0.2218,
-      "aiScore": 54.4
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": -0.996,
-      "aiScore": 54.04
+      "symbol": "ONE",
+      "relativeScore": 4.8169,
+      "aiScore": 70.87
     },
     {
       "symbol": "NEAR",
-      "relativeScore": -1.2128,
-      "aiScore": 53.76
+      "relativeScore": 4.2843,
+      "aiScore": 68.92
+    },
+    {
+      "symbol": "SUI",
+      "relativeScore": 0.5847,
+      "aiScore": 57.96
+    },
+    {
+      "symbol": "PEPE",
+      "relativeScore": -1.0492,
+      "aiScore": 53.42
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": 0.2375,
+      "aiScore": 52.08
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": -0.1205,
+      "aiScore": 51.09
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": -0.2038,
+      "aiScore": 50.88
     },
     {
       "symbol": "DOGE",
-      "relativeScore": -1.2822,
-      "aiScore": 51.0
+      "relativeScore": 0.1298,
+      "aiScore": 49.27
     },
     {
       "symbol": "XRP",
-      "relativeScore": -1.0717,
-      "aiScore": 50.09
+      "relativeScore": -0.1469,
+      "aiScore": 48.64
+    },
+    {
+      "symbol": "G",
+      "relativeScore": 1.0357,
+      "aiScore": 47.88
     },
     {
       "symbol": "ZEC",
-      "relativeScore": 0.0357,
-      "aiScore": 49.79
+      "relativeScore": -0.2274,
+      "aiScore": 47.53
+    },
+    {
+      "symbol": "AKE",
+      "relativeScore": -22.2261,
+      "aiScore": 43.5
     }
   ]
 }
