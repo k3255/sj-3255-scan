@@ -1,75 +1,75 @@
 {
-  "scanTime": "2026-09-20T15:59:59.999000+00:00",
+  "scanTime": "2026-09-20T19:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "AVAX",
-      "relativeScore": 9.1356,
-      "aiScore": 93.09
-    },
-    {
       "symbol": "NEAR",
-      "relativeScore": 7.6335,
-      "aiScore": 86.28
-    },
-    {
-      "symbol": "SUI",
-      "relativeScore": 2.2705,
-      "aiScore": 60.29
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": 0.7924,
-      "aiScore": 55.66
-    },
-    {
-      "symbol": "PEPE",
-      "relativeScore": -0.5497,
-      "aiScore": 54.6
-    },
-    {
-      "symbol": "AKE",
-      "relativeScore": 3.832,
-      "aiScore": 54.53
+      "relativeScore": 5.9619,
+      "aiScore": 88.3
     },
     {
       "symbol": "ENA",
-      "relativeScore": -2.5251,
-      "aiScore": 52.42
+      "relativeScore": 8.4621,
+      "aiScore": 87.26
     },
     {
-      "symbol": "HYPE",
-      "relativeScore": 0.0979,
-      "aiScore": 52.25
+      "symbol": "SUI",
+      "relativeScore": 3.799,
+      "aiScore": 77.56
     },
     {
-      "symbol": "SOL",
-      "relativeScore": -0.2373,
-      "aiScore": 50.99
+      "symbol": "AKE",
+      "relativeScore": 15.0047,
+      "aiScore": 70.23
+    },
+    {
+      "symbol": "AVAX",
+      "relativeScore": -2.6478,
+      "aiScore": 65.6
     },
     {
       "symbol": "DOGE",
-      "relativeScore": 0.2721,
-      "aiScore": 49.64
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": 0.2195,
-      "aiScore": 49.4
+      "relativeScore": 1.4999,
+      "aiScore": 63.58
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -0.6376,
-      "aiScore": 46.98
+      "relativeScore": 4.6046,
+      "aiScore": 63.47
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.4317,
+      "aiScore": 58.77
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": 1.1689,
+      "aiScore": 58.47
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": 1.0609,
+      "aiScore": 56.69
+    },
+    {
+      "symbol": "PEPE",
+      "relativeScore": 1.056,
+      "aiScore": 54.89
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.9742,
+      "aiScore": 53.76
     },
     {
       "symbol": "ONE",
-      "relativeScore": -7.0482,
-      "aiScore": 31.67
+      "relativeScore": -1.5418,
+      "aiScore": 45.41
     },
     {
       "symbol": "G",
-      "relativeScore": -6.7034,
-      "aiScore": 25.92
+      "relativeScore": -1.2377,
+      "aiScore": 38.22
     }
   ]
 }
