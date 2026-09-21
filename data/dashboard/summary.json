@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-09-20T19:59:59.999000+00:00",
-  "btcReturn": 0.342,
-  "altSeasonIndex": 78.57,
-  "leader": "NEAR",
+  "scanTime": "2026-09-21T03:59:59.999000+00:00",
+  "btcReturn": 0.316,
+  "altSeasonIndex": 64.29,
+  "leader": "SUI",
   "newEntries": [
-    "ZEC"
+    "XRP",
+    "G"
   ],
   "recommended": [
+    "SUI",
     "NEAR",
-    "ENA",
-    "SUI"
+    "AVAX"
   ]
 }
