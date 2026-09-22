@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-09-21T19:59:59.999000+00:00",
-  "btcReturn": 0.6744,
-  "altSeasonIndex": 42.11,
-  "leader": "ZETA",
+  "scanTime": "2026-09-22T03:59:59.999000+00:00",
+  "btcReturn": -1.064,
+  "altSeasonIndex": 68.42,
+  "leader": "PEPE",
   "newEntries": [
-    "ZETA",
-    "NEAR",
-    "KORU"
+    "TAO",
+    "ADA"
   ],
   "recommended": [
+    "PEPE",
     "ZETA",
-    "DOGE",
-    "SUI"
+    "NEAR"
   ]
 }

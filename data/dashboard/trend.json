@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-14T11:59:59.999000+00:00",
-      "btcReturn": -0.1336,
-      "altSeasonIndex": 23.08,
-      "leader": "FIL"
-    },
-    {
       "scanTime": "2026-09-14T19:59:59.999000+00:00",
       "btcReturn": 0.5223,
       "altSeasonIndex": 50.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.6744,
       "altSeasonIndex": 42.11,
       "leader": "ZETA"
+    },
+    {
+      "scanTime": "2026-09-22T03:59:59.999000+00:00",
+      "btcReturn": -1.064,
+      "altSeasonIndex": 68.42,
+      "leader": "PEPE"
     }
   ]
 }
