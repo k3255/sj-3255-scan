@@ -1,15 +1,17 @@
 {
-  "scanTime": "2026-09-22T03:59:59.999000+00:00",
-  "btcReturn": -1.064,
-  "altSeasonIndex": 68.42,
-  "leader": "PEPE",
+  "scanTime": "2026-09-22T11:59:59.999000+00:00",
+  "btcReturn": 0.7367,
+  "altSeasonIndex": 40.0,
+  "leader": "NEAR",
   "newEntries": [
-    "TAO",
-    "ADA"
+    "XRP",
+    "XAG",
+    "XAU",
+    "SOL"
   ],
   "recommended": [
-    "PEPE",
-    "ZETA",
-    "NEAR"
+    "NEAR",
+    "KORU",
+    "MSTR"
   ]
 }

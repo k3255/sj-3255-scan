@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-14T19:59:59.999000+00:00",
-      "btcReturn": 0.5223,
-      "altSeasonIndex": 50.0,
-      "leader": "XRP"
-    },
-    {
       "scanTime": "2026-09-15T03:59:59.999000+00:00",
       "btcReturn": -0.646,
       "altSeasonIndex": 54.55,
@@ -179,6 +173,12 @@
       "btcReturn": -1.064,
       "altSeasonIndex": 68.42,
       "leader": "PEPE"
+    },
+    {
+      "scanTime": "2026-09-22T11:59:59.999000+00:00",
+      "btcReturn": 0.7367,
+      "altSeasonIndex": 40.0,
+      "leader": "NEAR"
     }
   ]
 }
