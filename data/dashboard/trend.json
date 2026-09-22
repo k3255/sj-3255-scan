@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-15T11:59:59.999000+00:00",
-      "btcReturn": 0.0051,
-      "altSeasonIndex": 72.73,
-      "leader": "XAU"
-    },
-    {
       "scanTime": "2026-09-15T15:59:59.999000+00:00",
       "btcReturn": -0.5462,
       "altSeasonIndex": 28.57,
@@ -179,6 +173,12 @@
       "btcReturn": 0.4706,
       "altSeasonIndex": 60.87,
       "leader": "BCH"
+    },
+    {
+      "scanTime": "2026-09-22T19:59:59.999000+00:00",
+      "btcReturn": -0.2402,
+      "altSeasonIndex": 81.82,
+      "leader": "MUBARAK"
     }
   ]
 }
