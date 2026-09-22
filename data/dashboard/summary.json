@@ -1,17 +1,19 @@
 {
-  "scanTime": "2026-09-22T11:59:59.999000+00:00",
-  "btcReturn": 0.7367,
-  "altSeasonIndex": 40.0,
-  "leader": "NEAR",
+  "scanTime": "2026-09-22T15:59:59.999000+00:00",
+  "btcReturn": 0.4706,
+  "altSeasonIndex": 60.87,
+  "leader": "BCH",
   "newEntries": [
-    "XRP",
-    "XAG",
-    "XAU",
-    "SOL"
+    "BCH",
+    "SNDK",
+    "MUBARAK",
+    "UNI",
+    "MU",
+    "ADA"
   ],
   "recommended": [
-    "NEAR",
-    "KORU",
-    "MSTR"
+    "BCH",
+    "SOXL",
+    "SNDK"
   ]
 }
