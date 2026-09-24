@@ -1,17 +1,19 @@
 {
-  "scanTime": "2026-09-24T11:59:59.999000+00:00",
-  "btcReturn": -1.2137,
-  "altSeasonIndex": 33.33,
-  "leader": "NIL",
+  "scanTime": "2026-09-24T15:59:59.999000+00:00",
+  "btcReturn": 1.1148,
+  "altSeasonIndex": 68.42,
+  "leader": "LTC",
   "newEntries": [
-    "NIL",
-    "NEAR",
-    "UNI",
-    "SUI"
+    "LTC",
+    "ONDO",
+    "LSK",
+    "XRP",
+    "SPCX",
+    "SOXL"
   ],
   "recommended": [
-    "NIL",
-    "NEAR",
-    "UNI"
+    "LTC",
+    "ONDO",
+    "NEAR"
   ]
 }
