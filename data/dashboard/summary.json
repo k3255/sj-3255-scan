@@ -1,18 +1,15 @@
 {
-  "scanTime": "2026-09-24T15:59:59.999000+00:00",
-  "btcReturn": 1.1148,
-  "altSeasonIndex": 68.42,
-  "leader": "LTC",
+  "scanTime": "2026-09-24T19:59:59.999000+00:00",
+  "btcReturn": -0.0137,
+  "altSeasonIndex": 61.11,
+  "leader": "LSK",
   "newEntries": [
-    "LTC",
-    "ONDO",
-    "LSK",
-    "XRP",
-    "SPCX",
-    "SOXL"
+    "ZEC",
+    "MU",
+    "ETH"
   ],
   "recommended": [
-    "LTC",
+    "LSK",
     "ONDO",
     "NEAR"
   ]
