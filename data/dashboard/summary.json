@@ -1,16 +1,18 @@
 {
-  "scanTime": "2026-09-24T19:59:59.999000+00:00",
-  "btcReturn": -0.0137,
-  "altSeasonIndex": 61.11,
-  "leader": "LSK",
+  "scanTime": "2026-09-25T11:59:59.999000+00:00",
+  "btcReturn": 0.6285,
+  "altSeasonIndex": 57.89,
+  "leader": "SUI",
   "newEntries": [
-    "ZEC",
-    "MU",
-    "ETH"
+    "SUI",
+    "ENA",
+    "XRP",
+    "MSTR",
+    "DOGE"
   ],
   "recommended": [
-    "LSK",
-    "ONDO",
-    "NEAR"
+    "SUI",
+    "NEAR",
+    "ENA"
   ]
 }
