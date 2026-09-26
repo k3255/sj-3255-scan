@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-09-26T03:59:59.999000+00:00",
-  "btcReturn": -0.1706,
-  "altSeasonIndex": 31.25,
-  "leader": "ENA",
+  "scanTime": "2026-09-26T11:59:59.999000+00:00",
+  "btcReturn": 0.0698,
+  "altSeasonIndex": 60.0,
+  "leader": "PHA",
   "newEntries": [
-    "PHA",
-    "CL"
+    "ZEC",
+    "SNDK"
   ],
   "recommended": [
-    "ENA",
     "PHA",
+    "ENA",
     "SUI"
   ]
 }
