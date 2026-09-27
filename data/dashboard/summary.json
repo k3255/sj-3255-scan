@@ -1,16 +1,12 @@
 {
-  "scanTime": "2026-09-27T11:59:59.999000+00:00",
-  "btcReturn": 0.1208,
+  "scanTime": "2026-09-27T15:59:59.999000+00:00",
+  "btcReturn": -0.4953,
   "altSeasonIndex": 22.22,
-  "leader": "Q",
-  "newEntries": [
-    "Q",
-    "WLD",
-    "SUI"
-  ],
+  "leader": "QNT",
+  "newEntries": [],
   "recommended": [
-    "Q",
-    "WLD",
-    "QNT"
+    "QNT",
+    "SUI",
+    "WLD"
   ]
 }
