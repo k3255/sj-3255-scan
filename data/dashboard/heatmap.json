@@ -1,50 +1,70 @@
 {
-  "scanTime": "2026-09-27T19:59:59.999000+00:00",
+  "scanTime": "2026-09-28T03:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "Q",
-      "relativeScore": 9.202,
-      "aiScore": 79.18
-    },
-    {
-      "symbol": "QNT",
-      "relativeScore": 3.7574,
-      "aiScore": 77.94
-    },
-    {
       "symbol": "SUI",
-      "relativeScore": 2.3037,
-      "aiScore": 70.33
+      "relativeScore": -0.9001,
+      "aiScore": 60.33
     },
     {
-      "symbol": "NEAR",
-      "relativeScore": 4.1424,
-      "aiScore": 68.95
-    },
-    {
-      "symbol": "WLD",
-      "relativeScore": 1.0973,
-      "aiScore": 62.94
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 0.7157,
-      "aiScore": 53.73
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": 1.2813,
-      "aiScore": 51.34
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": 0.7202,
-      "aiScore": 49.43
+      "symbol": "XAU",
+      "relativeScore": -0.1833,
+      "aiScore": 58.81
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.2772,
-      "aiScore": 48.7
+      "relativeScore": -0.0317,
+      "aiScore": 55.7
+    },
+    {
+      "symbol": "WLD",
+      "relativeScore": -2.0249,
+      "aiScore": 55.69
+    },
+    {
+      "symbol": "ONDO",
+      "relativeScore": -1.714,
+      "aiScore": 54.86
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": -0.4007,
+      "aiScore": 54.84
+    },
+    {
+      "symbol": "QNT",
+      "relativeScore": -8.5832,
+      "aiScore": 54.5
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": -0.2738,
+      "aiScore": 52.13
+    },
+    {
+      "symbol": "NEAR",
+      "relativeScore": -1.7262,
+      "aiScore": 51.01
+    },
+    {
+      "symbol": "DOGE",
+      "relativeScore": -1.6251,
+      "aiScore": 50.51
+    },
+    {
+      "symbol": "SOXL",
+      "relativeScore": -3.7356,
+      "aiScore": 46.73
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": -0.5699,
+      "aiScore": 45.3
+    },
+    {
+      "symbol": "Q",
+      "relativeScore": 0.7201,
+      "aiScore": 43.83
     }
   ]
 }
