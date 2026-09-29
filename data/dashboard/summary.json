@@ -1,20 +1,19 @@
 {
-  "scanTime": "2026-09-29T11:59:59.999000+00:00",
-  "btcReturn": 0.4287,
-  "altSeasonIndex": 63.64,
-  "leader": "PUMP",
+  "scanTime": "2026-09-29T19:59:59.999000+00:00",
+  "btcReturn": 0.6239,
+  "altSeasonIndex": 35.0,
+  "leader": "QNT",
   "newEntries": [
-    "PUMP",
-    "UNI",
-    "MSTR",
-    "LINK",
-    "KORU",
-    "SOXL",
-    "HBAR"
+    "QNT",
+    "SPCX",
+    "AVAX",
+    "MU",
+    "XAU",
+    "SNDK"
   ],
   "recommended": [
-    "PUMP",
-    "ETH",
-    "SUI"
+    "QNT",
+    "KORU",
+    "MSTR"
   ]
 }
