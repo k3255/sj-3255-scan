@@ -1,16 +1,20 @@
 {
-  "scanTime": "2026-09-28T03:59:59.999000+00:00",
-  "btcReturn": -1.3158,
-  "altSeasonIndex": 7.69,
-  "leader": "SUI",
+  "scanTime": "2026-09-29T11:59:59.999000+00:00",
+  "btcReturn": 0.4287,
+  "altSeasonIndex": 63.64,
+  "leader": "PUMP",
   "newEntries": [
-    "XAU",
-    "ONDO",
-    "DOGE"
+    "PUMP",
+    "UNI",
+    "MSTR",
+    "LINK",
+    "KORU",
+    "SOXL",
+    "HBAR"
   ],
   "recommended": [
-    "SUI",
-    "XAU",
-    "ETH"
+    "PUMP",
+    "ETH",
+    "SUI"
   ]
 }
