@@ -1,18 +1,15 @@
 {
-  "scanTime": "2026-09-30T03:59:59.999000+00:00",
-  "btcReturn": -0.4182,
-  "altSeasonIndex": 68.42,
+  "scanTime": "2026-09-30T11:59:59.999000+00:00",
+  "btcReturn": 0.7228,
+  "altSeasonIndex": 50.0,
   "leader": "QNT",
   "newEntries": [
-    "PUMP",
-    "SOL",
-    "HBAR",
-    "SUI",
-    "XRP"
+    "SOON",
+    "ENA"
   ],
   "recommended": [
     "QNT",
-    "PUMP",
-    "NEAR"
+    "NEAR",
+    "SOON"
   ]
 }
