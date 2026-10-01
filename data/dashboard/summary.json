@@ -1,17 +1,16 @@
 {
-  "scanTime": "2026-10-01T11:59:59.999000+00:00",
-  "btcReturn": 0.6093,
-  "altSeasonIndex": 36.84,
+  "scanTime": "2026-10-01T19:59:59.999000+00:00",
+  "btcReturn": 0.5935,
+  "altSeasonIndex": 57.14,
   "leader": "MOVR",
   "newEntries": [
-    "HYPE",
-    "BZ",
-    "SOXS",
-    "XRP"
+    "MU",
+    "SNDK",
+    "SOL"
   ],
   "recommended": [
     "MOVR",
-    "ETH",
-    "HYPE"
+    "MU",
+    "SOXL"
   ]
 }
