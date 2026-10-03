@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-10-03T03:59:59.999000+00:00",
-  "btcReturn": 0.2069,
-  "altSeasonIndex": 50.0,
-  "leader": "SAND",
+  "scanTime": "2026-10-03T11:59:59.999000+00:00",
+  "btcReturn": 0.1381,
+  "altSeasonIndex": 27.78,
+  "leader": "WLD",
   "newEntries": [
-    "SAND",
-    "WLD",
-    "SUI",
-    "QNT"
+    "XRP"
   ],
   "recommended": [
-    "SAND",
     "WLD",
+    "SAND",
     "SUI"
   ]
 }
