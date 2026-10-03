@@ -1,95 +1,40 @@
 {
-  "scanTime": "2026-10-03T11:59:59.999000+00:00",
+  "scanTime": "2026-10-03T15:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "WLD",
-      "relativeScore": 8.7492,
-      "aiScore": 83.45
-    },
-    {
       "symbol": "SAND",
-      "relativeScore": -6.9796,
-      "aiScore": 56.97
+      "relativeScore": 3.1903,
+      "aiScore": 73.64
     },
     {
-      "symbol": "SUI",
-      "relativeScore": 2.5377,
-      "aiScore": 55.57
-    },
-    {
-      "symbol": "MSTR",
-      "relativeScore": 0.2917,
-      "aiScore": 52.65
-    },
-    {
-      "symbol": "KORU",
-      "relativeScore": 0.1367,
-      "aiScore": 49.4
-    },
-    {
-      "symbol": "SPCX",
-      "relativeScore": -0.0626,
-      "aiScore": 49.34
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": -0.0344,
-      "aiScore": 49.31
-    },
-    {
-      "symbol": "SOXL",
-      "relativeScore": -0.3526,
-      "aiScore": 48.83
+      "symbol": "WLD",
+      "relativeScore": -1.1622,
+      "aiScore": 63.37
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.1481,
-      "aiScore": 48.54
+      "relativeScore": 0.0904,
+      "aiScore": 49.37
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.1589,
-      "aiScore": 47.34
+      "relativeScore": -0.0044,
+      "aiScore": 48.48
     },
     {
-      "symbol": "XAU",
-      "relativeScore": -0.0889,
-      "aiScore": 46.16
-    },
-    {
-      "symbol": "MU",
-      "relativeScore": -0.0221,
-      "aiScore": 45.48
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": -0.4215,
-      "aiScore": 44.49
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": -0.0455,
-      "aiScore": 44.46
-    },
-    {
-      "symbol": "CL",
-      "relativeScore": -0.0305,
-      "aiScore": 43.31
-    },
-    {
-      "symbol": "NEAR",
-      "relativeScore": -0.4157,
-      "aiScore": 41.64
+      "symbol": "ETH",
+      "relativeScore": -0.326,
+      "aiScore": 48.41
     },
     {
       "symbol": "QNT",
-      "relativeScore": -3.5778,
-      "aiScore": 40.46
+      "relativeScore": -3.3833,
+      "aiScore": 40.89
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -0.4859,
-      "aiScore": 38.13
+      "relativeScore": -0.7099,
+      "aiScore": 40.27
     }
   ]
 }
