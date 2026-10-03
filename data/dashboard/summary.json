@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-10-02T19:59:59.999000+00:00",
-  "btcReturn": -1.1961,
-  "altSeasonIndex": 47.62,
-  "leader": "SPCX",
+  "scanTime": "2026-10-03T03:59:59.999000+00:00",
+  "btcReturn": 0.2069,
+  "altSeasonIndex": 50.0,
+  "leader": "SAND",
   "newEntries": [
-    "SPCX",
-    "CL",
-    "XAG",
-    "XAU"
+    "SAND",
+    "WLD",
+    "SUI",
+    "QNT"
   ],
   "recommended": [
-    "SPCX",
-    "KORU",
-    "CL"
+    "SAND",
+    "WLD",
+    "SUI"
   ]
 }
