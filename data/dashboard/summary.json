@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-10-03T19:59:59.999000+00:00",
-  "btcReturn": -0.0257,
-  "altSeasonIndex": 57.14,
-  "leader": "WLD",
+  "scanTime": "2026-10-04T03:59:59.999000+00:00",
+  "btcReturn": 0.0978,
+  "altSeasonIndex": 83.33,
+  "leader": "QNT",
   "newEntries": [],
   "recommended": [
-    "WLD",
+    "QNT",
     "SAND",
-    "QNT"
+    "SOL"
   ]
 }
