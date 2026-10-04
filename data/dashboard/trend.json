@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-24T19:59:59.999000+00:00",
-      "btcReturn": -0.0137,
-      "altSeasonIndex": 61.11,
-      "leader": "LSK"
-    },
-    {
       "scanTime": "2026-09-25T11:59:59.999000+00:00",
       "btcReturn": 0.6285,
       "altSeasonIndex": 57.89,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2279,
       "altSeasonIndex": 16.67,
       "leader": "NEAR"
+    },
+    {
+      "scanTime": "2026-10-04T15:59:59.999000+00:00",
+      "btcReturn": -0.061,
+      "altSeasonIndex": 57.14,
+      "leader": "SUI"
     }
   ]
 }
