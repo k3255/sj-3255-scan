@@ -1,35 +1,35 @@
 {
-  "scanTime": "2026-10-04T03:59:59.999000+00:00",
+  "scanTime": "2026-10-04T11:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "QNT",
-      "relativeScore": 4.9199,
-      "aiScore": 61.61
-    },
-    {
-      "symbol": "SAND",
-      "relativeScore": 1.3855,
-      "aiScore": 57.88
+      "symbol": "NEAR",
+      "relativeScore": 1.181,
+      "aiScore": 52.47
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.8868,
-      "aiScore": 52.24
+      "relativeScore": -0.1643,
+      "aiScore": 49.68
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.1825,
-      "aiScore": 49.77
+      "relativeScore": -0.4195,
+      "aiScore": 48.62
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.131,
-      "aiScore": 47.75
+      "relativeScore": -0.2413,
+      "aiScore": 47.19
+    },
+    {
+      "symbol": "QNT",
+      "relativeScore": -2.3456,
+      "aiScore": 44.38
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -0.0159,
-      "aiScore": 41.27
+      "relativeScore": -0.4382,
+      "aiScore": 43.02
     }
   ]
 }
