@@ -1,16 +1,19 @@
 {
-  "scanTime": "2026-10-05T03:59:59.999000+00:00",
-  "btcReturn": -0.4965,
-  "altSeasonIndex": 55.56,
-  "leader": "ADA",
+  "scanTime": "2026-10-05T15:59:59.999000+00:00",
+  "btcReturn": -1.1043,
+  "altSeasonIndex": 62.5,
+  "leader": "SPCX",
   "newEntries": [
-    "ADA",
-    "XAU",
-    "SOXL"
+    "SPCX",
+    "MSTR",
+    "HYPE",
+    "MU",
+    "SNDK",
+    "XAG"
   ],
   "recommended": [
-    "ADA",
-    "XAU",
-    "SUI"
+    "SPCX",
+    "MSTR",
+    "ADA"
   ]
 }
