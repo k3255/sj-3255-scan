@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-25T15:59:59.999000+00:00",
-      "btcReturn": -0.8966,
-      "altSeasonIndex": 37.5,
-      "leader": "ENA"
-    },
-    {
       "scanTime": "2026-09-25T19:59:59.999000+00:00",
       "btcReturn": 0.2343,
       "altSeasonIndex": 50.0,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2044,
       "altSeasonIndex": 28.57,
       "leader": "NEAR"
+    },
+    {
+      "scanTime": "2026-10-05T03:59:59.999000+00:00",
+      "btcReturn": -0.4965,
+      "altSeasonIndex": 55.56,
+      "leader": "ADA"
     }
   ]
 }

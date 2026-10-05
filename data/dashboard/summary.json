@@ -1,12 +1,16 @@
 {
-  "scanTime": "2026-10-04T19:59:59.999000+00:00",
-  "btcReturn": 0.2044,
-  "altSeasonIndex": 28.57,
-  "leader": "NEAR",
-  "newEntries": [],
+  "scanTime": "2026-10-05T03:59:59.999000+00:00",
+  "btcReturn": -0.4965,
+  "altSeasonIndex": 55.56,
+  "leader": "ADA",
+  "newEntries": [
+    "ADA",
+    "XAU",
+    "SOXL"
+  ],
   "recommended": [
-    "NEAR",
-    "ETH",
+    "ADA",
+    "XAU",
     "SUI"
   ]
 }
