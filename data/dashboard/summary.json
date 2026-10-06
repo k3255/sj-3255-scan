@@ -1,19 +1,17 @@
 {
-  "scanTime": "2026-10-05T15:59:59.999000+00:00",
-  "btcReturn": -1.1043,
+  "scanTime": "2026-10-05T23:59:59.999000+00:00",
+  "btcReturn": 0.0161,
   "altSeasonIndex": 62.5,
-  "leader": "SPCX",
+  "leader": "NEAR",
   "newEntries": [
-    "SPCX",
-    "MSTR",
-    "HYPE",
-    "MU",
-    "SNDK",
-    "XAG"
+    "ENA",
+    "SUI",
+    "SOL",
+    "ETH"
   ],
   "recommended": [
-    "SPCX",
-    "MSTR",
-    "ADA"
+    "NEAR",
+    "ADA",
+    "SPCX"
   ]
 }
