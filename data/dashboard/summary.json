@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-10-06T19:59:59.999000+00:00",
-  "btcReturn": -0.1117,
-  "altSeasonIndex": 37.5,
-  "leader": "ORCA",
+  "scanTime": "2026-10-07T03:59:59.999000+00:00",
+  "btcReturn": -1.6277,
+  "altSeasonIndex": 50.0,
+  "leader": "XRP",
   "newEntries": [
-    "HYPE",
-    "NEAR",
-    "XRP"
+    "KORU",
+    "SUI"
   ],
   "recommended": [
-    "ORCA",
-    "BR",
-    "SPCX"
+    "XRP",
+    "MSTR",
+    "ETH"
   ]
 }
