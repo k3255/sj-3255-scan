@@ -1,17 +1,16 @@
 {
-  "scanTime": "2026-10-07T19:59:59.999000+00:00",
-  "btcReturn": -0.0158,
-  "altSeasonIndex": 26.32,
+  "scanTime": "2026-10-08T03:59:59.999000+00:00",
+  "btcReturn": -0.6599,
+  "altSeasonIndex": 62.5,
   "leader": "NEAR",
   "newEntries": [
-    "ORCA",
-    "SNDK",
-    "SOXL",
-    "ZEC"
+    "XAG",
+    "SOL",
+    "XRP"
   ],
   "recommended": [
     "NEAR",
-    "MU",
-    "ORCA"
+    "XAG",
+    "XAU"
   ]
 }
