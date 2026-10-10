@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-09-30T19:59:59.999000+00:00",
-      "btcReturn": -0.6386,
-      "altSeasonIndex": 52.94,
-      "leader": "HYPE"
-    },
-    {
       "scanTime": "2026-10-01T03:59:59.999000+00:00",
       "btcReturn": 0.1822,
       "altSeasonIndex": 77.78,
@@ -179,6 +173,12 @@
       "btcReturn": -0.6659,
       "altSeasonIndex": 61.54,
       "leader": "OGN"
+    },
+    {
+      "scanTime": "2026-10-10T03:59:59.999000+00:00",
+      "btcReturn": -0.0231,
+      "altSeasonIndex": 71.43,
+      "leader": "KAIA"
     }
   ]
 }
