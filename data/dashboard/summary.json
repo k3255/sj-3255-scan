@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-10-10T11:59:59.999000+00:00",
-  "btcReturn": 0.0722,
-  "altSeasonIndex": 50.0,
-  "leader": "MAGIC",
+  "scanTime": "2026-10-10T15:59:59.999000+00:00",
+  "btcReturn": 0.2158,
+  "altSeasonIndex": 85.71,
+  "leader": "STRK",
   "newEntries": [
-    "MAGIC",
-    "ZEC",
-    "SNDK",
-    "SOXL"
+    "STRK"
   ],
   "recommended": [
-    "MAGIC",
-    "US",
-    "KAIA"
+    "STRK",
+    "NEAR",
+    "ETH"
   ]
 }
