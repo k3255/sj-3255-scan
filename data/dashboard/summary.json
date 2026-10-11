@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-10-11T03:59:59.999000+00:00",
-  "btcReturn": -0.2111,
-  "altSeasonIndex": 50.0,
+  "scanTime": "2026-10-11T11:59:59.999000+00:00",
+  "btcReturn": 0.1761,
+  "altSeasonIndex": 100.0,
   "leader": "STRK",
   "newEntries": [],
   "recommended": [
     "STRK",
-    "ETH",
-    "NEAR"
+    "NEAR",
+    "ETH"
   ]
 }
