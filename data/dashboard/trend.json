@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-03T03:59:59.999000+00:00",
-      "btcReturn": 0.2069,
-      "altSeasonIndex": 50.0,
-      "leader": "SAND"
-    },
-    {
       "scanTime": "2026-10-03T11:59:59.999000+00:00",
       "btcReturn": 0.1381,
       "altSeasonIndex": 27.78,
@@ -179,6 +173,12 @@
       "btcReturn": -0.2959,
       "altSeasonIndex": 50.0,
       "leader": "STRK"
+    },
+    {
+      "scanTime": "2026-10-12T03:59:59.999000+00:00",
+      "btcReturn": -0.1892,
+      "altSeasonIndex": 44.44,
+      "leader": "NEAR"
     }
   ]
 }

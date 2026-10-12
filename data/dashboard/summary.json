@@ -1,14 +1,16 @@
 {
-  "scanTime": "2026-10-11T19:59:59.999000+00:00",
-  "btcReturn": -0.2959,
-  "altSeasonIndex": 50.0,
-  "leader": "STRK",
+  "scanTime": "2026-10-12T03:59:59.999000+00:00",
+  "btcReturn": -0.1892,
+  "altSeasonIndex": 44.44,
+  "leader": "NEAR",
   "newEntries": [
-    "XRP"
+    "XAU",
+    "SOXL",
+    "SNDK"
   ],
   "recommended": [
-    "STRK",
     "NEAR",
-    "ZEC"
+    "XAU",
+    "ETH"
   ]
 }
