@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-10-12T03:59:59.999000+00:00",
-  "btcReturn": -0.1892,
-  "altSeasonIndex": 44.44,
-  "leader": "NEAR",
+  "scanTime": "2026-10-12T15:59:59.999000+00:00",
+  "btcReturn": -0.8195,
+  "altSeasonIndex": 28.57,
+  "leader": "MSTR",
   "newEntries": [
-    "XAU",
-    "SOXL",
-    "SNDK"
+    "MSTR",
+    "CL",
+    "MU",
+    "W"
   ],
   "recommended": [
-    "NEAR",
-    "XAU",
-    "ETH"
+    "MSTR",
+    "ETH",
+    "XAU"
   ]
 }
