@@ -1,17 +1,18 @@
 {
-  "scanTime": "2026-10-12T15:59:59.999000+00:00",
-  "btcReturn": -0.8195,
-  "altSeasonIndex": 28.57,
-  "leader": "MSTR",
+  "scanTime": "2026-10-12T23:59:59.999000+00:00",
+  "btcReturn": -1.2312,
+  "altSeasonIndex": 15.79,
+  "leader": "RSR",
   "newEntries": [
-    "MSTR",
-    "CL",
-    "MU",
-    "W"
+    "RSR",
+    "DOGE",
+    "HYPE",
+    "SUI",
+    "SPCX"
   ],
   "recommended": [
-    "MSTR",
+    "RSR",
     "ETH",
-    "XAU"
+    "DOGE"
   ]
 }
