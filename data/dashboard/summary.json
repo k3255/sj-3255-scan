@@ -1,17 +1,17 @@
 {
-  "scanTime": "2026-10-13T07:59:59.999000+00:00",
-  "btcReturn": 0.6248,
-  "altSeasonIndex": 52.63,
-  "leader": "ETH",
+  "scanTime": "2026-10-13T15:59:59.999000+00:00",
+  "btcReturn": 0.0898,
+  "altSeasonIndex": 61.11,
+  "leader": "MSTR",
   "newEntries": [
-    "ENA",
-    "ZEC",
-    "KORU",
-    "SKHYNIX"
+    "CL",
+    "SNDK",
+    "SKHY",
+    "SOXL"
   ],
   "recommended": [
-    "ETH",
     "MSTR",
-    "XAU"
+    "XAU",
+    "CL"
   ]
 }
