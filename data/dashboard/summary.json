@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-10-14T11:59:59.999000+00:00",
-  "btcReturn": -0.1257,
-  "altSeasonIndex": 43.75,
-  "leader": "CL",
+  "scanTime": "2026-10-14T19:59:59.999000+00:00",
+  "btcReturn": 0.2413,
+  "altSeasonIndex": 22.22,
+  "leader": "HYPE",
   "newEntries": [
-    "NEAR",
-    "XAG"
+    "HYPE",
+    "BTW"
   ],
   "recommended": [
-    "CL",
-    "ETH",
-    "XAU"
+    "HYPE",
+    "XAU",
+    "ETH"
   ]
 }
