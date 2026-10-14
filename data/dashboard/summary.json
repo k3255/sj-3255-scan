@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-10-13T19:59:59.999000+00:00",
-  "btcReturn": -0.1651,
-  "altSeasonIndex": 77.78,
-  "leader": "CL",
+  "scanTime": "2026-10-14T03:59:59.999000+00:00",
+  "btcReturn": 0.6203,
+  "altSeasonIndex": 53.33,
+  "leader": "ZEC",
   "newEntries": [
-    "ZEC",
-    "MU",
-    "NEAR"
+    "XRP",
+    "SKHYNIX",
+    "KORU"
   ],
   "recommended": [
-    "CL",
-    "SOXL",
-    "ZEC"
+    "ZEC",
+    "XAU",
+    "CL"
   ]
 }
