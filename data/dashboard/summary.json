@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-10-14T19:59:59.999000+00:00",
-  "btcReturn": 0.2413,
-  "altSeasonIndex": 22.22,
-  "leader": "HYPE",
+  "scanTime": "2026-10-15T03:59:59.999000+00:00",
+  "btcReturn": -0.9175,
+  "altSeasonIndex": 27.27,
+  "leader": "WAL",
   "newEntries": [
-    "HYPE",
-    "BTW"
+    "WAL",
+    "DOGE",
+    "NVDA"
   ],
   "recommended": [
-    "HYPE",
+    "WAL",
     "XAU",
     "ETH"
   ]
