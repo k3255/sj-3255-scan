@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-06T19:59:59.999000+00:00",
-      "btcReturn": -0.1117,
-      "altSeasonIndex": 37.5,
-      "leader": "ORCA"
-    },
-    {
       "scanTime": "2026-10-07T03:59:59.999000+00:00",
       "btcReturn": -1.6277,
       "altSeasonIndex": 50.0,
@@ -179,6 +173,12 @@
       "btcReturn": -1.5594,
       "altSeasonIndex": 11.11,
       "leader": "CL"
+    },
+    {
+      "scanTime": "2026-10-16T19:59:59.999000+00:00",
+      "btcReturn": 0.2933,
+      "altSeasonIndex": 5.88,
+      "leader": "TIA"
     }
   ]
 }
