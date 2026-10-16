@@ -1,18 +1,18 @@
 {
-  "scanTime": "2026-10-16T03:59:59.999000+00:00",
-  "btcReturn": -0.1381,
-  "altSeasonIndex": 68.18,
-  "leader": "ANTHROPIC",
+  "scanTime": "2026-10-16T07:59:59.999000+00:00",
+  "btcReturn": 0.2157,
+  "altSeasonIndex": 30.0,
+  "leader": "ZEC",
   "newEntries": [
-    "ANTHROPIC",
-    "KORU",
-    "NEAR",
-    "SPCX",
-    "STRK"
+    "ZEC",
+    "SOXS",
+    "SOL",
+    "CL",
+    "HYPE"
   ],
   "recommended": [
-    "ANTHROPIC",
-    "KORU",
-    "NEAR"
+    "ZEC",
+    "NEAR",
+    "SOXS"
   ]
 }
