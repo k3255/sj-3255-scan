@@ -1,16 +1,18 @@
 {
-  "scanTime": "2026-10-15T03:59:59.999000+00:00",
-  "btcReturn": -0.9175,
-  "altSeasonIndex": 27.27,
-  "leader": "WAL",
+  "scanTime": "2026-10-16T03:59:59.999000+00:00",
+  "btcReturn": -0.1381,
+  "altSeasonIndex": 68.18,
+  "leader": "ANTHROPIC",
   "newEntries": [
-    "WAL",
-    "DOGE",
-    "NVDA"
+    "ANTHROPIC",
+    "KORU",
+    "NEAR",
+    "SPCX",
+    "STRK"
   ],
   "recommended": [
-    "WAL",
-    "XAU",
-    "ETH"
+    "ANTHROPIC",
+    "KORU",
+    "NEAR"
   ]
 }
