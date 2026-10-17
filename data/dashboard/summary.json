@@ -1,16 +1,14 @@
 {
-  "scanTime": "2026-10-17T11:59:59.999000+00:00",
-  "btcReturn": -0.1927,
-  "altSeasonIndex": 81.82,
-  "leader": "ICNT",
+  "scanTime": "2026-10-17T15:59:59.999000+00:00",
+  "btcReturn": -0.2694,
+  "altSeasonIndex": 11.11,
+  "leader": "Q",
   "newEntries": [
-    "ICNT",
-    "SNDK",
-    "SOXL"
+    "Q"
   ],
   "recommended": [
+    "Q",
     "ICNT",
-    "NEAR",
-    "ETH"
+    "XRP"
   ]
 }
