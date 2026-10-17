@@ -1,14 +1,16 @@
 {
-  "scanTime": "2026-10-17T07:59:59.999000+00:00",
-  "btcReturn": 0.2002,
-  "altSeasonIndex": 46.67,
-  "leader": "TIA",
+  "scanTime": "2026-10-17T11:59:59.999000+00:00",
+  "btcReturn": -0.1927,
+  "altSeasonIndex": 81.82,
+  "leader": "ICNT",
   "newEntries": [
-    "TSLA"
+    "ICNT",
+    "SNDK",
+    "SOXL"
   ],
   "recommended": [
-    "TIA",
-    "ETH",
-    "SOL"
+    "ICNT",
+    "NEAR",
+    "ETH"
   ]
 }

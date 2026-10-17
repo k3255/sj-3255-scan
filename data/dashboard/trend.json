@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-07T19:59:59.999000+00:00",
-      "btcReturn": -0.0158,
-      "altSeasonIndex": 26.32,
-      "leader": "NEAR"
-    },
-    {
       "scanTime": "2026-10-08T03:59:59.999000+00:00",
       "btcReturn": -0.6599,
       "altSeasonIndex": 62.5,
@@ -179,6 +173,12 @@
       "btcReturn": 0.2002,
       "altSeasonIndex": 46.67,
       "leader": "TIA"
+    },
+    {
+      "scanTime": "2026-10-17T11:59:59.999000+00:00",
+      "btcReturn": -0.1927,
+      "altSeasonIndex": 81.82,
+      "leader": "ICNT"
     }
   ]
 }
