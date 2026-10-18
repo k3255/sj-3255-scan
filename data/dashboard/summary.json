@@ -1,12 +1,12 @@
 {
-  "scanTime": "2026-10-18T15:59:59.999000+00:00",
-  "btcReturn": -1.0795,
+  "scanTime": "2026-10-18T19:59:59.999000+00:00",
+  "btcReturn": -0.3654,
   "altSeasonIndex": 12.5,
-  "leader": "Q",
+  "leader": "ETH",
   "newEntries": [],
   "recommended": [
-    "Q",
     "ETH",
-    "SOL"
+    "SOL",
+    "Q"
   ]
 }
