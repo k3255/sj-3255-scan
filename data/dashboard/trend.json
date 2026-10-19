@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-10T11:59:59.999000+00:00",
-      "btcReturn": 0.0722,
-      "altSeasonIndex": 50.0,
-      "leader": "MAGIC"
-    },
-    {
       "scanTime": "2026-10-10T15:59:59.999000+00:00",
       "btcReturn": 0.2158,
       "altSeasonIndex": 85.71,
@@ -179,6 +173,12 @@
       "btcReturn": -0.3654,
       "altSeasonIndex": 12.5,
       "leader": "ETH"
+    },
+    {
+      "scanTime": "2026-10-19T03:59:59.999000+00:00",
+      "btcReturn": 0.4991,
+      "altSeasonIndex": 72.73,
+      "leader": "Q"
     }
   ]
 }

@@ -1,12 +1,16 @@
 {
-  "scanTime": "2026-10-18T19:59:59.999000+00:00",
-  "btcReturn": -0.3654,
-  "altSeasonIndex": 12.5,
-  "leader": "ETH",
-  "newEntries": [],
+  "scanTime": "2026-10-19T03:59:59.999000+00:00",
+  "btcReturn": 0.4991,
+  "altSeasonIndex": 72.73,
+  "leader": "Q",
+  "newEntries": [
+    "KORU",
+    "SKHYNIX",
+    "XAU"
+  ],
   "recommended": [
-    "ETH",
-    "SOL",
-    "Q"
+    "Q",
+    "KORU",
+    "SKHYNIX"
   ]
 }
