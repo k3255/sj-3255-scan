@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-10-19T19:59:59.999000+00:00",
-  "btcReturn": -0.075,
-  "altSeasonIndex": 37.5,
-  "leader": "Q",
+  "scanTime": "2026-10-20T03:59:59.999000+00:00",
+  "btcReturn": 0.2307,
+  "altSeasonIndex": 26.67,
+  "leader": "XAU",
   "newEntries": [
-    "Q",
-    "CL",
-    "SOL",
-    "XRP",
-    "NEAR"
+    "MU",
+    "SKHYNIX",
+    "SOXL"
   ],
   "recommended": [
-    "Q",
-    "SNDK",
-    "ETH"
+    "XAU",
+    "ETH",
+    "XRP"
   ]
 }
