@@ -1,18 +1,17 @@
 {
-  "scanTime": "2026-10-20T15:59:59.999000+00:00",
-  "btcReturn": 1.3486,
-  "altSeasonIndex": 75.0,
-  "leader": "MSTR",
+  "scanTime": "2026-10-20T19:59:59.999000+00:00",
+  "btcReturn": -0.0019,
+  "altSeasonIndex": 43.75,
+  "leader": "ZEC",
   "newEntries": [
-    "MSTR",
-    "SOXL",
-    "SNDK",
-    "KORU",
-    "NEAR"
+    "SOXS",
+    "XAU",
+    "CL",
+    "SPCX"
   ],
   "recommended": [
+    "ZEC",
     "MSTR",
-    "SOXL",
-    "ZEC"
+    "SOL"
   ]
 }
