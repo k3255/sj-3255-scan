@@ -1,17 +1,18 @@
 {
-  "scanTime": "2026-10-20T11:59:59.999000+00:00",
-  "btcReturn": -0.0605,
-  "altSeasonIndex": 31.25,
-  "leader": "SOXS",
+  "scanTime": "2026-10-20T15:59:59.999000+00:00",
+  "btcReturn": 1.3486,
+  "altSeasonIndex": 75.0,
+  "leader": "MSTR",
   "newEntries": [
-    "SOXS",
-    "BR",
-    "SPCX",
-    "ZEC"
+    "MSTR",
+    "SOXL",
+    "SNDK",
+    "KORU",
+    "NEAR"
   ],
   "recommended": [
-    "SOXS",
-    "CL",
-    "XAU"
+    "MSTR",
+    "SOXL",
+    "ZEC"
   ]
 }
