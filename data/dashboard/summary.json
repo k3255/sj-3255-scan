@@ -1,17 +1,18 @@
 {
-  "scanTime": "2026-10-20T19:59:59.999000+00:00",
-  "btcReturn": -0.0019,
-  "altSeasonIndex": 43.75,
-  "leader": "ZEC",
+  "scanTime": "2026-10-21T03:59:59.999000+00:00",
+  "btcReturn": -0.3409,
+  "altSeasonIndex": 83.33,
+  "leader": "SKHYNIX",
   "newEntries": [
-    "SOXS",
-    "XAU",
-    "CL",
-    "SPCX"
+    "SKHYNIX",
+    "JCT",
+    "KORU",
+    "SKHY",
+    "MU"
   ],
   "recommended": [
-    "ZEC",
-    "MSTR",
-    "SOL"
+    "SKHYNIX",
+    "JCT",
+    "KORU"
   ]
 }
