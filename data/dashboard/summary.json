@@ -1,18 +1,18 @@
 {
-  "scanTime": "2026-10-21T03:59:59.999000+00:00",
-  "btcReturn": -0.3409,
-  "altSeasonIndex": 83.33,
-  "leader": "SKHYNIX",
+  "scanTime": "2026-10-21T11:59:59.999000+00:00",
+  "btcReturn": 0.4041,
+  "altSeasonIndex": 35.0,
+  "leader": "DOOD",
   "newEntries": [
-    "SKHYNIX",
-    "JCT",
-    "KORU",
-    "SKHY",
-    "MU"
+    "DOOD",
+    "IOST",
+    "XRP",
+    "ETH",
+    "SNDK"
   ],
   "recommended": [
-    "SKHYNIX",
-    "JCT",
-    "KORU"
+    "DOOD",
+    "IOST",
+    "SPCX"
   ]
 }
