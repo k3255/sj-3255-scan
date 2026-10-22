@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-14T11:59:59.999000+00:00",
-      "btcReturn": -0.1257,
-      "altSeasonIndex": 43.75,
-      "leader": "CL"
-    },
-    {
       "scanTime": "2026-10-14T19:59:59.999000+00:00",
       "btcReturn": 0.2413,
       "altSeasonIndex": 22.22,
@@ -178,6 +172,12 @@
       "scanTime": "2026-10-22T11:59:59.999000+00:00",
       "btcReturn": -0.5905,
       "altSeasonIndex": 65.0,
+      "leader": "SOXS"
+    },
+    {
+      "scanTime": "2026-10-22T15:59:59.999000+00:00",
+      "btcReturn": -0.0998,
+      "altSeasonIndex": 30.0,
       "leader": "SOXS"
     }
   ]
