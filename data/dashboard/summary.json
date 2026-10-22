@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-10-21T19:59:59.999000+00:00",
-  "btcReturn": -0.0428,
-  "altSeasonIndex": 47.37,
-  "leader": "IOST",
+  "scanTime": "2026-10-22T03:59:59.999000+00:00",
+  "btcReturn": -1.3673,
+  "altSeasonIndex": 55.0,
+  "leader": "ZEC",
   "newEntries": [
-    "HYPE",
-    "SOL",
-    "XAU"
+    "SOXS",
+    "SKHYNIX"
   ],
   "recommended": [
-    "IOST",
     "ZEC",
-    "MSTR"
+    "SOXS",
+    "ETH"
   ]
 }
