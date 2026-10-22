@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-10-22T03:59:59.999000+00:00",
-  "btcReturn": -1.3673,
-  "altSeasonIndex": 55.0,
-  "leader": "ZEC",
+  "scanTime": "2026-10-22T11:59:59.999000+00:00",
+  "btcReturn": -0.5905,
+  "altSeasonIndex": 65.0,
+  "leader": "SOXS",
   "newEntries": [
-    "SOXS",
-    "SKHYNIX"
+    "TSLA",
+    "MU",
+    "CL"
   ],
   "recommended": [
-    "ZEC",
     "SOXS",
-    "ETH"
+    "TSLA",
+    "MSTR"
   ]
 }
