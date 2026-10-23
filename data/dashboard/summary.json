@@ -1,15 +1,18 @@
 {
-  "scanTime": "2026-10-22T19:59:59.999000+00:00",
-  "btcReturn": -0.213,
-  "altSeasonIndex": 15.79,
-  "leader": "SOXS",
+  "scanTime": "2026-10-23T03:59:59.999000+00:00",
+  "btcReturn": 0.5805,
+  "altSeasonIndex": 71.43,
+  "leader": "SKHYNIX",
   "newEntries": [
-    "CL",
-    "ZEC"
+    "SKHYNIX",
+    "SKHY",
+    "KORU",
+    "NEAR",
+    "SNDK"
   ],
   "recommended": [
-    "SOXS",
-    "MAGMA",
+    "SKHYNIX",
+    "SKHY",
     "MSTR"
   ]
 }

@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-15T03:59:59.999000+00:00",
-      "btcReturn": -0.9175,
-      "altSeasonIndex": 27.27,
-      "leader": "WAL"
-    },
-    {
       "scanTime": "2026-10-16T03:59:59.999000+00:00",
       "btcReturn": -0.1381,
       "altSeasonIndex": 68.18,
@@ -179,6 +173,12 @@
       "btcReturn": -0.213,
       "altSeasonIndex": 15.79,
       "leader": "SOXS"
+    },
+    {
+      "scanTime": "2026-10-23T03:59:59.999000+00:00",
+      "btcReturn": 0.5805,
+      "altSeasonIndex": 71.43,
+      "leader": "SKHYNIX"
     }
   ]
 }
