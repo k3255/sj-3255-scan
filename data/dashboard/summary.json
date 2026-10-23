@@ -1,15 +1,16 @@
 {
-  "scanTime": "2026-10-23T15:59:59.999000+00:00",
-  "btcReturn": -0.0709,
-  "altSeasonIndex": 70.0,
+  "scanTime": "2026-10-23T19:59:59.999000+00:00",
+  "btcReturn": -0.4723,
+  "altSeasonIndex": 33.33,
   "leader": "IRYS",
   "newEntries": [
-    "MU",
-    "SNDK"
+    "SOXS",
+    "SKHYNIX",
+    "XRP"
   ],
   "recommended": [
     "IRYS",
-    "MSTR",
-    "CL"
+    "SOXS",
+    "PEPE"
   ]
 }
