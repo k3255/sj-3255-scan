@@ -1,65 +1,60 @@
 {
-  "scanTime": "2026-10-24T11:59:59.999000+00:00",
+  "scanTime": "2026-10-24T15:59:59.999000+00:00",
   "items": [
     {
       "symbol": "ORDER",
-      "relativeScore": 68.2657,
-      "aiScore": 90.5
-    },
-    {
-      "symbol": "BIRB",
-      "relativeScore": -37.4549,
-      "aiScore": 54.5
+      "relativeScore": 1.3305,
+      "aiScore": 75.49
     },
     {
       "symbol": "ETH",
-      "relativeScore": -0.2133,
-      "aiScore": 48.38
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": -0.1121,
-      "aiScore": 47.23
+      "relativeScore": -1.5346,
+      "aiScore": 56.84
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.2244,
-      "aiScore": 47.18
+      "relativeScore": -0.7489,
+      "aiScore": 56.54
     },
     {
-      "symbol": "XAU",
-      "relativeScore": 0.1433,
-      "aiScore": 45.74
+      "symbol": "XRP",
+      "relativeScore": -0.0595,
+      "aiScore": 55.94
     },
     {
-      "symbol": "IRYS",
-      "relativeScore": -21.1058,
-      "aiScore": 45.63
+      "symbol": "HYPE",
+      "relativeScore": 0.3347,
+      "aiScore": 55.33
     },
     {
-      "symbol": "PEPE",
-      "relativeScore": -0.6349,
-      "aiScore": 42.56
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": -0.5538,
-      "aiScore": 40.32
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": 0.1668,
-      "aiScore": 40.11
-    },
-    {
-      "symbol": "SOXL",
-      "relativeScore": 0.9049,
-      "aiScore": 38.94
+      "symbol": "BIRB",
+      "relativeScore": -17.9451,
+      "aiScore": 47.39
     },
     {
       "symbol": "NEAR",
-      "relativeScore": -1.4177,
-      "aiScore": 38.17
+      "relativeScore": -1.0749,
+      "aiScore": 45.92
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": 0.1426,
+      "aiScore": 44.18
+    },
+    {
+      "symbol": "SNDK",
+      "relativeScore": -0.0926,
+      "aiScore": 42.5
+    },
+    {
+      "symbol": "SOXL",
+      "relativeScore": 0.0008,
+      "aiScore": 38.63
+    },
+    {
+      "symbol": "IRYS",
+      "relativeScore": -27.2727,
+      "aiScore": 24.0
     }
   ]
 }
