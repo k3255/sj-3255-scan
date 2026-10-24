@@ -1,15 +1,18 @@
 {
-  "scanTime": "2026-10-24T07:59:59.999000+00:00",
-  "btcReturn": -0.291,
-  "altSeasonIndex": 22.22,
-  "leader": "BIRB",
+  "scanTime": "2026-10-24T11:59:59.999000+00:00",
+  "btcReturn": -0.1603,
+  "altSeasonIndex": 33.33,
+  "leader": "ORDER",
   "newEntries": [
-    "XAU",
-    "SPCX"
+    "ORDER",
+    "IRYS",
+    "PEPE",
+    "ZEC",
+    "SNDK"
   ],
   "recommended": [
+    "ORDER",
     "BIRB",
-    "SOXS",
-    "MSTR"
+    "ETH"
   ]
 }
