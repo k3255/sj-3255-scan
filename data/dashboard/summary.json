@@ -1,16 +1,12 @@
 {
-  "scanTime": "2026-10-24T15:59:59.999000+00:00",
-  "btcReturn": -1.0021,
-  "altSeasonIndex": 36.36,
+  "scanTime": "2026-10-24T19:59:59.999000+00:00",
+  "btcReturn": 0.8556,
+  "altSeasonIndex": 63.64,
   "leader": "ORDER",
-  "newEntries": [
-    "HYPE",
-    "NEAR",
-    "SOXL"
-  ],
+  "newEntries": [],
   "recommended": [
     "ORDER",
-    "ETH",
-    "SOL"
+    "ZEC",
+    "HYPE"
   ]
 }
