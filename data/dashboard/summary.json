@@ -1,15 +1,12 @@
 {
-  "scanTime": "2026-10-25T11:59:59.999000+00:00",
-  "btcReturn": -0.124,
-  "altSeasonIndex": 54.55,
+  "scanTime": "2026-10-25T15:59:59.999000+00:00",
+  "btcReturn": 0.0716,
+  "altSeasonIndex": 71.43,
   "leader": "APR",
-  "newEntries": [
-    "APR",
-    "JCT"
-  ],
+  "newEntries": [],
   "recommended": [
     "APR",
-    "JCT",
-    "ZEC"
+    "IRYS",
+    "SOL"
   ]
 }
