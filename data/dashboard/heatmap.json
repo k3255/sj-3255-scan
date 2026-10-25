@@ -1,60 +1,60 @@
 {
-  "scanTime": "2026-10-25T03:59:59.999000+00:00",
+  "scanTime": "2026-10-25T11:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "IRYS",
-      "relativeScore": 10.3483,
-      "aiScore": 61.85
+      "symbol": "APR",
+      "relativeScore": 11.9551,
+      "aiScore": 97.59
     },
     {
-      "symbol": "XRP",
-      "relativeScore": 0.9266,
-      "aiScore": 49.66
+      "symbol": "JCT",
+      "relativeScore": -1.9613,
+      "aiScore": 60.67
     },
     {
       "symbol": "ZEC",
-      "relativeScore": 0.4806,
-      "aiScore": 47.99
+      "relativeScore": 1.8935,
+      "aiScore": 53.19
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.001,
+      "aiScore": 48.38
     },
     {
       "symbol": "ETH",
-      "relativeScore": 0.1814,
-      "aiScore": 47.93
+      "relativeScore": -0.2386,
+      "aiScore": 48.3
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.0775,
-      "aiScore": 47.16
-    },
-    {
-      "symbol": "ORDER",
-      "relativeScore": -19.9743,
-      "aiScore": 45.84
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": -0.1178,
-      "aiScore": 44.44
-    },
-    {
-      "symbol": "SNDK",
-      "relativeScore": 0.8818,
-      "aiScore": 43.95
-    },
-    {
-      "symbol": "SOXL",
-      "relativeScore": 0.8162,
-      "aiScore": 42.97
+      "relativeScore": -0.1861,
+      "aiScore": 48.22
     },
     {
       "symbol": "NEAR",
-      "relativeScore": -0.2834,
-      "aiScore": 40.48
+      "relativeScore": 1.1226,
+      "aiScore": 45.51
     },
     {
-      "symbol": "BIRB",
-      "relativeScore": -4.9491,
-      "aiScore": 34.54
+      "symbol": "SNDK",
+      "relativeScore": 0.095,
+      "aiScore": 42.62
+    },
+    {
+      "symbol": "SOXL",
+      "relativeScore": 0.0292,
+      "aiScore": 41.22
+    },
+    {
+      "symbol": "IRYS",
+      "relativeScore": -8.5213,
+      "aiScore": 22.92
+    },
+    {
+      "symbol": "ORDER",
+      "relativeScore": -6.7296,
+      "aiScore": 22.1
     }
   ]
 }
