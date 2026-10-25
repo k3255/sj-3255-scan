@@ -1,60 +1,60 @@
 {
-  "scanTime": "2026-10-24T19:59:59.999000+00:00",
+  "scanTime": "2026-10-25T03:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "ORDER",
-      "relativeScore": -10.0656,
-      "aiScore": 54.5
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": 3.0084,
-      "aiScore": 52.76
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": 0.3976,
-      "aiScore": 52.48
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": 0.6077,
-      "aiScore": 50.38
+      "symbol": "IRYS",
+      "relativeScore": 10.3483,
+      "aiScore": 61.85
     },
     {
       "symbol": "XRP",
-      "relativeScore": 0.7696,
-      "aiScore": 50.35
+      "relativeScore": 0.9266,
+      "aiScore": 49.66
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": 0.4806,
+      "aiScore": 47.99
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.1814,
+      "aiScore": 47.93
     },
     {
       "symbol": "SOL",
-      "relativeScore": 0.5404,
-      "aiScore": 48.48
+      "relativeScore": 0.0775,
+      "aiScore": 47.16
     },
     {
-      "symbol": "BIRB",
-      "relativeScore": -6.4078,
-      "aiScore": 44.71
+      "symbol": "ORDER",
+      "relativeScore": -19.9743,
+      "aiScore": 45.84
     },
     {
-      "symbol": "SOXL",
-      "relativeScore": 1.107,
-      "aiScore": 42.12
-    },
-    {
-      "symbol": "NEAR",
-      "relativeScore": 0.3571,
-      "aiScore": 41.89
+      "symbol": "HYPE",
+      "relativeScore": -0.1178,
+      "aiScore": 44.44
     },
     {
       "symbol": "SNDK",
-      "relativeScore": -0.0021,
-      "aiScore": 41.09
+      "relativeScore": 0.8818,
+      "aiScore": 43.95
     },
     {
-      "symbol": "IRYS",
-      "relativeScore": -4.9915,
-      "aiScore": 29.77
+      "symbol": "SOXL",
+      "relativeScore": 0.8162,
+      "aiScore": 42.97
+    },
+    {
+      "symbol": "NEAR",
+      "relativeScore": -0.2834,
+      "aiScore": 40.48
+    },
+    {
+      "symbol": "BIRB",
+      "relativeScore": -4.9491,
+      "aiScore": 34.54
     }
   ]
 }
