@@ -1,55 +1,70 @@
 {
-  "scanTime": "2026-10-26T03:59:59.999000+00:00",
+  "scanTime": "2026-10-26T11:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "XAU",
-      "relativeScore": 0.9238,
-      "aiScore": 62.28
-    },
-    {
-      "symbol": "KORU",
-      "relativeScore": -0.0156,
-      "aiScore": 55.37
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": -0.4461,
-      "aiScore": 53.19
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": -0.7611,
-      "aiScore": 50.62
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": -0.4812,
-      "aiScore": 50.18
-    },
-    {
-      "symbol": "APR",
-      "relativeScore": -10.9988,
-      "aiScore": 49.33
-    },
-    {
       "symbol": "SOXL",
-      "relativeScore": -1.7715,
-      "aiScore": 46.63
+      "relativeScore": 4.6764,
+      "aiScore": 65.72
+    },
+    {
+      "symbol": "MSTR",
+      "relativeScore": 0.9998,
+      "aiScore": 56.51
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -1.4757,
-      "aiScore": 45.38
+      "relativeScore": 1.7223,
+      "aiScore": 55.34
+    },
+    {
+      "symbol": "MU",
+      "relativeScore": 1.6303,
+      "aiScore": 53.52
+    },
+    {
+      "symbol": "KORU",
+      "relativeScore": 2.6674,
+      "aiScore": 52.86
     },
     {
       "symbol": "NEAR",
-      "relativeScore": -2.306,
-      "aiScore": 44.0
+      "relativeScore": 2.0753,
+      "aiScore": 52.71
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": 0.5405,
+      "aiScore": 51.57
     },
     {
       "symbol": "SNDK",
-      "relativeScore": -0.74,
-      "aiScore": 43.74
+      "relativeScore": 1.7286,
+      "aiScore": 51.36
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.7468,
+      "aiScore": 51.16
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.1963,
+      "aiScore": 49.7
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": -0.3026,
+      "aiScore": 47.13
+    },
+    {
+      "symbol": "CL",
+      "relativeScore": -0.9424,
+      "aiScore": 45.72
+    },
+    {
+      "symbol": "SOXS",
+      "relativeScore": -5.5174,
+      "aiScore": 30.76
     }
   ]
 }

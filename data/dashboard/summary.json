@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-10-26T03:59:59.999000+00:00",
-  "btcReturn": -0.6898,
-  "altSeasonIndex": 10.0,
-  "leader": "XAU",
+  "scanTime": "2026-10-26T11:59:59.999000+00:00",
+  "btcReturn": 0.4739,
+  "altSeasonIndex": 76.92,
+  "leader": "SOXL",
   "newEntries": [
-    "XAU",
-    "KORU",
-    "SNDK"
+    "MSTR",
+    "MU"
   ],
   "recommended": [
-    "XAU",
-    "KORU",
-    "ETH"
+    "SOXL",
+    "MSTR",
+    "ZEC"
   ]
 }
