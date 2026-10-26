@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-18T15:59:59.999000+00:00",
-      "btcReturn": -1.0795,
-      "altSeasonIndex": 12.5,
-      "leader": "Q"
-    },
-    {
       "scanTime": "2026-10-18T19:59:59.999000+00:00",
       "btcReturn": -0.3654,
       "altSeasonIndex": 12.5,
@@ -179,6 +173,12 @@
       "btcReturn": -0.0882,
       "altSeasonIndex": 87.5,
       "leader": "APR"
+    },
+    {
+      "scanTime": "2026-10-26T03:59:59.999000+00:00",
+      "btcReturn": -0.6898,
+      "altSeasonIndex": 10.0,
+      "leader": "XAU"
     }
   ]
 }
