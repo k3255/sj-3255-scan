@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-19T03:59:59.999000+00:00",
-      "btcReturn": 0.4991,
-      "altSeasonIndex": 72.73,
-      "leader": "Q"
-    },
-    {
       "scanTime": "2026-10-19T07:59:59.999000+00:00",
       "btcReturn": 0.2487,
       "altSeasonIndex": 72.73,
@@ -179,6 +173,12 @@
       "btcReturn": 0.4739,
       "altSeasonIndex": 76.92,
       "leader": "SOXL"
+    },
+    {
+      "scanTime": "2026-10-26T19:59:59.999000+00:00",
+      "btcReturn": -0.508,
+      "altSeasonIndex": 58.82,
+      "leader": "HYPE"
     }
   ]
 }
