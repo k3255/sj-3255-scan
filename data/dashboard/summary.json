@@ -1,17 +1,16 @@
 {
-  "scanTime": "2026-10-26T19:59:59.999000+00:00",
-  "btcReturn": -0.508,
-  "altSeasonIndex": 58.82,
-  "leader": "HYPE",
+  "scanTime": "2026-10-27T03:59:59.999000+00:00",
+  "btcReturn": -0.3914,
+  "altSeasonIndex": 50.0,
+  "leader": "DOOD",
   "newEntries": [
-    "HYPE",
-    "SNXX",
-    "SKHY",
-    "XAU"
+    "DOOD",
+    "Q",
+    "MSTR"
   ],
   "recommended": [
-    "HYPE",
-    "SOXL",
-    "SNXX"
+    "DOOD",
+    "Q",
+    "KORU"
   ]
 }
