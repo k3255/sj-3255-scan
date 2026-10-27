@@ -1,16 +1,15 @@
 {
-  "scanTime": "2026-10-27T03:59:59.999000+00:00",
-  "btcReturn": -0.3914,
-  "altSeasonIndex": 50.0,
-  "leader": "DOOD",
+  "scanTime": "2026-10-27T11:59:59.999000+00:00",
+  "btcReturn": 0.1218,
+  "altSeasonIndex": 62.5,
+  "leader": "SOXL",
   "newEntries": [
-    "DOOD",
-    "Q",
-    "MSTR"
+    "SNXX",
+    "ZEC"
   ],
   "recommended": [
-    "DOOD",
-    "Q",
+    "SOXL",
+    "MU",
     "KORU"
   ]
 }

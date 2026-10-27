@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-19T15:59:59.999000+00:00",
-      "btcReturn": -0.5013,
-      "altSeasonIndex": 76.47,
-      "leader": "SNDK"
-    },
-    {
       "scanTime": "2026-10-19T19:59:59.999000+00:00",
       "btcReturn": -0.075,
       "altSeasonIndex": 37.5,
@@ -179,6 +173,12 @@
       "btcReturn": -0.3914,
       "altSeasonIndex": 50.0,
       "leader": "DOOD"
+    },
+    {
+      "scanTime": "2026-10-27T11:59:59.999000+00:00",
+      "btcReturn": 0.1218,
+      "altSeasonIndex": 62.5,
+      "leader": "SOXL"
     }
   ]
 }
