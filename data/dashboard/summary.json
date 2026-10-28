@@ -1,15 +1,17 @@
 {
-  "scanTime": "2026-10-27T19:59:59.999000+00:00",
-  "btcReturn": 0.3156,
-  "altSeasonIndex": 26.67,
-  "leader": "SOXL",
+  "scanTime": "2026-10-28T03:59:59.999000+00:00",
+  "btcReturn": 0.2914,
+  "altSeasonIndex": 83.33,
+  "leader": "KORU",
   "newEntries": [
-    "NEAR",
-    "ETH"
+    "KORU",
+    "PEPE",
+    "SKHYNIX",
+    "SKHY"
   ],
   "recommended": [
-    "SOXL",
-    "SNXX",
-    "ZEC"
+    "KORU",
+    "PEPE",
+    "SKHYNIX"
   ]
 }
