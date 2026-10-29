@@ -1,15 +1,17 @@
 {
-  "scanTime": "2026-10-28T19:59:59.999000+00:00",
-  "btcReturn": 1.2734,
-  "altSeasonIndex": 68.42,
-  "leader": "SNXX",
+  "scanTime": "2026-10-29T03:59:59.999000+00:00",
+  "btcReturn": -1.8191,
+  "altSeasonIndex": 50.0,
+  "leader": "SKHYNIX",
   "newEntries": [
-    "MSTR",
-    "MU"
+    "ETH",
+    "GOOGL",
+    "XAU",
+    "SNDK"
   ],
   "recommended": [
-    "SNXX",
-    "KORU",
-    "EVAA"
+    "SKHYNIX",
+    "SKHY",
+    "PEPE"
   ]
 }

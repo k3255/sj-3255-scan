@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-20T19:59:59.999000+00:00",
-      "btcReturn": -0.0019,
-      "altSeasonIndex": 43.75,
-      "leader": "ZEC"
-    },
-    {
       "scanTime": "2026-10-21T03:59:59.999000+00:00",
       "btcReturn": -0.3409,
       "altSeasonIndex": 83.33,
@@ -179,6 +173,12 @@
       "btcReturn": 1.2734,
       "altSeasonIndex": 68.42,
       "leader": "SNXX"
+    },
+    {
+      "scanTime": "2026-10-29T03:59:59.999000+00:00",
+      "btcReturn": -1.8191,
+      "altSeasonIndex": 50.0,
+      "leader": "SKHYNIX"
     }
   ]
 }
