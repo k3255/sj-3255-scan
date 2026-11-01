@@ -1,25 +1,25 @@
 {
-  "scanTime": "2026-10-31T19:59:59.999000+00:00",
+  "scanTime": "2026-11-01T03:59:59.999000+00:00",
   "items": [
     {
-      "symbol": "HYPE",
-      "relativeScore": 0.6067,
-      "aiScore": 48.73
+      "symbol": "ETH",
+      "relativeScore": 0.2622,
+      "aiScore": 48.79
     },
     {
-      "symbol": "ETH",
-      "relativeScore": 0.1922,
-      "aiScore": 47.96
+      "symbol": "HYPE",
+      "relativeScore": -0.6988,
+      "aiScore": 45.51
     },
     {
       "symbol": "SOL",
-      "relativeScore": -0.124,
-      "aiScore": 44.98
+      "relativeScore": -0.1514,
+      "aiScore": 45.29
     },
     {
       "symbol": "ZEC",
-      "relativeScore": -0.8791,
-      "aiScore": 44.35
+      "relativeScore": -0.8227,
+      "aiScore": 42.77
     }
   ]
 }
