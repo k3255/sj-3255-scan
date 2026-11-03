@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-11-02T15:59:59.999000+00:00",
-  "btcReturn": -0.4915,
-  "altSeasonIndex": 33.33,
-  "leader": "MSTR",
+  "scanTime": "2026-11-02T23:59:59.999000+00:00",
+  "btcReturn": -0.3594,
+  "altSeasonIndex": 90.0,
+  "leader": "SOXS",
   "newEntries": [
-    "MSTR",
-    "XAG",
-    "SKHY",
-    "SKHYNIX"
+    "SOXS"
   ],
   "recommended": [
-    "MSTR",
-    "XAU",
-    "XAG"
+    "SOXS",
+    "SKHYNIX",
+    "SKHY"
   ]
 }
