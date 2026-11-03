@@ -1,15 +1,18 @@
 {
-  "scanTime": "2026-11-03T07:59:59.999000+00:00",
-  "btcReturn": -0.1572,
-  "altSeasonIndex": 68.42,
-  "leader": "SOXS",
+  "scanTime": "2026-11-03T15:59:59.999000+00:00",
+  "btcReturn": 0.7482,
+  "altSeasonIndex": 83.33,
+  "leader": "MSTR",
   "newEntries": [
-    "CL",
-    "HYPE"
+    "SOXL",
+    "SNXX",
+    "KORU",
+    "SKHY",
+    "SNDK"
   ],
   "recommended": [
-    "SOXS",
-    "ETH",
-    "XRP"
+    "MSTR",
+    "SOXL",
+    "HYPE"
   ]
 }
