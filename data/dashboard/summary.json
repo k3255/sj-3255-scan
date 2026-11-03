@@ -1,14 +1,15 @@
 {
-  "scanTime": "2026-11-02T23:59:59.999000+00:00",
-  "btcReturn": -0.3594,
-  "altSeasonIndex": 90.0,
+  "scanTime": "2026-11-03T07:59:59.999000+00:00",
+  "btcReturn": -0.1572,
+  "altSeasonIndex": 68.42,
   "leader": "SOXS",
   "newEntries": [
-    "SOXS"
+    "CL",
+    "HYPE"
   ],
   "recommended": [
     "SOXS",
-    "SKHYNIX",
-    "SKHY"
+    "ETH",
+    "XRP"
   ]
 }
