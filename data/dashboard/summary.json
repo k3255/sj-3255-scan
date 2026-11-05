@@ -1,19 +1,15 @@
 {
-  "scanTime": "2026-11-04T15:59:59.999000+00:00",
-  "btcReturn": 2.338,
-  "altSeasonIndex": 21.43,
+  "scanTime": "2026-11-05T11:59:59.999000+00:00",
+  "btcReturn": 0.02,
+  "altSeasonIndex": 59.09,
   "leader": "SOXS",
   "newEntries": [
-    "SOXS",
-    "PEPE",
-    "SOL",
-    "XRP",
-    "ENA",
-    "GOOGL"
+    "XAU",
+    "XAG"
   ],
   "recommended": [
     "SOXS",
-    "ETH",
+    "XRP",
     "MSTR"
   ]
 }
