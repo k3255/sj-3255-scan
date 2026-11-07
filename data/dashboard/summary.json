@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-11-05T23:59:59.999000+00:00",
-  "btcReturn": -0.396,
-  "altSeasonIndex": 20.83,
-  "leader": "SOXS",
+  "scanTime": "2026-11-06T23:59:59.999000+00:00",
+  "btcReturn": -0.0684,
+  "altSeasonIndex": 65.0,
+  "leader": "UAI",
   "newEntries": [
-    "QQQ",
-    "CL",
-    "ANTHROPIC"
+    "UAI",
+    "AKE",
+    "OPENAI",
+    "SPCX"
   ],
   "recommended": [
-    "SOXS",
-    "ZEC",
-    "XAU"
+    "UAI",
+    "AKE",
+    "OPENAI"
   ]
 }
