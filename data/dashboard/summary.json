@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-11-07T11:59:59.999000+00:00",
-  "btcReturn": -0.1483,
-  "altSeasonIndex": 58.33,
-  "leader": "AKE",
+  "scanTime": "2026-11-07T19:59:59.999000+00:00",
+  "btcReturn": 0.0553,
+  "altSeasonIndex": 85.71,
+  "leader": "ONE",
   "newEntries": [
-    "MU",
-    "SOXL"
+    "ONE",
+    "SNDK"
   ],
   "recommended": [
-    "AKE",
-    "SOXS",
-    "ETH"
+    "ONE",
+    "ETH",
+    "ZEC"
   ]
 }
