@@ -1,17 +1,14 @@
 {
-  "scanTime": "2026-11-06T23:59:59.999000+00:00",
-  "btcReturn": -0.0684,
-  "altSeasonIndex": 65.0,
-  "leader": "UAI",
+  "scanTime": "2026-11-07T03:59:59.999000+00:00",
+  "btcReturn": 0.0723,
+  "altSeasonIndex": 55.56,
+  "leader": "AKE",
   "newEntries": [
-    "UAI",
-    "AKE",
-    "OPENAI",
-    "SPCX"
+    "XRP"
   ],
   "recommended": [
-    "UAI",
     "AKE",
-    "OPENAI"
+    "ZEC",
+    "SOXS"
   ]
 }
