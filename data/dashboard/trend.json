@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-27T03:59:59.999000+00:00",
-      "btcReturn": -0.3914,
-      "altSeasonIndex": 50.0,
-      "leader": "DOOD"
-    },
-    {
       "scanTime": "2026-10-27T11:59:59.999000+00:00",
       "btcReturn": 0.1218,
       "altSeasonIndex": 62.5,
@@ -179,6 +173,12 @@
       "btcReturn": 0.0728,
       "altSeasonIndex": 14.29,
       "leader": "ETH"
+    },
+    {
+      "scanTime": "2026-11-08T11:59:59.999000+00:00",
+      "btcReturn": -0.0001,
+      "altSeasonIndex": 71.43,
+      "leader": "JCT"
     }
   ]
 }
