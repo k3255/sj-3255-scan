@@ -1,15 +1,12 @@
 {
-  "scanTime": "2026-11-07T19:59:59.999000+00:00",
-  "btcReturn": 0.0553,
-  "altSeasonIndex": 85.71,
-  "leader": "ONE",
-  "newEntries": [
-    "ONE",
-    "SNDK"
-  ],
+  "scanTime": "2026-11-08T03:59:59.999000+00:00",
+  "btcReturn": 0.0728,
+  "altSeasonIndex": 14.29,
+  "leader": "ETH",
+  "newEntries": [],
   "recommended": [
-    "ONE",
     "ETH",
-    "ZEC"
+    "ZEC",
+    "SOL"
   ]
 }
