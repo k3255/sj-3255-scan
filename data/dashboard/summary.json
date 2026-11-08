@@ -1,14 +1,12 @@
 {
-  "scanTime": "2026-11-08T11:59:59.999000+00:00",
-  "btcReturn": -0.0001,
-  "altSeasonIndex": 71.43,
+  "scanTime": "2026-11-08T19:59:59.999000+00:00",
+  "btcReturn": -0.1942,
+  "altSeasonIndex": 57.14,
   "leader": "JCT",
-  "newEntries": [
-    "JCT"
-  ],
+  "newEntries": [],
   "recommended": [
     "JCT",
-    "ZEC",
-    "ETH"
+    "ETH",
+    "SOL"
   ]
 }
