@@ -1,12 +1,17 @@
 {
-  "scanTime": "2026-11-08T19:59:59.999000+00:00",
-  "btcReturn": -0.1942,
-  "altSeasonIndex": 57.14,
-  "leader": "JCT",
-  "newEntries": [],
+  "scanTime": "2026-11-09T03:59:59.999000+00:00",
+  "btcReturn": 0.0044,
+  "altSeasonIndex": 78.57,
+  "leader": "XAG",
+  "newEntries": [
+    "XAG",
+    "XAU",
+    "KORU",
+    "MU"
+  ],
   "recommended": [
-    "JCT",
-    "ETH",
+    "XAG",
+    "XAU",
     "SOL"
   ]
 }
