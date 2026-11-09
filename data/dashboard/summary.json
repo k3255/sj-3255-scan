@@ -1,17 +1,19 @@
 {
-  "scanTime": "2026-11-09T03:59:59.999000+00:00",
-  "btcReturn": 0.0044,
-  "altSeasonIndex": 78.57,
-  "leader": "XAG",
+  "scanTime": "2026-11-09T15:59:59.999000+00:00",
+  "btcReturn": 1.5437,
+  "altSeasonIndex": 72.73,
+  "leader": "SOXL",
   "newEntries": [
-    "XAG",
-    "XAU",
-    "KORU",
-    "MU"
+    "SNDK",
+    "SKHY",
+    "SNXX",
+    "SPCX",
+    "MSTR",
+    "SKHYNIX"
   ],
   "recommended": [
-    "XAG",
-    "XAU",
-    "SOL"
+    "SOXL",
+    "SNDK",
+    "SKHY"
   ]
 }
