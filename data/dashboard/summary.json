@@ -1,16 +1,17 @@
 {
-  "scanTime": "2026-11-10T11:59:59.999000+00:00",
-  "btcReturn": -0.5501,
-  "altSeasonIndex": 23.81,
-  "leader": "SOXL",
+  "scanTime": "2026-11-10T19:59:59.999000+00:00",
+  "btcReturn": 0.3442,
+  "altSeasonIndex": 47.62,
+  "leader": "INIT",
   "newEntries": [
-    "INIT",
-    "SOL",
-    "ETH"
+    "HYPE",
+    "NEAR",
+    "XRP",
+    "OPENAI"
   ],
   "recommended": [
+    "INIT",
     "SOXL",
-    "XAU",
-    "INIT"
+    "HYPE"
   ]
 }
