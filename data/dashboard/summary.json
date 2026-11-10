@@ -1,19 +1,16 @@
 {
-  "scanTime": "2026-11-09T15:59:59.999000+00:00",
-  "btcReturn": 1.5437,
-  "altSeasonIndex": 72.73,
+  "scanTime": "2026-11-09T23:59:59.999000+00:00",
+  "btcReturn": 0.6319,
+  "altSeasonIndex": 38.1,
   "leader": "SOXL",
   "newEntries": [
-    "SNDK",
-    "SKHY",
-    "SNXX",
-    "SPCX",
-    "MSTR",
-    "SKHYNIX"
+    "XAU",
+    "XAG",
+    "NVDA"
   ],
   "recommended": [
     "SOXL",
-    "SNDK",
-    "SKHY"
+    "XAU",
+    "MU"
   ]
 }
