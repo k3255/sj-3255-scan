@@ -1,15 +1,19 @@
 {
-  "scanTime": "2026-11-13T11:59:59.999000+00:00",
-  "btcReturn": 1.0773,
-  "altSeasonIndex": 66.67,
-  "leader": "SOXL",
+  "scanTime": "2026-11-13T15:59:59.999000+00:00",
+  "btcReturn": -0.6028,
+  "altSeasonIndex": 22.22,
+  "leader": "AKE",
   "newEntries": [
-    "NEAR",
-    "SOL"
+    "AKE",
+    "SOXS",
+    "XAG",
+    "XAU",
+    "XRP",
+    "SPCX"
   ],
   "recommended": [
-    "SOXL",
-    "HYPE",
-    "MU"
+    "AKE",
+    "SOXS",
+    "SOL"
   ]
 }
