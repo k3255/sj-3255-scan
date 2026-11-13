@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-10-31T15:59:59.999000+00:00",
-      "btcReturn": -0.0073,
-      "altSeasonIndex": 60.0,
-      "leader": "ZEC"
-    },
-    {
       "scanTime": "2026-10-31T19:59:59.999000+00:00",
       "btcReturn": -0.0157,
       "altSeasonIndex": 50.0,
@@ -179,6 +173,12 @@
       "btcReturn": -0.2776,
       "altSeasonIndex": 83.33,
       "leader": "SNXX"
+    },
+    {
+      "scanTime": "2026-11-12T23:59:59.999000+00:00",
+      "btcReturn": -0.3211,
+      "altSeasonIndex": 93.75,
+      "leader": "SOXL"
     }
   ]
 }
