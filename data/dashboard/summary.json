@@ -1,15 +1,15 @@
 {
-  "scanTime": "2026-11-12T23:59:59.999000+00:00",
-  "btcReturn": -0.3211,
-  "altSeasonIndex": 93.75,
+  "scanTime": "2026-11-13T11:59:59.999000+00:00",
+  "btcReturn": 1.0773,
+  "altSeasonIndex": 66.67,
   "leader": "SOXL",
   "newEntries": [
-    "HYPE",
-    "NVDA"
+    "NEAR",
+    "SOL"
   ],
   "recommended": [
     "SOXL",
-    "KORU",
-    "SNXX"
+    "HYPE",
+    "MU"
   ]
 }
