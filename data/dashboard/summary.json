@@ -1,19 +1,15 @@
 {
-  "scanTime": "2026-11-13T15:59:59.999000+00:00",
-  "btcReturn": -0.6028,
-  "altSeasonIndex": 22.22,
+  "scanTime": "2026-11-13T23:59:59.999000+00:00",
+  "btcReturn": -1.0818,
+  "altSeasonIndex": 27.78,
   "leader": "AKE",
   "newEntries": [
-    "AKE",
-    "SOXS",
-    "XAG",
-    "XAU",
-    "XRP",
-    "SPCX"
+    "MU",
+    "NVDA"
   ],
   "recommended": [
     "AKE",
     "SOXS",
-    "SOL"
+    "MU"
   ]
 }
