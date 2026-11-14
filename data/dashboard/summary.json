@@ -1,15 +1,14 @@
 {
-  "scanTime": "2026-11-14T15:59:59.999000+00:00",
-  "btcReturn": -2.277,
-  "altSeasonIndex": 72.73,
-  "leader": "AKE",
+  "scanTime": "2026-11-14T19:59:59.999000+00:00",
+  "btcReturn": -0.0356,
+  "altSeasonIndex": 0.0,
+  "leader": "XAG",
   "newEntries": [
-    "SOXL",
-    "KORU"
+    "DOGE"
   ],
   "recommended": [
-    "AKE",
     "XAG",
+    "XAU",
     "ETH"
   ]
 }
