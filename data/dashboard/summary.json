@@ -1,16 +1,12 @@
 {
-  "scanTime": "2026-11-15T03:59:59.999000+00:00",
-  "btcReturn": 1.0212,
-  "altSeasonIndex": 76.92,
+  "scanTime": "2026-11-15T11:59:59.999000+00:00",
+  "btcReturn": 2.1007,
+  "altSeasonIndex": 50.0,
   "leader": "EVAA",
-  "newEntries": [
-    "EVAA",
-    "ZEC",
-    "NEAR"
-  ],
+  "newEntries": [],
   "recommended": [
     "EVAA",
-    "XRP",
+    "HYPE",
     "ETH"
   ]
 }
