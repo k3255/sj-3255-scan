@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-11-02T23:59:59.999000+00:00",
-      "btcReturn": -0.3594,
-      "altSeasonIndex": 90.0,
-      "leader": "SOXS"
-    },
-    {
       "scanTime": "2026-11-03T07:59:59.999000+00:00",
       "btcReturn": -0.1572,
       "altSeasonIndex": 68.42,
@@ -179,6 +173,12 @@
       "btcReturn": -0.0356,
       "altSeasonIndex": 0.0,
       "leader": "XAG"
+    },
+    {
+      "scanTime": "2026-11-15T03:59:59.999000+00:00",
+      "btcReturn": 1.0212,
+      "altSeasonIndex": 76.92,
+      "leader": "EVAA"
     }
   ]
 }
