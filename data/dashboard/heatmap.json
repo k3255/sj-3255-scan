@@ -1,65 +1,50 @@
 {
-  "scanTime": "2026-11-15T11:59:59.999000+00:00",
+  "scanTime": "2026-11-15T19:59:59.999000+00:00",
   "items": [
     {
       "symbol": "EVAA",
-      "relativeScore": 23.242,
-      "aiScore": 93.0
-    },
-    {
-      "symbol": "HYPE",
-      "relativeScore": 2.354,
-      "aiScore": 47.9
-    },
-    {
-      "symbol": "ETH",
-      "relativeScore": 0.2292,
-      "aiScore": 45.08
-    },
-    {
-      "symbol": "ZEC",
-      "relativeScore": 0.6962,
-      "aiScore": 44.34
-    },
-    {
-      "symbol": "SOL",
-      "relativeScore": 1.2244,
-      "aiScore": 43.64
-    },
-    {
-      "symbol": "DOGE",
-      "relativeScore": 0.4897,
-      "aiScore": 42.92
-    },
-    {
-      "symbol": "XRP",
-      "relativeScore": -0.5383,
-      "aiScore": 42.67
-    },
-    {
-      "symbol": "NEAR",
-      "relativeScore": -0.4905,
-      "aiScore": 41.12
-    },
-    {
-      "symbol": "XAU",
-      "relativeScore": -1.9622,
-      "aiScore": 40.36
-    },
-    {
-      "symbol": "XAG",
-      "relativeScore": -1.4904,
-      "aiScore": 38.7
-    },
-    {
-      "symbol": "KORU",
-      "relativeScore": -0.5422,
-      "aiScore": 37.65
+      "relativeScore": 0.9702,
+      "aiScore": 74.45
     },
     {
       "symbol": "SOXL",
-      "relativeScore": -2.2281,
-      "aiScore": 34.81
+      "relativeScore": 3.2454,
+      "aiScore": 49.05
+    },
+    {
+      "symbol": "ETH",
+      "relativeScore": 0.4595,
+      "aiScore": 45.4
+    },
+    {
+      "symbol": "XAU",
+      "relativeScore": 0.1231,
+      "aiScore": 45.4
+    },
+    {
+      "symbol": "XRP",
+      "relativeScore": 0.003,
+      "aiScore": 44.44
+    },
+    {
+      "symbol": "ZEC",
+      "relativeScore": 0.5196,
+      "aiScore": 43.22
+    },
+    {
+      "symbol": "SOL",
+      "relativeScore": 0.3374,
+      "aiScore": 42.73
+    },
+    {
+      "symbol": "HYPE",
+      "relativeScore": -0.3996,
+      "aiScore": 42.35
+    },
+    {
+      "symbol": "XAG",
+      "relativeScore": 0.0243,
+      "aiScore": 42.18
     }
   ]
 }
