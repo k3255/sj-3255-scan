@@ -1,14 +1,18 @@
 {
-  "scanTime": "2026-11-16T03:59:59.999000+00:00",
-  "btcReturn": -0.3514,
-  "altSeasonIndex": 0.0,
-  "leader": "XAU",
+  "scanTime": "2026-11-16T15:59:59.999000+00:00",
+  "btcReturn": 0.0379,
+  "altSeasonIndex": 41.18,
+  "leader": "SOXS",
   "newEntries": [
-    "NVDA"
+    "SOXS",
+    "MU",
+    "SNDK",
+    "SPCX",
+    "KORU"
   ],
   "recommended": [
-    "XAU",
+    "SOXS",
     "NVDA",
-    "EVAA"
+    "MU"
   ]
 }

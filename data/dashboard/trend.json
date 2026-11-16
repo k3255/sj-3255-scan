@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-11-04T07:59:59.999000+00:00",
-      "btcReturn": 2.1377,
-      "altSeasonIndex": 76.19,
-      "leader": "ZEC"
-    },
-    {
       "scanTime": "2026-11-04T15:59:59.999000+00:00",
       "btcReturn": 2.338,
       "altSeasonIndex": 21.43,
@@ -179,6 +173,12 @@
       "btcReturn": -0.3514,
       "altSeasonIndex": 0.0,
       "leader": "XAU"
+    },
+    {
+      "scanTime": "2026-11-16T15:59:59.999000+00:00",
+      "btcReturn": 0.0379,
+      "altSeasonIndex": 41.18,
+      "leader": "SOXS"
     }
   ]
 }
