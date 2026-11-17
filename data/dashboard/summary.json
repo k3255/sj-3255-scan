@@ -1,18 +1,16 @@
 {
-  "scanTime": "2026-11-17T11:59:59.999000+00:00",
-  "btcReturn": 0.4009,
-  "altSeasonIndex": 58.82,
-  "leader": "ZEC",
+  "scanTime": "2026-11-17T19:59:59.999000+00:00",
+  "btcReturn": -0.5521,
+  "altSeasonIndex": 81.25,
+  "leader": "SOXS",
   "newEntries": [
-    "SNDK",
-    "SNXX",
-    "MU",
-    "SOXL",
-    "SOL"
+    "SKHYNIX",
+    "SKHY",
+    "ETH"
   ],
   "recommended": [
-    "ZEC",
-    "SNDK",
-    "SOXS"
+    "SOXS",
+    "SKHYNIX",
+    "MU"
   ]
 }
