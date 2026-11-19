@@ -1,16 +1,16 @@
 {
-  "scanTime": "2026-11-18T23:59:59.999000+00:00",
-  "btcReturn": 0.4902,
-  "altSeasonIndex": 66.67,
-  "leader": "SOXL",
+  "scanTime": "2026-11-19T11:59:59.999000+00:00",
+  "btcReturn": 0.3331,
+  "altSeasonIndex": 62.5,
+  "leader": "ANT",
   "newEntries": [
-    "SOXL",
-    "KORU",
-    "SKHYNIX"
+    "ANT",
+    "SPCX",
+    "SNDK"
   ],
   "recommended": [
-    "SOXL",
-    "SOL",
-    "ETH"
+    "ANT",
+    "KORU",
+    "XRP"
   ]
 }
