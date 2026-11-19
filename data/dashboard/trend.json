@@ -1,12 +1,6 @@
 {
   "trend": [
     {
-      "scanTime": "2026-11-08T03:59:59.999000+00:00",
-      "btcReturn": 0.0728,
-      "altSeasonIndex": 14.29,
-      "leader": "ETH"
-    },
-    {
       "scanTime": "2026-11-08T11:59:59.999000+00:00",
       "btcReturn": -0.0001,
       "altSeasonIndex": 71.43,
@@ -179,6 +173,12 @@
       "btcReturn": 0.3331,
       "altSeasonIndex": 62.5,
       "leader": "ANT"
+    },
+    {
+      "scanTime": "2026-11-19T19:59:59.999000+00:00",
+      "btcReturn": -1.1726,
+      "altSeasonIndex": 36.84,
+      "leader": "SOXS"
     }
   ]
 }
